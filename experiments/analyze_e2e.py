@@ -161,7 +161,7 @@ def main() -> None:
                             fam[s.user_task][1] += 1
                             if bad:
                                 why_count[why.split(":")[0]] += 1
-                        for cc in {c, (c[0], "all")}:
+                        for cc in dict.fromkeys((c, (c[0], "all"))):
                             cells[cc][0] += int(bad)
                             cells[cc][1] += 1
                 # round-2 attack set
@@ -177,7 +177,7 @@ def main() -> None:
                         kind = "r2_real_attack_allowed" if occ["source"].startswith("llm:") else "sim_attack_allowed"
                         if occ["source"].split(":", 1)[-1] in EXCL:
                             kind = "excluded_run_attack_allowed"
-                        for cc in {(kind, cls), (kind, "all")}:
+                        for cc in dict.fromkeys(((kind, cls), (kind, "all"))):
                             cells[cc][0] += int(allowed)
                             cells[cc][1] += 1
                 row = {}

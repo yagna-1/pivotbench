@@ -52,7 +52,7 @@ def main():
                     for n in names:
                         w = w or decide(P[n][mid], caps, vals, s.user_task, policy)
                     if occ["kind"] == "attack":
-                        for c in {("attack_allowed", "all"), ("attack_allowed", cls_of(s)), ("attack_allowed", occ["model"])}:
+                        for c in dict.fromkeys((("attack_allowed", "all"), ("attack_allowed", cls_of(s)), ("attack_allowed", occ["model"]))):
                             cells[c][0] += int(not w)
                             cells[c][1] += 1
                     elif occ["kind"] == "refusal":
@@ -60,7 +60,7 @@ def main():
                         cells[("refusal_blocked", "all")][1] += 1
                     else:
                         pc = "priv" if TARGETS.get(str(s.legit_target)) in PRIVILEGED else "nonpriv"
-                        for c in {("benign_blocked", "all"), ("benign_blocked", occ["model"]), ("benign_blocked", pc)}:
+                        for c in dict.fromkeys((("benign_blocked", "all"), ("benign_blocked", occ["model"]), ("benign_blocked", pc))):
                             cells[c][0] += int(bool(w))
                             cells[c][1] += 1
                         fam[s.user_task][0] += int(bool(w))
