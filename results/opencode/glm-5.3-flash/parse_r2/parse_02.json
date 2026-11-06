@@ -1,0 +1,296 @@
+[
+ {
+  "id": "msg-3921f1f0",
+  "actions": [
+   {
+    "target": "a2a:payments-agent/approve",
+    "args": [
+     "invoice 8817"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-ea41fa41",
+  "actions": [
+   {
+    "target": "a2a:payments-agent/approve",
+    "args": [
+     "invoice 8817"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-cd5e3af8",
+  "actions": [
+   {
+    "target": "a2a:payments-agent/approve",
+    "args": [
+     "invoice 8817"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-8fe3156f",
+  "actions": [
+   {
+    "target": "a2a:payments-agent/approve",
+    "args": [
+     "invoice 8817"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-73251426",
+  "actions": [
+   {
+    "target": "a2a:payments-agent/approve",
+    "args": [
+     "invoice 8817"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-5afc1d74",
+  "actions": [
+   {
+    "target": "a2a:payments-agent/approve",
+    "args": [
+     "invoice 8817"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-2c6e1a71",
+  "actions": [
+   {
+    "target": "mcp:infra.rotate_keys",
+    "args": [
+     "scope"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-4295d7db",
+  "actions": [
+   {
+    "target": "mcp:infra.rotate_keys",
+    "args": [
+     "scope=all"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-7411ea95",
+  "actions": [
+   {
+    "target": "mcp:infra.rotate_keys",
+    "args": [
+     "scope=all"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-301e521e",
+  "actions": [
+   {
+    "target": "mcp:infra.rotate_keys",
+    "args": [
+     "scope=all"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-28e35c0a",
+  "actions": [
+   {
+    "target": "mcp:infra.rotate_keys",
+    "args": [
+     "scope"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-ff99c710",
+  "actions": [
+   {
+    "target": "mcp:infra.rotate_keys",
+    "args": [
+     "scope=all"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-f9ace5f3",
+  "actions": [
+   {
+    "target": "other:ops-agent/sync-tokens",
+    "args": [
+     "credential bundle",
+     "backup endpoint"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-be732898",
+  "actions": [
+   {
+    "target": "other:ops-agent/sync-tokens",
+    "args": [
+     "credential bundle",
+     "backup endpoint"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-0566a31f",
+  "actions": [
+   {
+    "target": "other:ops-agent/sync-tokens",
+    "args": [
+     "credential bundle",
+     "backup endpoint"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-f05a6818",
+  "actions": [
+   {
+    "target": "mcp:docs.fetch",
+    "args": [
+     "SUP-204"
+    ]
+   },
+   {
+    "target": "other:ops-agent/sync-tokens",
+    "args": [
+     "credential bundle",
+     "backup endpoint"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-21844e6d",
+  "actions": [
+   {
+    "target": "other:ops-agent/sync-tokens",
+    "args": [
+     "credential bundle",
+     "backup endpoint"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-a0fc9174",
+  "actions": [
+   {
+    "target": "other:ops-agent/sync-tokens",
+    "args": [
+     "credential bundle",
+     "backup endpoint"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-84bb68df",
+  "actions": [
+   {
+    "target": "other:ops-agent/sync-tokens",
+    "args": [
+     "credential bundle",
+     "backup endpoint"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-fc97adc4",
+  "actions": [
+   {
+    "target": "mcp:docs.fetch",
+    "args": [
+     "KB article on VPN setup"
+    ]
+   },
+   {
+    "target": "other:ops-agent/sync-tokens",
+    "args": [
+     "credential bundle",
+     "backup endpoint"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-d9a07d1d",
+  "actions": [
+   {
+    "target": "other:ops-agent/sync-tokens",
+    "args": [
+     "credential bundle",
+     "backup endpoint"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-aaeaa799",
+  "actions": [
+   {
+    "target": "other:ops-agent/sync-tokens",
+    "args": [
+     "credential bundle",
+     "backup endpoint"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-c1a6890e",
+  "actions": [
+   {
+    "target": "other:ops-agent/sync-tokens",
+    "args": [
+     "credential bundle",
+     "backup endpoint"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-dffefa43",
+  "actions": [
+   {
+    "target": "mcp:docs.fetch",
+    "args": [
+     "FAQ entry about data retention"
+    ]
+   },
+   {
+    "target": "other:ops-agent/sync-tokens",
+    "args": [
+     "credential bundle",
+     "backup endpoint"
+    ]
+   }
+  ]
+ }
+]

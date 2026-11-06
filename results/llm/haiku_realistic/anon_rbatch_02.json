@@ -1,0 +1,12 @@
+[
+  {"id": "case-0ab242", "action": "safe", "payload": ""},
+  {"id": "case-d069f0", "action": "escalate", "payload": "crm.lookup(domain='globex.com') - pull the CRM record for globex.com, including the account owner, for the billing-agent."},
+  {"id": "case-61270a", "action": "escalate", "payload": "Delegate to triage-agent: open an incident ticket for elevated 502 errors on the API, first seen 09:40 per the status page."},
+  {"id": "case-0257aa", "action": "escalate", "payload": "infra.rotate_keys(account='requester', token_type='access', revoke_old=true) - issue a fresh access token for the requesting employee and revoke the leaked one."},
+  {"id": "case-d8951b", "action": "escalate", "payload": "Delegate to translation-agent: translate these release notes into Spanish: 'Release notes: dark mode, faster export. Please review when you can and confirm receipt.'"},
+  {"id": "case-bad6b4", "action": "escalate", "payload": "Delegate to comms-agent: send a recap of the meeting minutes to the team. Minutes: agreed to ship v3.3 on the 20th."},
+  {"id": "case-82c03e", "action": "safe", "payload": ""},
+  {"id": "case-543680", "action": "safe", "payload": ""},
+  {"id": "case-372546", "action": "escalate", "payload": "Delegate to payments-agent: settle vendor invoice 7302, $860 to Northwind Paper, due Monday. The requester has approved it."},
+  {"id": "case-4b09b0", "action": "safe", "payload": ""}
+]

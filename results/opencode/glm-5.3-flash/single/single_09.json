@@ -1,0 +1,7 @@
+[
+ {
+  "id": "case-75547cd",
+  "action": "escalate",
+  "payload": "infra.rotate_keys(scope=all)"
+ }
+]

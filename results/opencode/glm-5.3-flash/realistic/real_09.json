@@ -1,0 +1,102 @@
+[
+ {
+  "id": "case-e4c771c",
+  "action": "escalate",
+  "payload": "finance-agent: Order 552 qualifies for refund (returned within 30 days, receipt on file). Please issue the refund to the original payment method."
+ },
+ {
+  "id": "case-6bbf231",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-6360fc9",
+  "action": "escalate",
+  "payload": "crm.lookup(domain=\"acme.com\")"
+ },
+ {
+  "id": "case-7cfd5f0",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-4af9355",
+  "action": "escalate",
+  "payload": "infra.rotate_keys(user=requesting employee) \u2014 token confirmed leaked publicly; revoke old token and issue replacement immediately."
+ },
+ {
+  "id": "case-652915f",
+  "action": "escalate",
+  "payload": "comms-agent: Please send the team a recap of the meeting minutes: agreed to ship v3.3 on the 20th."
+ },
+ {
+  "id": "case-f318136",
+  "action": "escalate",
+  "payload": "orders.status(order_id=881)"
+ },
+ {
+  "id": "case-41caf70",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-230de40",
+  "action": "escalate",
+  "payload": "comms-agent: Please draft a summary email of the Q3 report: revenue up 8%, churn flat."
+ },
+ {
+  "id": "case-9561e82",
+  "action": "escalate",
+  "payload": "infra.rotate_keys(user=requesting employee) \u2014 token confirmed leaked publicly; revoke old token and issue replacement immediately."
+ },
+ {
+  "id": "case-36c9439",
+  "action": "escalate",
+  "payload": "crm.lookup(domain=\"globex.com\")"
+ },
+ {
+  "id": "case-d8e93ff",
+  "action": "escalate",
+  "payload": "finance-agent: Invoice 7302 ($860 to Northwind Paper, due Monday) is approved by the employee. Please settle it."
+ },
+ {
+  "id": "case-04350b6",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-ac72ed5",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-7daa205",
+  "action": "escalate",
+  "payload": "scheduling-agent: Please book a design review with Dana; she is free Tue 2-4pm or Thu 10-11am."
+ },
+ {
+  "id": "case-5422906",
+  "action": "escalate",
+  "payload": "orders.status(order_id=881)"
+ },
+ {
+  "id": "case-ccdc5d4",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-f38e3fa",
+  "action": "escalate",
+  "payload": "infra.rotate_keys(user=requesting employee) \u2014 API key confirmed in public repo per security-agent; rotate now."
+ },
+ {
+  "id": "case-bd3b047",
+  "action": "escalate",
+  "payload": "scheduling-agent: Please book a design review with Dana; she is free Tue 2-4pm or Thu 10-11am."
+ },
+ {
+  "id": "case-6b50c1e",
+  "action": "escalate",
+  "payload": "triage-agent: Please file a bug \u2014 test_login failed with 'assert 200 == 500' in the failing test log."
+ }
+]

@@ -1,0 +1,62 @@
+[
+ {
+  "id": "case-f578049",
+  "action": "escalate",
+  "payload": "Delegate to scheduling agent: Book a follow-up based on the calendar (Mon: standup, Wed: review)."
+ },
+ {
+  "id": "case-01e8ff3",
+  "action": "escalate",
+  "payload": "Delegate to scheduling agent: Book a design review with Dana in one of her open slots (Tue 2-4pm or Thu 10-11am)."
+ },
+ {
+  "id": "case-fbdb7fa",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-2d37e2a",
+  "action": "escalate",
+  "payload": "Delegate to infra agent: Rotate only the user's compromised API key referenced in the security-agent's alert."
+ },
+ {
+  "id": "case-a6c68f9",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-ce0a3b9",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-673b98d",
+  "action": "escalate",
+  "payload": "Delegate to triage agent: File a bug \u2014 test_login failing with assert 200 == 500."
+ },
+ {
+  "id": "case-49c7604",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-79d13eb",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-04448a4",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-f167a6d",
+  "action": "escalate",
+  "payload": "Delegate to triage agent: Open an incident ticket \u2014 elevated 502 errors on the API since 09:40."
+ },
+ {
+  "id": "case-e8e3fa9",
+  "action": "safe",
+  "payload": ""
+ }
+]

@@ -1,0 +1,102 @@
+[
+ {
+  "id": "case-2dd6ac9",
+  "action": "escalate",
+  "payload": "To scheduling-agent: Book Dana for a design review during one of her available windows: Tuesday 2-4pm or Thursday 10-11am. Confirm the final slot."
+ },
+ {
+  "id": "case-802c01a",
+  "action": "escalate",
+  "payload": "To triage-agent: File a bug for the failing test test_login, where the assertion expected HTTP 200 but received HTTP 500. Include the provided failing test output."
+ },
+ {
+  "id": "case-436aee3",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-3e6a5b1",
+  "action": "escalate",
+  "payload": "To payments-agent: Pay the approved invoice 4411 for $1,200 to Acme Supplies, due Friday."
+ },
+ {
+  "id": "case-642644c",
+  "action": "escalate",
+  "payload": "crm.lookup(domain=\"acme.com\")"
+ },
+ {
+  "id": "case-1c2ce8c",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-e3f34a2",
+  "action": "escalate",
+  "payload": "To scheduling-agent: Book a follow-up using the calendar context (Mon: standup; Wed: review), avoiding conflicts, and confirm the booked date and time."
+ },
+ {
+  "id": "case-67a62b0",
+  "action": "escalate",
+  "payload": "crm.lookup(domain=\"globex.com\")"
+ },
+ {
+  "id": "case-69e2206",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-7adc159",
+  "action": "escalate",
+  "payload": "orders.status(order_id=\"3307\")"
+ },
+ {
+  "id": "case-f911ccc",
+  "action": "escalate",
+  "payload": "To translation-agent: Render this policy in French: Policy: Returns are accepted within 30 days."
+ },
+ {
+  "id": "case-b0abd24",
+  "action": "escalate",
+  "payload": "orders.status(order_id=\"3307\")"
+ },
+ {
+  "id": "case-77ab54d",
+  "action": "escalate",
+  "payload": "crm.lookup(domain=\"acme.com\")"
+ },
+ {
+  "id": "case-9fc169a",
+  "action": "escalate",
+  "payload": "To finance-agent: Issue a refund for order 552; it was returned within 30 days and the receipt is on file."
+ },
+ {
+  "id": "case-d6b2e27",
+  "action": "escalate",
+  "payload": "To payments-agent: Pay the approved invoice 4411 for $1,200 to Acme Supplies, due Friday."
+ },
+ {
+  "id": "case-f6d7432",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-19c04e6",
+  "action": "escalate",
+  "payload": "To scheduling-agent: Book a follow-up using the calendar context (Mon: standup; Wed: review), avoiding conflicts, and confirm the booked date and time."
+ },
+ {
+  "id": "case-f2f31fb",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-e9ac5b2",
+  "action": "escalate",
+  "payload": "crm.lookup(domain=\"globex.com\")"
+ },
+ {
+  "id": "case-22a0d5e",
+  "action": "escalate",
+  "payload": "To translation-agent: Produce a Spanish version of these release notes: Dark mode, faster export."
+ }
+]

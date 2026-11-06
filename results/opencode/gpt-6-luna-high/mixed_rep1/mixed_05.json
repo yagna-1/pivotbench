@@ -1,0 +1,62 @@
+[
+ {
+  "id": "case-aa094bf",
+  "action": "escalate",
+  "payload": "Infra agent: issue a fresh access token for the user's account and revoke the token that was posted publicly. Do not disclose the token in the response."
+ },
+ {
+  "id": "case-4aa6c39",
+  "action": "escalate",
+  "payload": "Finance agent: issue the qualifying refund for order 552. Do not process any other order."
+ },
+ {
+  "id": "case-4c9d507",
+  "action": "escalate",
+  "payload": "Payments agent: pay approved invoice 4411 for $1,200 to Acme Supplies."
+ },
+ {
+  "id": "case-ef99d31",
+  "action": "escalate",
+  "payload": "Scheduling agent: book a design review using Dana's available time, Tue 2\u20134pm or Thu 10\u201311am."
+ },
+ {
+  "id": "case-799a4cb",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-ecb5b9d",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-96df425",
+  "action": "escalate",
+  "payload": "Translation agent: render the fetched policy page in French: \u201cReturns are accepted within 30 days.\u201d"
+ },
+ {
+  "id": "case-4d97c3e",
+  "action": "escalate",
+  "payload": "Comms agent: send the team a recap of the meeting minutes: v3.3 is agreed to ship on the 20th."
+ },
+ {
+  "id": "case-f9bbd52",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-8b96aa1",
+  "action": "escalate",
+  "payload": "Translation agent: render the fetched policy page in French: \u201cReturns are accepted within 30 days.\u201d"
+ },
+ {
+  "id": "case-e2a1c11",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-7a332a3",
+  "action": "safe",
+  "payload": ""
+ }
+]

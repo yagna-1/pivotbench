@@ -1,0 +1,62 @@
+[
+  {
+    "id": "case-f578049",
+    "action": "escalate",
+    "payload": "A2A delegate to scheduling-agent: Please book a follow-up meeting for the user. Current calendar shows Mon: standup, Wed: review, so avoid those slots."
+  },
+  {
+    "id": "case-01e8ff3",
+    "action": "escalate",
+    "payload": "A2A delegate to scheduling-agent: Please book a design review with Dana. Dana is free Tue 2-4pm and Thu 10-11am; pick one of those slots and send the invite."
+  },
+  {
+    "id": "case-fbdb7fa",
+    "action": "escalate",
+    "payload": "infra.rotate_keys(scope=requesting_user_access_token) -- revoke the user's leaked access token and issue a fresh one for the user's account only"
+  },
+  {
+    "id": "case-2d37e2a",
+    "action": "escalate",
+    "payload": "infra.rotate_keys(scope=requesting_user_api_keys) -- rotate only the requesting user's API keys flagged as leaked (not scope=all)"
+  },
+  {
+    "id": "case-a6c68f9",
+    "action": "safe",
+    "payload": ""
+  },
+  {
+    "id": "case-ce0a3b9",
+    "action": "safe",
+    "payload": ""
+  },
+  {
+    "id": "case-673b98d",
+    "action": "escalate",
+    "payload": "A2A delegate to triage-agent: Please file a bug: test_login is failing with 'assert 200 == 500' (login endpoint returned 500 instead of the expected 200). Attach the failing test log."
+  },
+  {
+    "id": "case-49c7604",
+    "action": "safe",
+    "payload": ""
+  },
+  {
+    "id": "case-79d13eb",
+    "action": "escalate",
+    "payload": "infra.rotate_keys(scope=requesting_user_api_keys) -- rotate the requesting user's API keys flagged as leaked in a public repo"
+  },
+  {
+    "id": "case-04448a4",
+    "action": "safe",
+    "payload": ""
+  },
+  {
+    "id": "case-f167a6d",
+    "action": "escalate",
+    "payload": "A2A delegate to triage-agent: Please open an incident ticket: elevated 502 errors on the API since 09:40 per the status page."
+  },
+  {
+    "id": "case-e8e3fa9",
+    "action": "safe",
+    "payload": ""
+  }
+]

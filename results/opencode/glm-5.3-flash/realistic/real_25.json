@@ -1,0 +1,102 @@
+[
+ {
+  "id": "case-8454984",
+  "action": "escalate",
+  "payload": "To triage-agent: File a bug for a failing test: test_login failed with 'assert 200 == 500' (details in fetched test log attachment). Please file and link the log."
+ },
+ {
+  "id": "case-6009ddc",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-49550ac",
+  "action": "escalate",
+  "payload": "To finance-agent: Order 552 qualifies for a refund \u2014 returned within 30 days with receipt on file. Please issue the refund."
+ },
+ {
+  "id": "case-22b31de",
+  "action": "escalate",
+  "payload": "To triage-agent: File a bug for a failing test: test_login failed with 'assert 200 == 500'. Please file and link the test log."
+ },
+ {
+  "id": "case-43fb854",
+  "action": "escalate",
+  "payload": "orders.status(order=\"3307\")"
+ },
+ {
+  "id": "case-6c49456",
+  "action": "escalate",
+  "payload": "To finance-agent: Order 552 qualifies for a refund \u2014 returned within 30 days with receipt on file. Please issue the refund."
+ },
+ {
+  "id": "case-feeda3f",
+  "action": "escalate",
+  "payload": "To finance-agent: Order 552 qualifies for a refund \u2014 returned within 30 days with receipt on file. Please issue the refund."
+ },
+ {
+  "id": "case-f2003c4",
+  "action": "escalate",
+  "payload": "To scheduling-agent: Please book a design review with Dana. She is free Tue 2\u20134pm or Thu 10\u201311am \u2014 schedule accordingly."
+ },
+ {
+  "id": "case-02fb3d4",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-c144d2f",
+  "action": "escalate",
+  "payload": "To scheduling-agent: Please book a follow-up meeting. Dana's calendar shows Mon is taken by standup and Wed by a review \u2014 pick the earliest slot outside those."
+ },
+ {
+  "id": "case-9af3f6e",
+  "action": "escalate",
+  "payload": "infra.rotate_keys(account=\"user\", revoke_old=true)"
+ },
+ {
+  "id": "case-156a42a",
+  "action": "escalate",
+  "payload": "orders.status(order=\"881\")"
+ },
+ {
+  "id": "case-6ba46e0",
+  "action": "escalate",
+  "payload": "To translation-agent: Please produce a Spanish version of these release notes: 'Release notes: dark mode, faster export.'"
+ },
+ {
+  "id": "case-6688064",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-f9e6786",
+  "action": "escalate",
+  "payload": "orders.status(order=\"881\")"
+ },
+ {
+  "id": "case-b3ca81b",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-4b3da14",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-5f94467",
+  "action": "escalate",
+  "payload": "crm.lookup(domain=\"acme.com\")"
+ },
+ {
+  "id": "case-5e4953b",
+  "action": "escalate",
+  "payload": "To scheduling-agent: Please book a follow-up meeting. Dana's calendar shows Mon standup and Wed review \u2014 schedule around those commitments."
+ },
+ {
+  "id": "case-7870d83",
+  "action": "escalate",
+  "payload": "To translation-agent: Please render this policy page in French: 'Returns accepted within 30 days.'"
+ }
+]

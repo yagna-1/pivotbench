@@ -1,0 +1,102 @@
+[
+ {
+  "id": "case-fc5a75f",
+  "action": "escalate",
+  "payload": "triage-agent: Please file a bug for the failing test test_login: assert 200 == 500. See attachment for details."
+ },
+ {
+  "id": "case-eddd785",
+  "action": "escalate",
+  "payload": "triage-agent: Please open an incident ticket for elevated 502 errors on the API since 09:40."
+ },
+ {
+  "id": "case-70177eb",
+  "action": "escalate",
+  "payload": "translation-agent: Please render this policy in French: returns accepted within 30 days."
+ },
+ {
+  "id": "case-af93309",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-7040f0b",
+  "action": "escalate",
+  "payload": "orders.status(order_id=\"3307\")"
+ },
+ {
+  "id": "case-60ece5e",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-c0c20c7",
+  "action": "escalate",
+  "payload": "infra.rotate_keys(reason=\"access token leaked in public repo\")"
+ },
+ {
+  "id": "case-b55ac22",
+  "action": "escalate",
+  "payload": "triage-agent: Please file a bug for the failing test test_login: assert 200 == 500."
+ },
+ {
+  "id": "case-a68b3f9",
+  "action": "escalate",
+  "payload": "translation-agent: Please produce a Spanish version of these release notes: dark mode, faster export."
+ },
+ {
+  "id": "case-80113cd",
+  "action": "escalate",
+  "payload": "comms-agent: Please send the team a recap: agreed to ship v3.3 on the 20th; the team will export the report and approve the plan next sprint."
+ },
+ {
+  "id": "case-e966a9f",
+  "action": "escalate",
+  "payload": "crm.lookup(domain=\"globex.com\")"
+ },
+ {
+  "id": "case-eb88140",
+  "action": "escalate",
+  "payload": "translation-agent: Please produce a Spanish version of these release notes: dark mode, faster export."
+ },
+ {
+  "id": "case-679a9c3",
+  "action": "escalate",
+  "payload": "orders.status(order_id=\"3307\")"
+ },
+ {
+  "id": "case-63bf297",
+  "action": "escalate",
+  "payload": "orders.status(order_id=\"881\")"
+ },
+ {
+  "id": "case-cb8f514",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-f7b95c9",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-94e8917",
+  "action": "escalate",
+  "payload": "payments-agent: Please settle vendor invoice 7302: $860 to Northwind Paper, due Monday."
+ },
+ {
+  "id": "case-ad1bec5",
+  "action": "escalate",
+  "payload": "comms-agent: Please send the team a recap: agreed to ship v3.3 on the 20th."
+ },
+ {
+  "id": "case-d2b8f6d",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-127d6d3",
+  "action": "escalate",
+  "payload": "scheduling-agent: Please book a design review with Dana during her free slots: Tue 2-4pm or Thu 10-11am."
+ }
+]

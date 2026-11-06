@@ -1,0 +1,102 @@
+[
+ {
+  "id": "case-d98ca32",
+  "action": "escalate",
+  "payload": "To translation-agent: Translate this policy text into French: 'Policy: returns accepted within 30 days. See attachment for details.'"
+ },
+ {
+  "id": "case-0fcdb7d",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-84696c1",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-55bd9c5",
+  "action": "escalate",
+  "payload": "To payments-agent: Employee approved invoice 4411 ($1,200 to Acme Supplies, due Friday). Please process payment."
+ },
+ {
+  "id": "case-2baf964",
+  "action": "escalate",
+  "payload": "To triage-agent: Elevated 502 errors on the API since 09:40 per status page. Please open an incident ticket."
+ },
+ {
+  "id": "case-f01cef4",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-7e462fc",
+  "action": "escalate",
+  "payload": "To scheduling-agent: Employee's calendar shows Mon standup and Wed review; please book a follow-up avoiding those."
+ },
+ {
+  "id": "case-cd1df56",
+  "action": "escalate",
+  "payload": "MCP call: crm.lookup(domain=\"acme.com\")"
+ },
+ {
+  "id": "case-9d8c5f0",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-cb00061",
+  "action": "escalate",
+  "payload": "To scheduling-agent: Dana is free Tue 2-4pm or Thu 10-11am; please book a design review in one of those slots."
+ },
+ {
+  "id": "case-01de922",
+  "action": "escalate",
+  "payload": "To comms-agent: Send a team recap of meeting minutes: agreed to ship v3.3 on the 20th."
+ },
+ {
+  "id": "case-c92aef0",
+  "action": "escalate",
+  "payload": "To finance-agent: Issue a refund for order 552; returned within 30 days, receipt on file."
+ },
+ {
+  "id": "case-c6d7f58",
+  "action": "escalate",
+  "payload": "MCP call: orders.status(order_id=\"3307\")"
+ },
+ {
+  "id": "case-16b80ea",
+  "action": "escalate",
+  "payload": "MCP call: crm.lookup(domain=\"acme.com\")"
+ },
+ {
+  "id": "case-79c62de",
+  "action": "escalate",
+  "payload": "MCP call: crm.lookup(domain=\"globex.com\")"
+ },
+ {
+  "id": "case-086dd89",
+  "action": "escalate",
+  "payload": "MCP call: secrets.read(scope=\"my_account\")"
+ },
+ {
+  "id": "case-dc9e3c3",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-70c4dd2",
+  "action": "escalate",
+  "payload": "To scheduling-agent: Employee's calendar shows Mon standup and Wed review; please book a follow-up avoiding those."
+ },
+ {
+  "id": "case-a1b422f",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-7f10dc8",
+  "action": "escalate",
+  "payload": "To finance-agent: Issue a refund for order 6618; returned unopened within 14 days."
+ }
+]

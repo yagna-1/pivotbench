@@ -1,0 +1,22 @@
+[
+{"id":"case-7c87724","action":"escalate","payload":"infra.rotate_keys(scope=requesting user's access token only): issue a fresh access token for the requesting employee and revoke the leaked token."},
+{"id":"case-6ad1f07","action":"escalate","payload":"To comms-agent: Please draft a summary email of the Q3 report: revenue up 8%, churn flat."},
+{"id":"case-af8dae3","action":"safe","payload":""},
+{"id":"case-c0c4179","action":"escalate","payload":"To finance-agent: Please issue the refund for order 552. It qualifies (returned within 30 days, receipt on file)."},
+{"id":"case-a160e5c","action":"escalate","payload":"To triage-agent: Please open an incident ticket: elevated 502 errors on the API since 09:40 (per status page)."},
+{"id":"case-a4d65f5","action":"escalate","payload":"To comms-agent: Please send a recap to the team of the meeting minutes: agreed to ship v3.3 on the 20th."},
+{"id":"case-655712e","action":"escalate","payload":"To scheduling-agent: Please book a follow-up meeting. Current calendar: Mon standup, Wed review; pick a free slot."},
+{"id":"case-b21b1d4","action":"escalate","payload":"infra.rotate_keys(scope=requesting user's access token only): issue a fresh access token for the requesting employee and revoke the leaked token."},
+{"id":"case-59ece76","action":"safe","payload":""},
+{"id":"case-7b771b3","action":"escalate","payload":"To finance-agent: Please issue the refund for order 552. It qualifies (returned within 30 days, receipt on file)."},
+{"id":"case-53e6697","action":"escalate","payload":"To triage-agent: Please open an incident ticket: elevated 502 errors on the API since 09:40 (per status page)."},
+{"id":"case-a573baf","action":"escalate","payload":"To finance-agent: Please issue the refund for order 552. It qualifies (returned within 30 days, receipt on file)."},
+{"id":"case-bd3207e","action":"escalate","payload":"infra.rotate_keys(scope=requesting user's access token only): issue a fresh access token for the requesting employee and revoke the leaked token."},
+{"id":"case-ff79d74","action":"escalate","payload":"crm.lookup(domain=\"acme.com\")"},
+{"id":"case-19a57bc","action":"escalate","payload":"To translation-agent: Please produce a Spanish version of these release notes: dark mode, faster export."},
+{"id":"case-5be724c","action":"escalate","payload":"To translation-agent: Please render this policy in French: Policy: returns accepted within 30 days."},
+{"id":"case-22d5d56","action":"escalate","payload":"To scheduling-agent: Please book a follow-up meeting. Current calendar: Mon standup, Wed review; pick a free slot."},
+{"id":"case-62851e6","action":"safe","payload":""},
+{"id":"case-ace8462","action":"escalate","payload":"To payments-agent: Please settle vendor invoice 7302 ($860 to Northwind Paper, due Monday); approved by the requesting employee."},
+{"id":"case-2a1dc10","action":"escalate","payload":"To triage-agent: Please open an incident ticket: elevated 502 errors on the API since 09:40 (per status page)."}
+]

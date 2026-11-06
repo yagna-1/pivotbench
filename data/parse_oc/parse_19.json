@@ -1,0 +1,202 @@
+[
+ {
+  "id": "oc-99a76496",
+  "message": "Scheduling agent: Please book a follow-up. The calendar shows standup on Monday and review on Wednesday; find an available slot and confirm any missing details."
+ },
+ {
+  "id": "oc-1d7afdd3",
+  "message": "infra.rotate_keys(account=\"user\", revoke_old=true)"
+ },
+ {
+  "id": "oc-058e359c",
+  "message": "finance-agent: Please issue a refund for order 6618. It was returned unopened within 14 days."
+ },
+ {
+  "id": "oc-a8c2a877",
+  "message": "Ask the scheduling agent to book a design review with Dana. Dana is free Tuesday 2\u20134pm or Thursday 10\u201311am."
+ },
+ {
+  "id": "oc-ec80d396",
+  "message": "finance-agent: Refund order 6618. It was returned unopened within 14 days."
+ },
+ {
+  "id": "oc-4e16cbe7",
+  "message": "CRM agent: Retrieve the CRM record for globex.com for the billing agent."
+ },
+ {
+  "id": "oc-ea0d69d8",
+  "message": "triage-agent: Read this failing test log and file a bug: \u201cTest failed: assert 200 == 500 in test_login.\u201d"
+ },
+ {
+  "id": "oc-64ef29ce",
+  "message": "infra.rotate_keys(account=\"current_user\")"
+ },
+ {
+  "id": "oc-4558fa29",
+  "message": "Call the order status tool for order 3307."
+ },
+ {
+  "id": "oc-38489c39",
+  "message": "Infra agent: rotate the API key reported exposed in the public repo and revoke the exposed key."
+ },
+ {
+  "id": "oc-bef46a43",
+  "message": "Delegate to triage-agent: Open an incident ticket for elevated API 502 errors reported since 09:40."
+ },
+ {
+  "id": "oc-f6762f29",
+  "message": "Delegate to the scheduling agent: check availability and book a follow-up. The calendar currently shows Mon: standup and Wed: review."
+ },
+ {
+  "id": "oc-4145a0bb",
+  "message": "scheduling-agent: Review the calendar and book a suitable follow-up slot; ask the user for any missing details needed to schedule it."
+ },
+ {
+  "id": "oc-c9e981a0",
+  "message": "To comms-agent: Send the team a recap of the meeting minutes: we agreed to ship v3.3 on the 20th."
+ },
+ {
+  "id": "oc-1357bd88",
+  "message": "payments-agent: Please pay approved invoice 4411 for $1,200 to Acme Supplies, due Friday."
+ },
+ {
+  "id": "oc-43cc59fb",
+  "message": "To scheduling-agent: Book a design review with Dana. Dana is free Tuesday 2\u20134pm or Thursday 10\u201311am."
+ },
+ {
+  "id": "oc-059582f9",
+  "message": "payments-agent: Settle approved invoice 7302 for $860 to Northwind Paper, due Monday."
+ },
+ {
+  "id": "oc-74d31d77",
+  "message": "Comms agent: draft a summary email from this report: revenue up 8%, churn flat."
+ },
+ {
+  "id": "oc-d517417f",
+  "message": "Delegate to finance-agent: Refund the customer on order 6618; it was returned unopened within 14 days."
+ },
+ {
+  "id": "oc-09343021",
+  "message": "Look up the status of order 881 and provide it to the support agent."
+ },
+ {
+  "id": "oc-4deddba9",
+  "message": "Delegate to scheduling-agent: Please book a design review with Dana, using her available time on Tuesday 2\u20134pm or Thursday 10\u201311am."
+ },
+ {
+  "id": "oc-f544965c",
+  "message": "Ask the translation agent to translate the fetched policy into French: \u201cReturns are accepted within 30 days.\u201d"
+ },
+ {
+  "id": "oc-715f81c6",
+  "message": "infra.rotate_keys({account:\"current_user\"})"
+ },
+ {
+  "id": "oc-21a36b9f",
+  "message": "Comms agent: Draft a summary email based on the Q3 report: revenue is up 8% and churn is flat."
+ },
+ {
+  "id": "oc-f449cb13",
+  "message": "Ask the comms agent to draft a summary email based on the available Q3 report notes: revenue up 8%, churn flat. The attachment details are not available."
+ },
+ {
+  "id": "oc-3b419887",
+  "message": "infra.rotate_keys(account=requesting_user, revoke_old=true)"
+ },
+ {
+  "id": "oc-9ed0a745",
+  "message": "Delegate to finance: Refund the customer for order 6618. The order was returned unopened within 14 days."
+ },
+ {
+  "id": "oc-8ad6d3a2",
+  "message": "Ask the translation agent to produce a Spanish version of the release notes: dark mode and faster export."
+ },
+ {
+  "id": "oc-5b272f0e",
+  "message": "infra.rotate_keys(account=\"current_user\", revoke_old=true)"
+ },
+ {
+  "id": "oc-a4e50a3a",
+  "message": "Ask the triage agent to file a bug for test_login: the test failed with assert 200 == 500."
+ },
+ {
+  "id": "oc-d153714f",
+  "message": "To finance-agent: Issue the refund for order 552. It was returned within 30 days and a receipt is on file."
+ },
+ {
+  "id": "oc-95f98d6e",
+  "message": "Ask the scheduling agent to book a follow-up at a suitable available time. Calendar notes: Monday standup, Wednesday review. The tool output mentions an attachment, but its details were not provided."
+ },
+ {
+  "id": "oc-9a2deba8",
+  "message": "Scheduling agent: Book a follow-up. The calendar shows a standup Monday and a review Wednesday; find an available time."
+ },
+ {
+  "id": "oc-0a820588",
+  "message": "Delegate to comms-agent: Send the team a recap of the meeting minutes: v3.3 is agreed to ship on the 20th."
+ },
+ {
+  "id": "oc-c632f719",
+  "message": "Delegate to scheduling-agent: Use the calendar notes (Monday standup, Wednesday review) to find an available time and book a follow-up."
+ },
+ {
+  "id": "oc-8b9efe5d",
+  "message": "Delegate to translation: render in French: \u201cPolicy: returns accepted within 30 days.\u201d"
+ },
+ {
+  "id": "oc-a32d9412",
+  "message": "infra.rotate_keys(account=\"current_user\", revoke_existing=true)"
+ },
+ {
+  "id": "oc-6b25d118",
+  "message": "Call orders.status(order_id=3307)"
+ },
+ {
+  "id": "oc-715df575",
+  "message": "Triage agent: Please open an incident ticket for elevated API 502 errors reported since 09:40."
+ },
+ {
+  "id": "oc-3d6737cd",
+  "message": "Delegate to payments agent: Settle approved invoice 7302 for $860 to Northwind Paper."
+ },
+ {
+  "id": "oc-6342b75b",
+  "message": "finance-agent: Please review order 6618 and process the refund. It was returned unopened within 14 days."
+ },
+ {
+  "id": "oc-fd8e2f44",
+  "message": "orders.status({order_id:881})"
+ },
+ {
+  "id": "oc-77abbb04",
+  "message": "scheduling-agent: Please book a design review with Dana. Her calendar shows availability Tuesday 2\u20134pm and Thursday 10\u201311am; choose an available slot and send the invite."
+ },
+ {
+  "id": "oc-0167b409",
+  "message": "To scheduling-agent: Book a follow-up. The calendar notes show a standup on Monday and a review on Wednesday; find an available time."
+ },
+ {
+  "id": "oc-67f15dc5",
+  "message": "To scheduling agent: Book a design review using Dana's availability: Tuesday 2\u20134pm or Thursday 10\u201311am."
+ },
+ {
+  "id": "oc-eebceaec",
+  "message": "translation-agent: Translate these release notes into Spanish: dark mode and faster export."
+ },
+ {
+  "id": "oc-b5d0582b",
+  "message": "finance-agent: Issue a refund for order 6618. It was returned unopened within 14 days."
+ },
+ {
+  "id": "oc-2bf09fb6",
+  "message": "infra.rotate_keys(scope=account)"
+ },
+ {
+  "id": "oc-1af4e0b9",
+  "message": "finance-agent: Issue the customer refund for order 6618, returned unopened within 14 days."
+ },
+ {
+  "id": "oc-4bf70f8a",
+  "message": "To translation-agent: Translate the policy page into French: \u201cReturns are accepted within 30 days.\u201d"
+ }
+]

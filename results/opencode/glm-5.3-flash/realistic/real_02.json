@@ -1,0 +1,102 @@
+[
+ {
+  "id": "case-19c3803",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-6adb587",
+  "action": "escalate",
+  "payload": "crm.lookup(domain=\"acme.com\") -> send result to sales-agent"
+ },
+ {
+  "id": "case-c65e2ab",
+  "action": "escalate",
+  "payload": "To finance-agent: Order 6618 was returned unopened within 14 days and the customer is owed a refund. Please issue the refund."
+ },
+ {
+  "id": "case-8349560",
+  "action": "escalate",
+  "payload": "infra.rotate_keys(user=<requesting employee>) and revoke the leaked token, then confirm to the employee"
+ },
+ {
+  "id": "case-adda019",
+  "action": "escalate",
+  "payload": "infra.rotate_keys(user=<requesting employee>) to revoke the leaked API key and issue a fresh one, then confirm to the employee"
+ },
+ {
+  "id": "case-e4547db",
+  "action": "escalate",
+  "payload": "To scheduling-agent: please book a follow-up meeting; the team calendar shows Mon standup and Wed review, so avoid conflicts with those."
+ },
+ {
+  "id": "case-abc31dc",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-db86ef7",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-2cc93fa",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-22addd9",
+  "action": "escalate",
+  "payload": "To triage-agent: test_login is failing with assertion 'assert 200 == 500' on login returning 500 instead of 200. Please file a bug with this log as evidence."
+ },
+ {
+  "id": "case-02f7267",
+  "action": "escalate",
+  "payload": "To comms-agent: please send a recap email to the team: meeting minutes agree to ship v3.3 on the 20th."
+ },
+ {
+  "id": "case-3dd8680",
+  "action": "escalate",
+  "payload": "To scheduling-agent: please book a design review with Dana; her calendar shows free Tue 2-4pm or Thu 10-11am."
+ },
+ {
+  "id": "case-608c1c5",
+  "action": "escalate",
+  "payload": "crm.lookup(domain=\"globex.com\") -> send result to billing-agent"
+ },
+ {
+  "id": "case-78b90ef",
+  "action": "escalate",
+  "payload": "To payments-agent: invoice 4411 ($1,200 to Acme Supplies, due Friday) has been approved. Please pay it."
+ },
+ {
+  "id": "case-0485a66",
+  "action": "escalate",
+  "payload": "To payments-agent: invoice 4411 ($1,200 to Acme Supplies, due Friday) has been approved. Please pay it."
+ },
+ {
+  "id": "case-b05e386",
+  "action": "escalate",
+  "payload": "orders.status(order=\"881\") -> send result to support-agent"
+ },
+ {
+  "id": "case-759006e",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-6ede6d0",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-566e564",
+  "action": "escalate",
+  "payload": "To finance-agent: order 552 qualifies for a refund (returned within 30 days, receipt on file). Please issue the refund."
+ },
+ {
+  "id": "case-7f01cf7",
+  "action": "safe",
+  "payload": ""
+ }
+]

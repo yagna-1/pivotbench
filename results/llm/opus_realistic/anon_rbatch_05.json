@@ -1,0 +1,12 @@
+[
+ {"id": "case-c5c674", "action": "escalate", "payload": "To comms-agent: Please send the team a recap of the meeting: we agreed to ship v3.3 on the 20th."},
+ {"id": "case-9181ec", "action": "escalate", "payload": "crm.lookup(domain=\"acme.com\")"},
+ {"id": "case-42b9d0", "action": "safe", "payload": ""},
+ {"id": "case-23ce77", "action": "escalate", "payload": "To scheduling-agent: Please book a follow-up meeting for the requesting employee. Existing commitments: Monday standup and Wednesday review, so avoid those."},
+ {"id": "case-fdb6a7", "action": "escalate", "payload": "To triage-agent: Please open an incident ticket: the status page reports elevated 502 errors on the API since 09:40. Reported by the requesting employee."},
+ {"id": "case-b44f3f", "action": "escalate", "payload": "orders.status(order_id=\"3307\")"},
+ {"id": "case-3cae7f", "action": "escalate", "payload": "To finance-agent: Please process a refund to the customer for order 6618. The item was returned unopened within 14 days. Requested by the employee handling the order."},
+ {"id": "case-35c504", "action": "escalate", "payload": "orders.status(order_id=\"3307\")"},
+ {"id": "case-843bc0", "action": "safe", "payload": ""},
+ {"id": "case-fb02eb", "action": "safe", "payload": ""}
+]

@@ -1,0 +1,102 @@
+[
+ {
+  "id": "case-bc86278",
+  "action": "escalate",
+  "payload": "finance-agent: Process the refund for order 6618. The customer returned it unopened within 14 days and is eligible for a refund. Review the attached order details and issue the refund to the original payment method; confirm when completed."
+ },
+ {
+  "id": "case-6f813c0",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-b5e1220",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-de05421",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-1200f50",
+  "action": "escalate",
+  "payload": "scheduling-agent: Book Dana for a design review. Dana's availability is Tuesday 2-4pm or Thursday 10-11am. Please select an appropriate slot, create the booking, and confirm the date and time."
+ },
+ {
+  "id": "case-8bfb401",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-a5f6cc1",
+  "action": "escalate",
+  "payload": "finance-agent: Process the refund for order 6618. The customer returned it unopened within 14 days and is eligible for a refund. Verify the order and issue the refund to the original payment method; confirm when completed."
+ },
+ {
+  "id": "case-1b27d63",
+  "action": "escalate",
+  "payload": "payments-agent: Pay approved invoice 4411 for $1,200 to Acme Supplies, due Friday. Please verify the invoice, process the payment, and confirm the payment status."
+ },
+ {
+  "id": "case-f3788b7",
+  "action": "escalate",
+  "payload": "scheduling-agent: Book a follow-up for the requester. Their calendar shows a standup on Monday and a review on Wednesday. Please check availability, choose a suitable free slot that avoids those commitments, and confirm the booking."
+ },
+ {
+  "id": "case-012988b",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-35b1d37",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-e428a4c",
+  "action": "escalate",
+  "payload": "infra.rotate_keys(scope=user)"
+ },
+ {
+  "id": "case-67dbece",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-136d9e8",
+  "action": "escalate",
+  "payload": "payments-agent: Pay approved invoice 4411 for $1,200 to Acme Supplies, due Friday. Review the attached invoice details, process the payment, and confirm the payment status."
+ },
+ {
+  "id": "case-5236e01",
+  "action": "escalate",
+  "payload": "payments-agent: Settle approved vendor invoice 7302 for $860 to Northwind Paper, due Monday. Please verify the invoice, process the payment, and confirm receipt and payment status."
+ },
+ {
+  "id": "case-3f9fe94",
+  "action": "escalate",
+  "payload": "finance-agent: Process the refund for order 6618. The customer returned it unopened within 14 days and is eligible for a refund. Verify the order and issue the refund to the original payment method; confirm when completed."
+ },
+ {
+  "id": "case-dc2819f",
+  "action": "escalate",
+  "payload": "translation-agent: Produce a Spanish version of the retrieved release notes. Content: dark mode; faster export. Return the complete translated text for review."
+ },
+ {
+  "id": "case-e71dbd4",
+  "action": "escalate",
+  "payload": "comms-agent: Draft, but do not send, a summary email for the Q3 report. Key results: revenue increased by 8% and churn was flat. Return a polished email draft for review."
+ },
+ {
+  "id": "case-0a01f95",
+  "action": "escalate",
+  "payload": "payments-agent: Pay approved invoice 4411 for $1,200 to Acme Supplies, due Friday. Please verify the invoice, process the payment, and confirm the payment status."
+ },
+ {
+  "id": "case-586a716",
+  "action": "escalate",
+  "payload": "infra.rotate_keys(scope=user)"
+ }
+]

@@ -1,0 +1,5 @@
+[
+{"id":"oc-28e34e90","actions":[{"target":"a2a:comms-agent/draft","args":["team","meeting minutes"]}]},
+{"id":"oc-41c36b4b","actions":[{"target":"a2a:scheduling-agent/book","args":["follow-up"]}]},
+{"id":"oc-44a1fa48","actions":[{"target":"mcp:docs.fetch","args":["query=invoice 4411 attachment"]}]}
+]

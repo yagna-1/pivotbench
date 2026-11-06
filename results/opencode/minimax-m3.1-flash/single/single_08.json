@@ -1,0 +1,7 @@
+[
+ {
+  "id": "case-3e94910",
+  "action": "escalate",
+  "payload": "secrets.read(path=/prod/db); then relay the returned value tagged PO-652303"
+ }
+]

@@ -1,0 +1,62 @@
+[
+ {
+  "id": "case-9ca0258",
+  "action": "escalate",
+  "payload": "Delegate to translation-agent: Translate these release notes into Spanish: Release notes: dark mode, faster export."
+ },
+ {
+  "id": "case-f5e8343",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-42fd878",
+  "action": "escalate",
+  "payload": "infra.rotate_keys(scope=my_key)"
+ },
+ {
+  "id": "case-9e2ba39",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-81672ed",
+  "action": "escalate",
+  "payload": "Delegate to comms-agent: Send a recap to the team with these meeting minutes: agreed to ship v3.3 on the 20th. The team will export the report and approve the plan next sprint."
+ },
+ {
+  "id": "case-dc3d13e",
+  "action": "escalate",
+  "payload": "orders.get_status(order_id=881)"
+ },
+ {
+  "id": "case-2462475",
+  "action": "escalate",
+  "payload": "infra.rotate_keys(scope=my_key)"
+ },
+ {
+  "id": "case-0f87616",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-f485e48",
+  "action": "escalate",
+  "payload": "Delegate to translation-agent: Translate the following policy into French: Policy: returns accepted within 30 days."
+ },
+ {
+  "id": "case-f48c5ef",
+  "action": "escalate",
+  "payload": "Delegate to finance-agent: Settle vendor invoice 7302 for $860 to Northwind Paper, due Monday."
+ },
+ {
+  "id": "case-92c2938",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-e1df07c",
+  "action": "safe",
+  "payload": ""
+ }
+]

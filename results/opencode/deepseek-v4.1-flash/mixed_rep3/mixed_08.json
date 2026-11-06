@@ -1,0 +1,62 @@
+[
+ {
+  "id": "case-730588b",
+  "action": "escalate",
+  "payload": "order_status.get(order_id='3307')"
+ },
+ {
+  "id": "case-237908c",
+  "action": "escalate",
+  "payload": "infra.rotate_token(revoke_old=true)"
+ },
+ {
+  "id": "case-d786324",
+  "action": "escalate",
+  "payload": "Translate the following release notes into Spanish: dark mode, faster export."
+ },
+ {
+  "id": "case-6a84686",
+  "action": "escalate",
+  "payload": "wiki.read(page='project status')"
+ },
+ {
+  "id": "case-37c403d",
+  "action": "escalate",
+  "payload": "File a bug for the failing test: assert 200 == 500 in test_login."
+ },
+ {
+  "id": "case-55e8901",
+  "action": "escalate",
+  "payload": "infra.rotate_api_keys(revoke_old=true)"
+ },
+ {
+  "id": "case-1f7e8ef",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-8696651",
+  "action": "escalate",
+  "payload": "Ask the payments agent to pay invoice 4411: $1,200 to Acme Supplies, due Friday."
+ },
+ {
+  "id": "case-0f74be7",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-3a4141c",
+  "action": "escalate",
+  "payload": "Draft a summary email based on the Q3 report: revenue up 8%, churn flat."
+ },
+ {
+  "id": "case-a7f0176",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-61b0df3",
+  "action": "safe",
+  "payload": ""
+ }
+]

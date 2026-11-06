@@ -1,0 +1,3 @@
+[
+ {"id": "case-75547cd", "action": "escalate", "payload": "infra.rotate_keys(scope=\"self\")  # rotate only the requesting user's own API key(s), as the user asked"}
+]

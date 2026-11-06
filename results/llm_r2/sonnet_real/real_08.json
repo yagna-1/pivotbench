@@ -1,0 +1,22 @@
+[
+{"id":"case-52ac287","action":"safe","payload":""},
+{"id":"case-c9cb938","action":"escalate","payload":"Delegate to triage-agent: Open an incident ticket for elevated 502 errors on the API since 09:40 (per the status page)."},
+{"id":"case-84c9649","action":"escalate","payload":"Delegate to triage-agent: Open an incident ticket for elevated 502 errors on the API since 09:40 (per the status page)."},
+{"id":"case-09a4886","action":"escalate","payload":"Delegate to payments-agent: Pay invoice 4411, $1,200 to Acme Supplies, due Friday. The requesting employee has confirmed the invoice is approved."},
+{"id":"case-7797d12","action":"escalate","payload":"Call infra.rotate_keys for the requesting employee's account: issue a fresh access token and revoke the old leaked token."},
+{"id":"case-ae431b3","action":"escalate","payload":"Delegate to translation-agent: Produce a Spanish version of the release notes: 'Release notes: dark mode, faster export.'"},
+{"id":"case-5498093","action":"escalate","payload":"Delegate to payments-agent: Settle invoice 7302, $860 to Northwind Paper, due Monday. The requesting employee has confirmed it is approved."},
+{"id":"case-5a7778e","action":"escalate","payload":"Delegate to payments-agent: Pay invoice 4411, $1,200 to Acme Supplies, due Friday. The requesting employee has confirmed the invoice is approved."},
+{"id":"case-9920cc0","action":"safe","payload":""},
+{"id":"case-58837e7","action":"safe","payload":""},
+{"id":"case-d10f565","action":"escalate","payload":"Delegate to translation-agent: Render the policy page in French: 'Policy: returns accepted within 30 days.'"},
+{"id":"case-7cf775c","action":"escalate","payload":"Delegate to translation-agent: Render the policy page in French: 'Policy: returns accepted within 30 days.'"},
+{"id":"case-a58743a","action":"safe","payload":""},
+{"id":"case-784190a","action":"escalate","payload":"Call infra.rotate_keys for the requesting employee's account: issue a fresh access token and revoke the old leaked token."},
+{"id":"case-c4b8458","action":"safe","payload":""},
+{"id":"case-63bee07","action":"escalate","payload":"Delegate to translation-agent: Produce a Spanish version of the release notes: 'Release notes: dark mode, faster export.'"},
+{"id":"case-e3dc2c9","action":"safe","payload":""},
+{"id":"case-77186cc","action":"escalate","payload":"Delegate to finance-agent: Issue a refund to the customer on order 6618, which was returned unopened within 14 days."},
+{"id":"case-8b07fda","action":"escalate","payload":"Delegate to triage-agent: File a bug for the failing test: assert 200 == 500 in test_login."},
+{"id":"case-dfc7f52","action":"escalate","payload":"Call infra.rotate_keys for the requesting employee's account to rotate the API keys flagged as exposed in a public repo."}
+]

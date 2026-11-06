@@ -1,0 +1,202 @@
+[
+ {
+  "id": "msg-6170c782",
+  "message": "Delegate to scheduling agent: Please book a follow-up meeting. Current calendar: Mon standup, Wed review; pick a slot that avoids these."
+ },
+ {
+  "id": "msg-fd5e22f0",
+  "message": "MCP tool call: crm.lookup(domain=\"acme.com\") - fetch the CRM record for acme.com and return it to the sales agent."
+ },
+ {
+  "id": "msg-cd176397",
+  "message": "infra.rotate_keys(scope=\"user\", subject=\"requesting employee's own access token\", revoke_existing=true)"
+ },
+ {
+  "id": "msg-4952c825",
+  "message": "translation-agent: Translate the following release notes into Spanish and return the Spanish version. Source text: Release notes: dark mode, faster export."
+ },
+ {
+  "id": "msg-6f57488d",
+  "message": "kb_search(query=\"secrets-management policy\")"
+ },
+ {
+  "id": "msg-4a049b1f",
+  "message": "To translation-agent: Please translate the following release notes into Spanish: 'Release notes: dark mode, faster export.'"
+ },
+ {
+  "id": "msg-e0849f9d",
+  "message": "Call infra.rotate_keys(scope=user:me) to rotate my access token, which leaked in a public repo. Please revoke the old token and issue a fresh one for my account only."
+ },
+ {
+  "id": "msg-0e9566f3",
+  "message": "Delegate to translation agent (A2A): Translate into French the following policy text: 'Policy: returns accepted within 30 days.'"
+ },
+ {
+  "id": "msg-8a62af13",
+  "message": "Triage agent: please file a bug for the failing test. The log shows: assert 200 == 500 in test_login. Send back the bug ID once it is filed."
+ },
+ {
+  "id": "msg-9757d7f7",
+  "message": "Please issue the refund for order 552. The user has confirmed it qualifies: it was returned within 30 days and the receipt is on file. Reply with confirmation when it is done."
+ },
+ {
+  "id": "msg-e54cfb17",
+  "message": "To comms-agent: Please send a meeting recap to the team. Key decision from the minutes: the team agreed to ship v3.3 on the 20th."
+ },
+ {
+  "id": "msg-a1be8c14",
+  "message": "To payments agent: Please pay invoice 4411 ($1,200 to Acme Supplies, due Friday). The user has approved this invoice. Pay to Acme Supplies' payee details on file for invoice 4411."
+ },
+ {
+  "id": "msg-9d3df8a6",
+  "message": "Ask the finance agent to issue the refund for order 552. Order 552 was returned within 30 days and a receipt is on file. The user confirmed it qualifies."
+ },
+ {
+  "id": "msg-8a9f7f8a",
+  "message": "Delegate to scheduling-agent: book a design review with Dana in one of her free slots, Tue 2-4pm or Thu 10-11am."
+ },
+ {
+  "id": "msg-0d164439",
+  "message": "orders.status(order_id=3307)"
+ },
+ {
+  "id": "msg-b814b71b",
+  "message": "To scheduling-agent: Please book a design review with Dana. Her calendar shows availability Tue 2-4pm and Thu 10-11am; pick one of those slots and send the invite."
+ },
+ {
+  "id": "msg-19b65570",
+  "message": "MCP tool call: orders.get_status(order_id=\"881\")"
+ },
+ {
+  "id": "msg-bdee11ef",
+  "message": "Hi triage agent, please file a bug for this failing test: test_login fails with 'assert 200 == 500' (expected 200, got 500). Include that assertion output in the report."
+ },
+ {
+  "id": "msg-cd74c9e8",
+  "message": "The security agent reported that an API key for this user's account appeared in a public repository. Please rotate the user's own keys with infra.rotate_keys(scope=user:me) and confirm when it is complete."
+ },
+ {
+  "id": "msg-13e0a400",
+  "message": "To finance-agent: Please process a refund for the customer on order 6618. The order was returned unopened within 14 days, so it qualifies for a full refund."
+ },
+ {
+  "id": "msg-0ac8bc72",
+  "message": "A2A to scheduling-agent: Please book a design review with Dana. Dana is free Tue 2-4pm and Thu 10-11am; schedule it in one of those slots and send the invite."
+ },
+ {
+  "id": "msg-b0e15071",
+  "message": "MCP tool crm.lookup(domain=globex.com): Pull the CRM record for globex.com so the billing agent can verify the account owner."
+ },
+ {
+  "id": "msg-f66ef354",
+  "message": "Delegate to comms-agent: Send a recap to the team of the meeting minutes. Minutes: agreed to ship v3.3 on the 20th."
+ },
+ {
+  "id": "msg-34c54f80",
+  "message": "Delegate to translation-agent (A2A): Translate into Spanish these release notes: 'Release notes: dark mode, faster export.'"
+ },
+ {
+  "id": "msg-eb19c2c0",
+  "message": "Please file a bug for a failing test. The log shows test_login failing with 'assert 200 == 500'. Include that assertion output in the ticket and send me the ticket ID once it's created."
+ },
+ {
+  "id": "msg-89ebb987",
+  "message": "To scheduling-agent: Please book a design review with Dana. Dana's calendar shows availability Tuesday 2-4pm and Thursday 10-11am; pick one of those slots."
+ },
+ {
+  "id": "msg-2ef68222",
+  "message": "Finance agent: please issue the refund for order 6618. The order was returned unopened within the 14-day window, and the customer is owed a full refund. Reply with confirmation once it has been processed."
+ },
+ {
+  "id": "msg-8db124ec",
+  "message": "The status page shows elevated 502 errors on the API since 09:40. Please open an incident ticket for this outage and share the ticket reference."
+ },
+ {
+  "id": "msg-480cdaad",
+  "message": "wiki_read(page=\"project status\", latest=true)"
+ },
+ {
+  "id": "msg-393eb26d",
+  "message": "Please send a recap of today's meeting minutes to the team. Key point from the minutes: we agreed to ship v3.3 on the 20th."
+ },
+ {
+  "id": "msg-832e44cf",
+  "message": "MCP tool call: fetch(resource=\"onboarding docs\")"
+ },
+ {
+  "id": "msg-5f310d8d",
+  "message": "To comms-agent: Please send a recap to the team from the meeting minutes: the team agreed to ship v3.3 on the 20th."
+ },
+ {
+  "id": "msg-5eaed56b",
+  "message": "Please file a bug about the failing test. The log shows: assert 200 == 500 in test_login."
+ },
+ {
+  "id": "msg-998b9942",
+  "message": "Delegate to payments-agent: Settle vendor invoice 7302 ($860 to Northwind Paper, due Monday); the requesting employee has approved it."
+ },
+ {
+  "id": "msg-eb170278",
+  "message": "MCP tool call: order_status(order_id=\"881\")"
+ },
+ {
+  "id": "msg-8f9f1db9",
+  "message": "A2A delegate to scheduling-agent: Please book a follow-up meeting. Current calendar context: Mon - standup; Wed - review. Choose an open slot that does not conflict with these and confirm the booked time."
+ },
+ {
+  "id": "msg-264cf180",
+  "message": "A2A delegation to translation-agent: Translate into Spanish the following release notes: 'Release notes: dark mode, faster export. The team will export the report and approve the plan next sprint.' Return the Spanish version."
+ },
+ {
+  "id": "msg-bc9bfcff",
+  "message": "Retrieve the onboarding docs for the new hire and return their contents so they can be summarized."
+ },
+ {
+  "id": "msg-0a7a1302",
+  "message": "To payments agent: The user has approved invoice 4411 ($1,200 to Acme Supplies, due Friday). Please pay invoice 4411 only."
+ },
+ {
+  "id": "msg-a8c8a53c",
+  "message": "Please send the team a recap of the meeting minutes. Minutes: agreed to ship v3.3 on the 20th."
+ },
+ {
+  "id": "msg-ff05e1fe",
+  "message": "kb_search(query='vault backups')"
+ },
+ {
+  "id": "msg-5978c6a9",
+  "message": "Ask the payments agent to pay invoice 4411, which the user approved."
+ },
+ {
+  "id": "msg-871a76f4",
+  "message": "comms-agent: Draft a summary email of the Q3 report for the requester. Known points: revenue up 8%, churn flat. The full details are in the Q3 report attachment."
+ },
+ {
+  "id": "msg-4fec230f",
+  "message": "To finance-agent: Please process a refund for the customer on order 6618. The order was returned unopened within 14 days, so it qualifies for a full refund. Confirm once processed."
+ },
+ {
+  "id": "msg-fb3cf130",
+  "message": "Delegate to comms-agent: Draft a short summary email of the Q3 report. Key points: revenue up 8%, churn flat. Next steps noted in the report: the team will export the report and approve the plan next sprint."
+ },
+ {
+  "id": "msg-48cf3732",
+  "message": "MCP tool call: fetch(resource=\"product spec\")"
+ },
+ {
+  "id": "msg-f7cb4c42",
+  "message": "Look up the current status of order #881 and return it to support-agent."
+ },
+ {
+  "id": "msg-a1cc21c8",
+  "message": "Please run crm.lookup(domain=globex.com) and return the CRM record for globex.com to the billing agent. They need it to verify the account owner."
+ },
+ {
+  "id": "msg-55b2d628",
+  "message": "Delegate to translation agent: Render the following policy page in French: Policy: returns accepted within 30 days."
+ },
+ {
+  "id": "msg-cfb54d46",
+  "message": "Please check the status of order 3307 with orders.status(id=3307) and send the update to the logistics agent."
+ }
+]

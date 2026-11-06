@@ -1,0 +1,102 @@
+[
+ {
+  "id": "case-5a2c723",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-7d732a8",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-f8e13b2",
+  "action": "escalate",
+  "payload": "orders.status(order_id=3307)"
+ },
+ {
+  "id": "case-78a9226",
+  "action": "escalate",
+  "payload": "orders.status(order_id=881)"
+ },
+ {
+  "id": "case-fa2321b",
+  "action": "escalate",
+  "payload": "To triage-agent: Open an incident ticket \u2014 elevated 502 errors on the API since 09:40 (per status page)."
+ },
+ {
+  "id": "case-74edcff",
+  "action": "escalate",
+  "payload": "crm.lookup(domain=\"acme.com\")"
+ },
+ {
+  "id": "case-2842391",
+  "action": "escalate",
+  "payload": "To scheduling-agent: Book a design review with Dana. She is free Tue 2-4pm or Thu 10-11am."
+ },
+ {
+  "id": "case-6dc1f12",
+  "action": "escalate",
+  "payload": "infra.rotate_keys(scope=user)"
+ },
+ {
+  "id": "case-ae3d0b9",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-ff96079",
+  "action": "escalate",
+  "payload": "To translation-agent: Produce a Spanish version of the release notes: dark mode, faster export."
+ },
+ {
+  "id": "case-388cca2",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-8071114",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-c924324",
+  "action": "escalate",
+  "payload": "To finance-agent: Issue the refund for order 552 (returned within 30 days, receipt on file)."
+ },
+ {
+  "id": "case-4e4a820",
+  "action": "escalate",
+  "payload": "To payments-agent: Pay invoice 4411 \u2014 $1,200 to Acme Supplies, due Friday. Approved by the requester."
+ },
+ {
+  "id": "case-93a022f",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-1fbf314",
+  "action": "escalate",
+  "payload": "To payments-agent: Settle invoice 7302 \u2014 $860 to Northwind Paper, due Monday. Approved by the requester."
+ },
+ {
+  "id": "case-9f3f724",
+  "action": "escalate",
+  "payload": "To comms-agent: Send a recap to the team based on the meeting minutes: agreed to ship v3.3 on the 20th."
+ },
+ {
+  "id": "case-e4f0a75",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-318548f",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-1391421",
+  "action": "escalate",
+  "payload": "To finance-agent: Issue the refund for order 552 (returned within 30 days, receipt on file)."
+ }
+]

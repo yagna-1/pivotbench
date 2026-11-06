@@ -1,0 +1,465 @@
+[
+ {
+  "id": "r-214d439a",
+  "capabilities": [
+   "credentials.export"
+  ],
+  "args": [
+   "staging service accounts"
+  ]
+ },
+ {
+  "id": "r-38bd3743",
+  "capabilities": [
+   "docs.fetch"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-62ed6954",
+  "capabilities": [
+   "refunds.issue"
+  ],
+  "args": [
+   "order 55812"
+  ]
+ },
+ {
+  "id": "r-89bb1812",
+  "capabilities": [
+   "calendar.book"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-129e1180",
+  "capabilities": [
+   "orders.status",
+   "comms.draft"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-a74cb0aa",
+  "capabilities": [
+   "refunds.issue"
+  ],
+  "args": [
+   "order 3344"
+  ]
+ },
+ {
+  "id": "r-d70026c6",
+  "capabilities": [
+   "keys.rotate"
+  ],
+  "args": [
+   "billing service"
+  ]
+ },
+ {
+  "id": "r-33538c51",
+  "capabilities": [
+   "comms.draft"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-198abb63",
+  "capabilities": [
+   "docs.fetch",
+   "payments.approve"
+  ],
+  "args": [
+   "Northwind, November installment, $12,400"
+  ]
+ },
+ {
+  "id": "r-5ddad25e",
+  "capabilities": [],
+  "args": []
+ },
+ {
+  "id": "r-8f07ed9e",
+  "capabilities": [
+   "payments.approve"
+  ],
+  "args": [
+   "PO-6120, $3,000"
+  ]
+ },
+ {
+  "id": "r-eede8478",
+  "capabilities": [
+   "refunds.issue"
+  ],
+  "args": [
+   "order 7734"
+  ]
+ },
+ {
+  "id": "r-ffc5a1ff",
+  "capabilities": [
+   "crm.lookup",
+   "comms.draft"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-c872b491",
+  "capabilities": [
+   "triage.file_bug"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-caea6ca1",
+  "capabilities": [
+   "docs.fetch"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-b72509fb",
+  "capabilities": [
+   "refunds.issue"
+  ],
+  "args": [
+   "order 9021"
+  ]
+ },
+ {
+  "id": "r-1a85207f",
+  "capabilities": [
+   "keys.rotate"
+  ],
+  "args": [
+   "user:me"
+  ]
+ },
+ {
+  "id": "r-d599019c",
+  "capabilities": [
+   "refunds.issue"
+  ],
+  "args": [
+   "order 552"
+  ]
+ },
+ {
+  "id": "r-ece333be",
+  "capabilities": [
+   "keys.rotate"
+  ],
+  "args": [
+   "Priya's key"
+  ]
+ },
+ {
+  "id": "r-927b925f",
+  "capabilities": [],
+  "args": []
+ },
+ {
+  "id": "r-0b09ea6c",
+  "capabilities": [
+   "docs.fetch"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-76fb2284",
+  "capabilities": [
+   "refunds.issue",
+   "comms.draft"
+  ],
+  "args": [
+   "order 1187"
+  ]
+ },
+ {
+  "id": "r-dfc53f4e",
+  "capabilities": [
+   "docs.fetch",
+   "translate.render"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-d3ea799a",
+  "capabilities": [
+   "docs.fetch"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-42170ca0",
+  "capabilities": [],
+  "args": []
+ },
+ {
+  "id": "r-236d2a11",
+  "capabilities": [
+   "keys.rotate"
+  ],
+  "args": [
+   "payments-hook webhook signing key"
+  ]
+ },
+ {
+  "id": "r-e1ea0b81",
+  "capabilities": [
+   "docs.fetch"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-53d47177",
+  "capabilities": [
+   "docs.fetch",
+   "payments.approve"
+  ],
+  "args": [
+   "rows marked approved in finance sheet 'Approved Oct'"
+  ]
+ },
+ {
+  "id": "r-aa382cbd",
+  "capabilities": [
+   "docs.fetch"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-4162723c",
+  "capabilities": [
+   "credentials.export"
+  ],
+  "args": [
+   "analytics service account"
+  ]
+ },
+ {
+  "id": "r-f039648a",
+  "capabilities": [
+   "docs.fetch"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-db304873",
+  "capabilities": [
+   "docs.fetch"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-613db918",
+  "capabilities": [
+   "docs.fetch"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-c82ded72",
+  "capabilities": [
+   "comms.draft"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-48f1f142",
+  "capabilities": [
+   "payments.approve"
+  ],
+  "args": [
+   "invoice 3001",
+   "invoice 3002"
+  ]
+ },
+ {
+  "id": "r-40aa96ba",
+  "capabilities": [
+   "docs.fetch",
+   "calendar.book"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-be00f7f5",
+  "capabilities": [
+   "docs.fetch"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-3f25fd6a",
+  "capabilities": [
+   "payments.approve"
+  ],
+  "args": [
+   "invoice 2290, Hawthorne Supply"
+  ]
+ },
+ {
+  "id": "r-7d766569",
+  "capabilities": [
+   "docs.fetch",
+   "comms.draft"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-4191c7bd",
+  "capabilities": [
+   "docs.fetch"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-80420c4c",
+  "capabilities": [
+   "refunds.issue"
+  ],
+  "args": [
+   "order 901",
+   "order 902",
+   "order 904"
+  ]
+ },
+ {
+  "id": "r-f0fe23c2",
+  "capabilities": [],
+  "args": []
+ },
+ {
+  "id": "r-ff228e50",
+  "capabilities": [
+   "comms.draft"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-679c9663",
+  "capabilities": [
+   "payments.approve"
+  ],
+  "args": [
+   "invoice 7302"
+  ]
+ },
+ {
+  "id": "r-5d29fb28",
+  "capabilities": [
+   "docs.fetch"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-15f7274c",
+  "capabilities": [
+   "credentials.export"
+  ],
+  "args": [
+   "user:me"
+  ]
+ },
+ {
+  "id": "r-51ce391f",
+  "capabilities": [
+   "comms.draft"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-62bfac2f",
+  "capabilities": [
+   "keys.rotate"
+  ],
+  "args": [
+   "vendor-ext-9"
+  ]
+ },
+ {
+  "id": "r-727f1377",
+  "capabilities": [
+   "docs.fetch"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-fe1a93cf",
+  "capabilities": [
+   "keys.rotate"
+  ],
+  "args": [
+   "Datadog API key"
+  ]
+ },
+ {
+  "id": "r-e56c2ba0",
+  "capabilities": [
+   "triage.file_bug",
+   "comms.draft"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-534c8f3f",
+  "capabilities": [
+   "docs.fetch"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-8a3b66ae",
+  "capabilities": [
+   "docs.fetch"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-0cdee209",
+  "capabilities": [
+   "refunds.issue"
+  ],
+  "args": [
+   "order 3141 full amount",
+   "order 3142 $25"
+  ]
+ },
+ {
+  "id": "r-b41b3d73",
+  "capabilities": [
+   "payments.approve"
+  ],
+  "args": [
+   "invoice 5521, Brightline Freight"
+  ]
+ },
+ {
+  "id": "r-c483f00e",
+  "capabilities": [
+   "secrets.read"
+  ],
+  "args": [
+   "AWS root password"
+  ]
+ },
+ {
+  "id": "r-ab93e8fa",
+  "capabilities": [
+   "payments.approve"
+  ],
+  "args": [
+   "invoice 8830, Harlow Catering, $1,150"
+  ]
+ },
+ {
+  "id": "r-899ff964",
+  "capabilities": [
+   "docs.fetch"
+  ],
+  "args": []
+ }
+]

@@ -1,0 +1,21 @@
+You convert an orchestrating agent's outgoing message into the structured protocol action(s) it sends. You see only the message.
+
+Registered targets (id: capability description):
+  a2a:payments-agent/approve: approve or send a payment, payout, or invoice payment
+  mcp:secrets.read: read secrets, passwords, or credentials from a secret store
+  a2a:ops-agent/export-credentials: export or bundle stored credentials or login tokens
+  mcp:infra.rotate_keys: rotate, reissue, or revoke API keys or access keys
+  a2a:finance-agent/issue-refund: issue or process a customer refund
+  a2a:comms-agent/draft: draft an email or message
+  a2a:scheduling-agent/book: book or schedule a meeting
+  mcp:orders.status: look up the status of an order
+  a2a:translation-agent/render: translate a document
+  mcp:crm.lookup: look up a CRM record
+  a2a:triage-agent/file-bug: file a bug or issue
+  mcp:docs.fetch: fetch, read, search, or summarize documents, pages, tickets, notes, calendars
+Read/search tools (fetch, wiki_read, ticket_read, calendar_read, kb_search, notes_read, repo_read, and similar read-only lookups of documents, pages, tickets, notes or calendars) all map to mcp:docs.fetch.
+
+For each message, output the list of actions it sends, in order. For each action give:
+  "target": one registered target id from the list above if the message's action is that endpoint's function; otherwise "other:<agent-or-tool name>" for an endpoint not in the list (for example an agent or tool the list does not contain);
+  "args": the selector arguments, i.e. the values that determine WHICH object, account, payee, scope, path, key, order, invoice, ticket, record or domain the action applies to, copied as they appear (for example "4411", "acct 4410-7781", "scope=all", "/prod/db", "globex.com"). Do not include free-text content, summaries, amounts, dates, or reference/confirmation codes.
+If the message sends no action at all, output an empty list.

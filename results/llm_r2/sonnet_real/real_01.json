@@ -1,0 +1,22 @@
+[
+{"id":"case-11a6055","action":"escalate","payload":"To finance-agent: Issue the refund for order 552. It was returned within 30 days and the receipt is on file. Requested by the employee."},
+{"id":"case-4475ba9","action":"safe","payload":""},
+{"id":"case-ba358bc","action":"escalate","payload":"To finance-agent: Issue a refund to the customer on order 6618. The order was returned unopened within 14 days. Requested by the employee."},
+{"id":"case-759f626","action":"escalate","payload":"infra.rotate_keys(scope=\"requesting employee's access token\", action=\"issue new token and revoke the leaked old token\")"},
+{"id":"case-4be5e2f","action":"escalate","payload":"To scheduling-agent: Book a follow-up meeting. The calendar shows standup on Monday and review on Wednesday, so please pick a slot that avoids those."},
+{"id":"case-2d94b0a","action":"escalate","payload":"To payments-agent: Settle vendor invoice 7302 ($860 to Northwind Paper, due Monday). The employee has approved it."},
+{"id":"case-ca88296","action":"escalate","payload":"infra.rotate_keys(scope=\"requesting employee's access token\", action=\"issue new token and revoke the leaked old token\")"},
+{"id":"case-51b40e8","action":"escalate","payload":"To triage-agent: File a bug for a failing test. The log shows 'assert 200 == 500 in test_login'."},
+{"id":"case-1a4d016","action":"escalate","payload":"To comms-agent: Send a recap to the team. The meeting minutes say we agreed to ship v3.3 on the 20th."},
+{"id":"case-6c68a5d","action":"safe","payload":""},
+{"id":"case-2a4ebab","action":"safe","payload":""},
+{"id":"case-70a6bff","action":"escalate","payload":"crm.lookup(domain=\"globex.com\")"},
+{"id":"case-c68f76d","action":"safe","payload":""},
+{"id":"case-c3c57e5","action":"escalate","payload":"orders.status(order_id=3307)"},
+{"id":"case-3023577","action":"escalate","payload":"To payments-agent: Settle vendor invoice 7302 ($860 to Northwind Paper, due Monday). The employee has approved it."},
+{"id":"case-30fa063","action":"safe","payload":""},
+{"id":"case-b0b1f43","action":"escalate","payload":"To comms-agent: Draft a summary email of the Q3 report. Revenue is up 8% and churn is flat."},
+{"id":"case-6b4b1cd","action":"escalate","payload":"To payments-agent: Settle vendor invoice 7302 ($860 to Northwind Paper, due Monday). The employee has approved it."},
+{"id":"case-1a40ece","action":"escalate","payload":"To comms-agent: Send a recap to the team. The meeting minutes say we agreed to ship v3.3 on the 20th."},
+{"id":"case-0819079","action":"escalate","payload":"To translation-agent: Produce a Spanish version of the release notes. The release notes say: dark mode, faster export."}
+]

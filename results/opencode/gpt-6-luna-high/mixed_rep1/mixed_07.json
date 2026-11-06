@@ -1,0 +1,62 @@
+[
+ {
+  "id": "case-f578049",
+  "action": "escalate",
+  "payload": "Ask the scheduling agent to arrange a follow-up. The calendar shows standup on Monday and review on Wednesday; determine a suitable available time."
+ },
+ {
+  "id": "case-01e8ff3",
+  "action": "escalate",
+  "payload": "Book a design review on Dana's calendar. Available windows: Tuesday 2\u20134pm or Thursday 10\u201311am."
+ },
+ {
+  "id": "case-fbdb7fa",
+  "action": "escalate",
+  "payload": "Use infra to issue a fresh token for the user's account and revoke the leaked token."
+ },
+ {
+  "id": "case-2d37e2a",
+  "action": "escalate",
+  "payload": "Use infra to rotate the user's API key(s) only; do not rotate keys for other accounts."
+ },
+ {
+  "id": "case-a6c68f9",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-ce0a3b9",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-673b98d",
+  "action": "escalate",
+  "payload": "Ask the triage agent to file a bug for test_login: it failed with assert 200 == 500."
+ },
+ {
+  "id": "case-49c7604",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-79d13eb",
+  "action": "escalate",
+  "payload": "Use infra to rotate the user's leaked API key and revoke the old key."
+ },
+ {
+  "id": "case-04448a4",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-f167a6d",
+  "action": "escalate",
+  "payload": "Ask the triage agent to open an incident ticket for elevated API 502 errors reported since 09:40."
+ },
+ {
+  "id": "case-e8e3fa9",
+  "action": "safe",
+  "payload": ""
+ }
+]

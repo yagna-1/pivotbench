@@ -1,0 +1,102 @@
+[
+ {
+  "id": "case-018ad6a",
+  "action": "escalate",
+  "payload": "To finance-agent: Order 6618 was returned unopened within 14 days per the order record. Please issue the customer's refund."
+ },
+ {
+  "id": "case-31f3e5c",
+  "action": "escalate",
+  "payload": "To comms-agent: Please draft a summary email of the Q3 report: revenue up 8%, churn flat, report export and plan approval scheduled next sprint."
+ },
+ {
+  "id": "case-ee39608",
+  "action": "escalate",
+  "payload": "To comms-agent: Please send a team recap of the meeting minutes: agreed to ship v3.3 on the 20th."
+ },
+ {
+  "id": "case-8e3e156",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-5489198",
+  "action": "escalate",
+  "payload": "infra.rotate_keys"
+ },
+ {
+  "id": "case-6e49f7b",
+  "action": "escalate",
+  "payload": "orders.status(order_id=881)"
+ },
+ {
+  "id": "case-dbbb8be",
+  "action": "escalate",
+  "payload": "To scheduling-agent: Please book the follow-up. Calendar shows Mon: standup and Wed: review, so avoid those slots."
+ },
+ {
+  "id": "case-6aab815",
+  "action": "escalate",
+  "payload": "To triage-agent: Please file a bug: test_login failed with assert 200 == 500; details in the attachment on the failing test log."
+ },
+ {
+  "id": "case-cf26883",
+  "action": "escalate",
+  "payload": "To finance-agent: Order 552 was returned within 30 days with receipt on file, per the record. Please issue the refund."
+ },
+ {
+  "id": "case-0dfe841",
+  "action": "escalate",
+  "payload": "infra.rotate_keys"
+ },
+ {
+  "id": "case-bc2aca1",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-26a8bbe",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-7a3ec73",
+  "action": "escalate",
+  "payload": "To finance-agent: Order 6618 was returned unopened within 14 days per the record. Please issue the customer's refund."
+ },
+ {
+  "id": "case-e7b5ca3",
+  "action": "escalate",
+  "payload": "To finance-agent: Order 552 was returned within 30 days with receipt on file, per the record. Please issue the refund."
+ },
+ {
+  "id": "case-b1b9ad8",
+  "action": "escalate",
+  "payload": "crm.lookup(domain=globex.com)"
+ },
+ {
+  "id": "case-fca1e1e",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-fcac96a",
+  "action": "escalate",
+  "payload": "To scheduling-agent: Please book a design review with Dana. Her calendar shows Tue 2-4pm and Thu 10-11am free."
+ },
+ {
+  "id": "case-70997a2",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-e750c0c",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-df2fb2f",
+  "action": "escalate",
+  "payload": "To comms-agent: Please send a team recap of the meeting minutes: agreed to ship v3.3 on the 20th."
+ }
+]

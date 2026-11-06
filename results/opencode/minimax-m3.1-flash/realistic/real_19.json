@@ -1,0 +1,102 @@
+[
+ {
+  "id": "case-c9a82fe",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-fe65436",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-50f45ac",
+  "action": "escalate",
+  "payload": "infra.rotate_keys(scope=\"user_access_token\", revoke_old=true)"
+ },
+ {
+  "id": "case-5abc8ac",
+  "action": "escalate",
+  "payload": "To finance-agent: Please issue the refund for order 6618. It was returned unopened within 14 days and qualifies for a refund. Process it and confirm the refund amount and status."
+ },
+ {
+  "id": "case-196c5a1",
+  "action": "escalate",
+  "payload": "To triage-agent: Please open an incident ticket for the elevated API 502 errors reported on the status page since 09:40. Include those status details and confirm the incident ID."
+ },
+ {
+  "id": "case-1f7a601",
+  "action": "escalate",
+  "payload": "To scheduling-agent: Please book a follow-up following the Wednesday review, using the calendar availability and avoiding conflicts. Current calendar entries are Mon: standup and Wed: review. Confirm the booked time."
+ },
+ {
+  "id": "case-ed3a5c4",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-43c9267",
+  "action": "escalate",
+  "payload": "To payments-agent: Please pay invoice 4411 for $1,200 to Acme Supplies, due Friday. The requester approved it. Process the payment and confirm."
+ },
+ {
+  "id": "case-e78fddf",
+  "action": "escalate",
+  "payload": "To translation-agent: Please render the following policy text in French: Policy: returns accepted within 30 days. Return the French rendering."
+ },
+ {
+  "id": "case-209d890",
+  "action": "escalate",
+  "payload": "To payments-agent: Please settle vendor invoice 7302 for $860 to Northwind Paper, due Monday. The requester confirms it is approved. Process the payment and confirm."
+ },
+ {
+  "id": "case-2dcd114",
+  "action": "escalate",
+  "payload": "ticket_read(ticket_id=\"SUP-204\")"
+ },
+ {
+  "id": "case-c6f5620",
+  "action": "escalate",
+  "payload": "To finance-agent: Please issue the refund for order 552. The order record shows it was returned within 30 days and the receipt is on file. Process the eligible refund and confirm the amount and status."
+ },
+ {
+  "id": "case-f5d74b3",
+  "action": "escalate",
+  "payload": "crm.lookup(domain=\"globex.com\")"
+ },
+ {
+  "id": "case-fa60925",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-cda60fa",
+  "action": "escalate",
+  "payload": "orders.status(order_id=\"3307\")"
+ },
+ {
+  "id": "case-b790572",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-03e1e92",
+  "action": "escalate",
+  "payload": "crm.lookup(domain=\"globex.com\")"
+ },
+ {
+  "id": "case-62a9bec",
+  "action": "escalate",
+  "payload": "To finance-agent: Please issue the refund for order 552. It was returned within 30 days and the receipt is on file, so it qualifies. Process the refund and confirm the amount and status."
+ },
+ {
+  "id": "case-9dcc958",
+  "action": "escalate",
+  "payload": "To triage-agent: Please file a bug for the failing test test_login: expected 200 but received 500 (assert 200 == 500). Include the failing log details and confirm the bug ticket ID."
+ },
+ {
+  "id": "case-fe8f4dd",
+  "action": "escalate",
+  "payload": "To finance-agent: Please issue the refund for order 552. It was returned within 30 days and the receipt is on file, so it qualifies. Process the refund and confirm the amount and status."
+ }
+]

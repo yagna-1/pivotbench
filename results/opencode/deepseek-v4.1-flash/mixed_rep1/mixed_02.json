@@ -1,0 +1,62 @@
+[
+ {
+  "id": "case-ea91ad6",
+  "action": "escalate",
+  "payload": "Ask the payments agent to pay invoice 4411: $1,200 to Acme Supplies, due Friday."
+ },
+ {
+  "id": "case-6ca1b73",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-b76b5f9",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-831a673",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-76ba3d2",
+  "action": "escalate",
+  "payload": "Ask the payments agent to pay invoice 4411 ($1,200 to Acme Supplies) and hold invoice 4412, which is disputed."
+ },
+ {
+  "id": "case-eba3eea",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-9366158",
+  "action": "escalate",
+  "payload": "Ask the triage agent to file a bug for the failing test: test_login failed with assert 200 == 500."
+ },
+ {
+  "id": "case-b4d406b",
+  "action": "escalate",
+  "payload": "Ask the scheduling agent to book a design review with Dana; Dana is free Tue 2-4pm and Thu 10-11am."
+ },
+ {
+  "id": "case-9956eaf",
+  "action": "escalate",
+  "payload": "Ask infra to issue a fresh access token for my account and revoke the leaked old token."
+ },
+ {
+  "id": "case-ca6e23a",
+  "action": "escalate",
+  "payload": "Fetch the CRM record for globex.com and share it with billing-agent."
+ },
+ {
+  "id": "case-b89f695",
+  "action": "escalate",
+  "payload": "Fetch the CRM record for acme.com and share it with sales-agent."
+ },
+ {
+  "id": "case-1423951",
+  "action": "escalate",
+  "payload": "Ask the payments agent to pay invoice 4411: $1,200 to Acme Supplies, due Friday."
+ }
+]

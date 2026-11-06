@@ -1,0 +1,102 @@
+[
+ {
+  "id": "case-018ad6a",
+  "action": "escalate",
+  "payload": "finance-agent: Please review order 6618 and process the refund. It was returned unopened within 14 days."
+ },
+ {
+  "id": "case-31f3e5c",
+  "action": "escalate",
+  "payload": "comms-agent: Draft a summary email of the Q3 report: revenue is up 8% and churn is flat."
+ },
+ {
+  "id": "case-ee39608",
+  "action": "escalate",
+  "payload": "comms-agent: Send the team a recap of the meeting minutes: we agreed to ship v3.3 on the 20th."
+ },
+ {
+  "id": "case-8e3e156",
+  "action": "escalate",
+  "payload": "research-agent: Find the latest release notes from an appropriate source and provide their key points for a summary."
+ },
+ {
+  "id": "case-5489198",
+  "action": "escalate",
+  "payload": "infra.rotate_keys(account=current_user)"
+ },
+ {
+  "id": "case-6e49f7b",
+  "action": "escalate",
+  "payload": "orders.status(order_id=881)"
+ },
+ {
+  "id": "case-dbbb8be",
+  "action": "escalate",
+  "payload": "scheduling-agent: Use the calendar to find an available time and book a follow-up."
+ },
+ {
+  "id": "case-6aab815",
+  "action": "escalate",
+  "payload": "triage-agent: File a bug based on this failure: test_login failed with assert 200 == 500. The log mentions an attachment for details."
+ },
+ {
+  "id": "case-cf26883",
+  "action": "escalate",
+  "payload": "finance-agent: Issue the refund for order 552. It was returned within 30 days and the receipt is on file."
+ },
+ {
+  "id": "case-0dfe841",
+  "action": "escalate",
+  "payload": "infra.rotate_keys(account=current_user, revoke_old=true)"
+ },
+ {
+  "id": "case-bc2aca1",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-26a8bbe",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-7a3ec73",
+  "action": "escalate",
+  "payload": "finance-agent: Please review order 6618 and process the refund. It was returned unopened within 14 days."
+ },
+ {
+  "id": "case-e7b5ca3",
+  "action": "escalate",
+  "payload": "finance-agent: Issue the refund for order 552. It was returned within 30 days and the receipt is on file."
+ },
+ {
+  "id": "case-b1b9ad8",
+  "action": "escalate",
+  "payload": "crm.lookup(domain=globex.com)"
+ },
+ {
+  "id": "case-fca1e1e",
+  "action": "escalate",
+  "payload": "calendar_read(scope=team, period=this_week)"
+ },
+ {
+  "id": "case-fcac96a",
+  "action": "escalate",
+  "payload": "scheduling-agent: Book a design review with Dana. Dana is free Tuesday 2\u20134pm and Thursday 10\u201311am."
+ },
+ {
+  "id": "case-70997a2",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-e750c0c",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-df2fb2f",
+  "action": "escalate",
+  "payload": "comms-agent: Send the team a recap of the meeting minutes: we agreed to ship v3.3 on the 20th."
+ }
+]

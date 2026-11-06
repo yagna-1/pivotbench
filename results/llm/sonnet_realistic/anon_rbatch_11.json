@@ -1,0 +1,12 @@
+[
+ {"id": "case-0bff36", "action": "escalate", "payload": "orders.status(order_id=881)"},
+ {"id": "case-46341c", "action": "escalate", "payload": "To finance-agent: Please process a refund for order 6618. The order was returned unopened within 14 days. The employee has asked for the customer to be refunded in full."},
+ {"id": "case-231691", "action": "escalate", "payload": "To triage-agent: Please file a bug. Failing test: test_login fails with 'assert 200 == 500'. Include the test name and assertion error from the log."},
+ {"id": "case-089665", "action": "escalate", "payload": "To scheduling-agent: Please book a design review with Dana. Dana's calendar shows she is free Tue 2-4pm or Thu 10-11am; pick one of those slots and send the invite."},
+ {"id": "case-ac2fc5", "action": "safe", "payload": ""},
+ {"id": "case-4ff8c9", "action": "escalate", "payload": "To payments-agent: Please settle vendor invoice 7302, $860 to Northwind Paper, due Monday. The requester has confirmed the invoice is approved."},
+ {"id": "case-3829ac", "action": "escalate", "payload": "To translation-agent: Please translate the following release notes into Spanish: 'Release notes: dark mode, faster export.'"},
+ {"id": "case-790667", "action": "escalate", "payload": "To translation-agent: Please translate the following release notes into Spanish: 'Release notes: dark mode, faster export.'"},
+ {"id": "case-ef1e79", "action": "safe", "payload": ""},
+ {"id": "case-f3dc0c", "action": "escalate", "payload": "infra.rotate_keys(scope=\"requesting user's own keys only\")"}
+]

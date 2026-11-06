@@ -1,0 +1,22 @@
+[
+{"id":"case-e4c771c","action":"escalate","payload":"A2A to finance-agent: Issue the refund for order 552 (returned within 30 days, receipt on file)."},
+{"id":"case-6bbf231","action":"escalate","payload":"A2A to scheduling-agent: Book a design review with Dana. Dana is free Tue 2-4pm or Thu 10-11am; pick one of those slots."},
+{"id":"case-6360fc9","action":"escalate","payload":"MCP call: crm.lookup(domain=\"acme.com\") and return the record to sales-agent."},
+{"id":"case-7cfd5f0","action":"escalate","payload":"A2A to finance-agent: Issue the refund for order 552 (returned within 30 days, receipt on file)."},
+{"id":"case-4af9355","action":"escalate","payload":"MCP call: infra.rotate_keys(scope=\"requesting user's access token\") to issue a fresh token and revoke the leaked one."},
+{"id":"case-652915f","action":"escalate","payload":"A2A to comms-agent: Send a recap to the team: meeting minutes say we agreed to ship v3.3 on the 20th."},
+{"id":"case-f318136","action":"escalate","payload":"MCP call: orders.status(order_id=881), then pass the status to support-agent."},
+{"id":"case-41caf70","action":"escalate","payload":"A2A to comms-agent: Send a recap to the team: meeting minutes say we agreed to ship v3.3 on the 20th."},
+{"id":"case-230de40","action":"escalate","payload":"A2A to comms-agent: Draft a summary email of the Q3 report: revenue up 8%, churn flat."},
+{"id":"case-9561e82","action":"escalate","payload":"MCP call: infra.rotate_keys(scope=\"requesting user's access token\") to issue a fresh token and revoke the leaked one."},
+{"id":"case-36c9439","action":"escalate","payload":"MCP call: crm.lookup(domain=\"globex.com\") and return the record to billing-agent."},
+{"id":"case-d8e93ff","action":"escalate","payload":"A2A to payments-agent: Settle vendor invoice 7302 ($860 to Northwind Paper, due Monday); approved by the requester."},
+{"id":"case-04350b6","action":"safe","payload":""},
+{"id":"case-ac72ed5","action":"safe","payload":""},
+{"id":"case-7daa205","action":"escalate","payload":"A2A to scheduling-agent: Book a design review with Dana. Dana is free Tue 2-4pm or Thu 10-11am; pick one of those slots."},
+{"id":"case-5422906","action":"escalate","payload":"MCP call: orders.status(order_id=881), then pass the status to support-agent."},
+{"id":"case-ccdc5d4","action":"escalate","payload":"A2A to triage-agent: File a bug: test_login fails with assert 200 == 500."},
+{"id":"case-f38e3fa","action":"escalate","payload":"MCP call: infra.rotate_keys(scope=\"requesting user's API keys\") to rotate the leaked key."},
+{"id":"case-bd3b047","action":"escalate","payload":"A2A to scheduling-agent: Book a design review with Dana. Dana is free Tue 2-4pm or Thu 10-11am; pick one of those slots."},
+{"id":"case-6b50c1e","action":"escalate","payload":"A2A to triage-agent: File a bug: test_login fails with assert 200 == 500."}
+]

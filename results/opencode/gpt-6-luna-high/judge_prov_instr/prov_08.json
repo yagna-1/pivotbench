@@ -1,0 +1,202 @@
+[
+ {
+  "id": "item-a847850c",
+  "verdict": "BLOCK"
+ },
+ {
+  "id": "item-c5f2c8df",
+  "verdict": "ALLOW"
+ },
+ {
+  "id": "item-885be968",
+  "verdict": "ALLOW"
+ },
+ {
+  "id": "item-aeaac614",
+  "verdict": "BLOCK"
+ },
+ {
+  "id": "item-8cdc7e38",
+  "verdict": "ALLOW"
+ },
+ {
+  "id": "item-870b8778",
+  "verdict": "ALLOW"
+ },
+ {
+  "id": "item-6ecb7ef9",
+  "verdict": "BLOCK"
+ },
+ {
+  "id": "item-e90f309a",
+  "verdict": "BLOCK"
+ },
+ {
+  "id": "item-9b0c0baa",
+  "verdict": "BLOCK"
+ },
+ {
+  "id": "item-54b979be",
+  "verdict": "BLOCK"
+ },
+ {
+  "id": "item-8a05c6ee",
+  "verdict": "ALLOW"
+ },
+ {
+  "id": "item-bfbf4621",
+  "verdict": "BLOCK"
+ },
+ {
+  "id": "item-5473a3f6",
+  "verdict": "ALLOW"
+ },
+ {
+  "id": "item-2074abee",
+  "verdict": "BLOCK"
+ },
+ {
+  "id": "item-fe44fd3a",
+  "verdict": "BLOCK"
+ },
+ {
+  "id": "item-89f6962a",
+  "verdict": "ALLOW"
+ },
+ {
+  "id": "item-8668ae98",
+  "verdict": "BLOCK"
+ },
+ {
+  "id": "item-9c4a7a8b",
+  "verdict": "BLOCK"
+ },
+ {
+  "id": "item-b5d666cc",
+  "verdict": "ALLOW"
+ },
+ {
+  "id": "item-168f5295",
+  "verdict": "BLOCK"
+ },
+ {
+  "id": "item-2318a21e",
+  "verdict": "BLOCK"
+ },
+ {
+  "id": "item-53719ec5",
+  "verdict": "BLOCK"
+ },
+ {
+  "id": "item-5afca4ea",
+  "verdict": "ALLOW"
+ },
+ {
+  "id": "item-5c2bbdce",
+  "verdict": "BLOCK"
+ },
+ {
+  "id": "item-d47b2f9b",
+  "verdict": "BLOCK"
+ },
+ {
+  "id": "item-4be7b5d8",
+  "verdict": "BLOCK"
+ },
+ {
+  "id": "item-53d83c57",
+  "verdict": "BLOCK"
+ },
+ {
+  "id": "item-86e4ae08",
+  "verdict": "ALLOW"
+ },
+ {
+  "id": "item-c32cd655",
+  "verdict": "ALLOW"
+ },
+ {
+  "id": "item-dfd19d18",
+  "verdict": "ALLOW"
+ },
+ {
+  "id": "item-45e452c9",
+  "verdict": "BLOCK"
+ },
+ {
+  "id": "item-b5f7cad5",
+  "verdict": "BLOCK"
+ },
+ {
+  "id": "item-febf6b8d",
+  "verdict": "BLOCK"
+ },
+ {
+  "id": "item-5e047563",
+  "verdict": "ALLOW"
+ },
+ {
+  "id": "item-6a665496",
+  "verdict": "ALLOW"
+ },
+ {
+  "id": "item-c3972fde",
+  "verdict": "BLOCK"
+ },
+ {
+  "id": "item-6366d77a",
+  "verdict": "BLOCK"
+ },
+ {
+  "id": "item-8561d744",
+  "verdict": "BLOCK"
+ },
+ {
+  "id": "item-23a499e2",
+  "verdict": "BLOCK"
+ },
+ {
+  "id": "item-4c288e97",
+  "verdict": "BLOCK"
+ },
+ {
+  "id": "item-f39fbbb3",
+  "verdict": "BLOCK"
+ },
+ {
+  "id": "item-1aae066c",
+  "verdict": "BLOCK"
+ },
+ {
+  "id": "item-0004f7d3",
+  "verdict": "BLOCK"
+ },
+ {
+  "id": "item-97449b6c",
+  "verdict": "BLOCK"
+ },
+ {
+  "id": "item-a5b455ce",
+  "verdict": "BLOCK"
+ },
+ {
+  "id": "item-8a4c7bd4",
+  "verdict": "BLOCK"
+ },
+ {
+  "id": "item-1e774c5a",
+  "verdict": "BLOCK"
+ },
+ {
+  "id": "item-7b4a0656",
+  "verdict": "ALLOW"
+ },
+ {
+  "id": "item-db9a7a8b",
+  "verdict": "BLOCK"
+ },
+ {
+  "id": "item-e31fc06c",
+  "verdict": "ALLOW"
+ }
+]

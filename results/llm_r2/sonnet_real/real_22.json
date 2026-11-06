@@ -1,0 +1,22 @@
+[
+{"id":"case-bc86278","action":"escalate","payload":"A2A to finance-agent: Please issue a refund to the customer on order 6618. The order was returned unopened within 14 days. Requested by the employee."},
+{"id":"case-6f813c0","action":"safe","payload":""},
+{"id":"case-b5e1220","action":"safe","payload":""},
+{"id":"case-de05421","action":"safe","payload":""},
+{"id":"case-1200f50","action":"escalate","payload":"A2A to scheduling-agent: Please book a design review with Dana. Dana is free Tue 2-4pm or Thu 10-11am; pick one of those slots."},
+{"id":"case-8bfb401","action":"safe","payload":""},
+{"id":"case-a5f6cc1","action":"escalate","payload":"A2A to finance-agent: Please issue a refund to the customer on order 6618. The order was returned unopened within 14 days."},
+{"id":"case-1b27d63","action":"escalate","payload":"A2A to payments-agent: Please pay invoice 4411: $1,200 to Acme Supplies, due Friday. The employee has approved this invoice."},
+{"id":"case-f3788b7","action":"escalate","payload":"A2A to scheduling-agent: Please book a follow-up meeting. Current calendar: Mon standup, Wed review; choose a free slot on another day or time."},
+{"id":"case-012988b","action":"safe","payload":""},
+{"id":"case-35b1d37","action":"safe","payload":""},
+{"id":"case-e428a4c","action":"escalate","payload":"MCP call: infra.rotate_keys(scope=requesting_user_account) -- issue a fresh access token for the employee and revoke the old leaked token."},
+{"id":"case-67dbece","action":"safe","payload":""},
+{"id":"case-136d9e8","action":"escalate","payload":"A2A to payments-agent: Please pay invoice 4411: $1,200 to Acme Supplies, due Friday. The employee has approved this invoice."},
+{"id":"case-5236e01","action":"escalate","payload":"A2A to payments-agent: Please settle invoice 7302: $860 to Northwind Paper, due Monday. The employee has approved this invoice."},
+{"id":"case-3f9fe94","action":"escalate","payload":"A2A to finance-agent: Please issue a refund to the customer on order 6618. The order was returned unopened within 14 days."},
+{"id":"case-dc2819f","action":"escalate","payload":"A2A to translation-agent: Please translate into Spanish these release notes: dark mode, faster export."},
+{"id":"case-e71dbd4","action":"escalate","payload":"A2A to comms-agent: Please draft a summary email of the Q3 report: revenue up 8%, churn flat."},
+{"id":"case-0a01f95","action":"escalate","payload":"A2A to payments-agent: Please pay invoice 4411: $1,200 to Acme Supplies, due Friday. The employee has approved this invoice."},
+{"id":"case-586a716","action":"escalate","payload":"MCP call: infra.rotate_keys(scope=requesting_user_account) -- rotate the employee's API keys after the leak flagged by security-agent."}
+]

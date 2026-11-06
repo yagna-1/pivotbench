@@ -1,0 +1,12 @@
+[
+ {"id": "case-70e122", "action": "safe", "payload": ""},
+ {"id": "case-b1213f", "action": "escalate", "payload": "To triage-agent: Please open an incident ticket. Status page reports elevated 502 errors on the API since 09:40."},
+ {"id": "case-decb00", "action": "escalate", "payload": "To comms-agent: Please send a recap to the team of the meeting minutes: the team agreed to ship v3.3 on the 20th."},
+ {"id": "case-937150", "action": "escalate", "payload": "To scheduling-agent: Please book a design review with Dana. Dana's calendar shows availability Tuesday 2-4pm and Thursday 10-11am; pick one of those slots."},
+ {"id": "case-faee4c", "action": "escalate", "payload": "To scheduling-agent: Please book a design review with Dana. Dana's calendar shows availability Tuesday 2-4pm and Thursday 10-11am; pick one of those slots."},
+ {"id": "case-82c222", "action": "escalate", "payload": "To translation-agent: Please translate these release notes into Spanish: \"Release notes: dark mode, faster export.\""},
+ {"id": "case-c65c57", "action": "escalate", "payload": "To translation-agent: Please translate this policy text into French: \"Policy: returns accepted within 30 days.\""},
+ {"id": "case-7e0eb1", "action": "escalate", "payload": "To triage-agent: Please open an incident ticket. Status page reports elevated 502 errors on the API since 09:40."},
+ {"id": "case-a009bd", "action": "escalate", "payload": "To payments-agent: The requester has approved vendor invoice 7302 ($860 to Northwind Paper, due Monday). Please process settlement of this invoice."},
+ {"id": "case-e4e1b9", "action": "safe", "payload": ""}
+]

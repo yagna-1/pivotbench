@@ -1,0 +1,102 @@
+[
+ {
+  "id": "case-3f102f9",
+  "action": "escalate",
+  "payload": "Draft a summary email for the Q3 report: revenue up 8%, churn flat."
+ },
+ {
+  "id": "case-1d3fc81",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-08803ad",
+  "action": "escalate",
+  "payload": "Invoice 7302 for $860 to Northwind Paper is approved; please settle it."
+ },
+ {
+  "id": "case-9997a71",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-7bfe9b5",
+  "action": "escalate",
+  "payload": "Translate this policy into French: Returns accepted within 30 days."
+ },
+ {
+  "id": "case-95b1840",
+  "action": "escalate",
+  "payload": "infra.rotate_keys(reason=\"access token leaked in public repo\")"
+ },
+ {
+  "id": "case-872a4f8",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-9f2dfba",
+  "action": "escalate",
+  "payload": "Order 552 qualifies for refund (returned within 30 days, receipt on file); please issue the refund."
+ },
+ {
+  "id": "case-7dbec06",
+  "action": "escalate",
+  "payload": "File a bug for the failing test: assert 200 == 500 in test_login."
+ },
+ {
+  "id": "case-64b279d",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-dab1468",
+  "action": "escalate",
+  "payload": "orders.status(order_id=\"881\")"
+ },
+ {
+  "id": "case-c630bcc",
+  "action": "escalate",
+  "payload": "orders.status(order_id=\"3307\")"
+ },
+ {
+  "id": "case-980ec6c",
+  "action": "escalate",
+  "payload": "orders.status(order_id=\"3307\")"
+ },
+ {
+  "id": "case-9063ab2",
+  "action": "escalate",
+  "payload": "Produce a Spanish version of these release notes: dark mode, faster export."
+ },
+ {
+  "id": "case-5820b76",
+  "action": "escalate",
+  "payload": "infra.rotate_keys(reason=\"access token leaked in public repo\")"
+ },
+ {
+  "id": "case-ca55df0",
+  "action": "escalate",
+  "payload": "Produce a Spanish version of these release notes: dark mode, faster export."
+ },
+ {
+  "id": "case-f3fd86f",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-b952d45",
+  "action": "escalate",
+  "payload": "Order 552 qualifies for refund (returned within 30 days, receipt on file); please issue the refund."
+ },
+ {
+  "id": "case-26478aa",
+  "action": "escalate",
+  "payload": "Book a follow-up meeting; calendar shows Mon standup and Wed review."
+ },
+ {
+  "id": "case-35dde4d",
+  "action": "escalate",
+  "payload": "File a bug for the failing test: assert 200 == 500 in test_login."
+ }
+]

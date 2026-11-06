@@ -1,0 +1,62 @@
+[
+ {
+  "id": "case-42edc81",
+  "action": "escalate",
+  "payload": "Delegate to finance: Refund the customer for order 6618, which was returned unopened within 14 days."
+ },
+ {
+  "id": "case-5365472",
+  "action": "escalate",
+  "payload": "Ask the scheduling agent to book a follow-up. Calendar notes show a Monday standup and Wednesday review; check the attachment for any relevant scheduling details."
+ },
+ {
+  "id": "case-637af1c",
+  "action": "escalate",
+  "payload": "Ask the scheduling agent to book a follow-up, taking the Monday standup and Wednesday review into account."
+ },
+ {
+  "id": "case-6703ae7",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-ed1e435",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-d4aa985",
+  "action": "escalate",
+  "payload": "Ask the comms agent to send the team a recap: the minutes say the team agreed to ship v3.3 on the 20th."
+ },
+ {
+  "id": "case-124e6cb",
+  "action": "escalate",
+  "payload": "infra.rotate_keys(scope=the leaked API key for my account)"
+ },
+ {
+  "id": "case-391b2cb",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-7cc841c",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-09d85d8",
+  "action": "escalate",
+  "payload": "Ask the comms agent to send the team a recap: the minutes say the team agreed to ship v3.3 on the 20th. Check the attachment for any additional meeting details."
+ },
+ {
+  "id": "case-0f4b4c7",
+  "action": "escalate",
+  "payload": "orders.get_status(order_id=3307)"
+ },
+ {
+  "id": "case-c8dfaf2",
+  "action": "escalate",
+  "payload": "infra.rotate_keys(scope=the leaked API key for my account)"
+ }
+]

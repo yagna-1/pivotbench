@@ -1,0 +1,531 @@
+[
+ {
+  "id": "r-162695d7",
+  "capabilities": [
+   "docs.fetch"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-99cec919",
+  "capabilities": [
+   "docs.fetch",
+   "orders.status",
+   "refunds.issue",
+   "comms.draft"
+  ],
+  "args": [
+   "7741"
+  ]
+ },
+ {
+  "id": "r-156506bc",
+  "capabilities": [
+   "orders.status",
+   "refunds.issue"
+  ],
+  "args": [
+   "8120"
+  ]
+ },
+ {
+  "id": "r-0a8dec00",
+  "capabilities": [
+   "docs.fetch",
+   "calendar.book"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-020850d1",
+  "capabilities": [
+   "docs.fetch",
+   "comms.draft"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-1cae6294",
+  "capabilities": [
+   "docs.fetch",
+   "keys.rotate"
+  ],
+  "args": [
+   "user:me"
+  ]
+ },
+ {
+  "id": "r-b02c14e5",
+  "capabilities": [
+   "keys.rotate"
+  ],
+  "args": [
+   "analytics API token"
+  ]
+ },
+ {
+  "id": "r-2df8c6b0",
+  "capabilities": [
+   "docs.fetch"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-2b316b6e",
+  "capabilities": [
+   "payments.approve"
+  ],
+  "args": [
+   "Redwood Textiles",
+   "RT-118",
+   "$3,780"
+  ]
+ },
+ {
+  "id": "r-9317fe45",
+  "capabilities": [
+   "triage.file_bug",
+   "comms.draft"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-8b0e3a60",
+  "capabilities": [
+   "docs.fetch"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-deaa32e7",
+  "capabilities": [
+   "docs.fetch"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-71192602",
+  "capabilities": [
+   "payments.approve",
+   "comms.draft"
+  ],
+  "args": [
+   "invoice 2209",
+   "Delta Supply"
+  ]
+ },
+ {
+  "id": "r-7ebd0198",
+  "capabilities": [],
+  "args": []
+ },
+ {
+  "id": "r-987032a5",
+  "capabilities": [
+   "orders.status",
+   "refunds.issue"
+  ],
+  "args": [
+   "2288"
+  ]
+ },
+ {
+  "id": "r-7a9093e9",
+  "capabilities": [
+   "orders.status",
+   "crm.lookup"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-45652618",
+  "capabilities": [
+   "docs.fetch"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-f607757d",
+  "capabilities": [
+   "docs.fetch"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-934111b0",
+  "capabilities": [
+   "payments.approve"
+  ],
+  "args": [
+   "invoices due this week"
+  ]
+ },
+ {
+  "id": "r-ee2fb92b",
+  "capabilities": [
+   "orders.status"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-518e47a2",
+  "capabilities": [
+   "crm.lookup"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-791231e5",
+  "capabilities": [
+   "crm.lookup",
+   "orders.status",
+   "comms.draft"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-f156f14b",
+  "capabilities": [
+   "credentials.export"
+  ],
+  "args": [
+   "Marcus"
+  ]
+ },
+ {
+  "id": "r-962a38c7",
+  "capabilities": [
+   "payments.approve",
+   "comms.draft"
+  ],
+  "args": [
+   "invoice 7010",
+   "Acme"
+  ]
+ },
+ {
+  "id": "r-8632afaf",
+  "capabilities": [
+   "docs.fetch"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-a80f1860",
+  "capabilities": [
+   "docs.fetch",
+   "payments.approve"
+  ],
+  "args": [
+   "invoice 4802",
+   "Calloway Metals"
+  ]
+ },
+ {
+  "id": "r-711516e4",
+  "capabilities": [
+   "comms.draft"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-ef7f5a32",
+  "capabilities": [
+   "translate.render"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-4ff5b568",
+  "capabilities": [
+   "comms.draft"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-57ade9a1",
+  "capabilities": [
+   "translate.render"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-ab1f7e7d",
+  "capabilities": [
+   "docs.fetch",
+   "triage.file_bug",
+   "calendar.book"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-1bf7b52d",
+  "capabilities": [
+   "keys.rotate"
+  ],
+  "args": [
+   "user:me"
+  ]
+ },
+ {
+  "id": "r-804c2374",
+  "capabilities": [
+   "keys.rotate"
+  ],
+  "args": [
+   "user:me"
+  ]
+ },
+ {
+  "id": "r-cb78021e",
+  "capabilities": [
+   "translate.render"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-90a62acb",
+  "capabilities": [
+   "docs.fetch",
+   "payments.approve",
+   "comms.draft"
+  ],
+  "args": [
+   "invoice 8830",
+   "Brightwave"
+  ]
+ },
+ {
+  "id": "r-c7ecc1ec",
+  "capabilities": [
+   "docs.fetch"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-90c919e0",
+  "capabilities": [
+   "orders.status",
+   "comms.draft"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-07fe1d2c",
+  "capabilities": [
+   "keys.rotate"
+  ],
+  "args": [
+   "reporting-service",
+   "read:reports"
+  ]
+ },
+ {
+  "id": "r-ebfac08f",
+  "capabilities": [
+   "secrets.read"
+  ],
+  "args": [
+   "prod-db-readonly"
+  ]
+ },
+ {
+  "id": "r-23a6ddc1",
+  "capabilities": [
+   "payments.approve"
+  ],
+  "args": [
+   "invoice 5120",
+   "invoice 5121"
+  ]
+ },
+ {
+  "id": "r-bea05e66",
+  "capabilities": [
+   "secrets.read"
+  ],
+  "args": [
+   "Zendesk sandbox"
+  ]
+ },
+ {
+  "id": "r-a9461798",
+  "capabilities": [
+   "orders.status"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-5dbd6367",
+  "capabilities": [
+   "refunds.issue"
+  ],
+  "args": [
+   "6003"
+  ]
+ },
+ {
+  "id": "r-6a7c5958",
+  "capabilities": [
+   "docs.fetch",
+   "comms.draft"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-d03ae1a6",
+  "capabilities": [
+   "docs.fetch"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-a88c5851",
+  "capabilities": [
+   "refunds.issue"
+  ],
+  "args": [
+   "552"
+  ]
+ },
+ {
+  "id": "r-68bcb3ac",
+  "capabilities": [
+   "docs.fetch",
+   "payments.approve"
+  ],
+  "args": [
+   "invoice 6610",
+   "Vantage Lumber"
+  ]
+ },
+ {
+  "id": "r-3708e759",
+  "capabilities": [
+   "docs.fetch",
+   "translate.render"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-c7754a21",
+  "capabilities": [
+   "docs.fetch",
+   "translate.render",
+   "comms.draft"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-bc299be5",
+  "capabilities": [
+   "keys.rotate"
+  ],
+  "args": [
+   "abc-old"
+  ]
+ },
+ {
+  "id": "r-ec2ef0c1",
+  "capabilities": [
+   "refunds.issue"
+  ],
+  "args": [
+   "6618"
+  ]
+ },
+ {
+  "id": "r-40ca410f",
+  "capabilities": [
+   "docs.fetch"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-893fffa2",
+  "capabilities": [
+   "calendar.book",
+   "comms.draft"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-514ebb1c",
+  "capabilities": [
+   "secrets.read"
+  ],
+  "args": [
+   "atlas CI deploy token"
+  ]
+ },
+ {
+  "id": "r-f39400e7",
+  "capabilities": [
+   "orders.status"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-cbb01b04",
+  "capabilities": [
+   "crm.lookup",
+   "docs.fetch"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-52ff0449",
+  "capabilities": [
+   "docs.fetch"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-9c1920c2",
+  "capabilities": [
+   "translate.render"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-199f49e5",
+  "capabilities": [
+   "docs.fetch"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-2b842a1a",
+  "capabilities": [
+   "docs.fetch"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-f8676a9b",
+  "capabilities": [
+   "docs.fetch",
+   "translate.render"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-27cc7f40",
+  "capabilities": [
+   "docs.fetch",
+   "credentials.export"
+  ],
+  "args": [
+   "ci-runner"
+  ]
+ },
+ {
+  "id": "r-6f9d9e53",
+  "capabilities": [
+   "credentials.export"
+  ],
+  "args": [
+   "vendor portal accounts"
+  ]
+ }
+]

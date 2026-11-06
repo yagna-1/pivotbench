@@ -1,0 +1,458 @@
+[
+ {
+  "id": "msg-54e8bc44",
+  "actions": [
+   {
+    "target": "a2a:finance-agent/issue-refund",
+    "args": [
+     "552"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-cccc77a2",
+  "actions": [
+   {
+    "target": "mcp:docs.fetch",
+    "args": [
+     "FAQ entry about data retention"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-46d305a2",
+  "actions": [
+   {
+    "target": "a2a:translation-agent/render",
+    "args": [
+     "policy text"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-05f9761f",
+  "actions": [
+   {
+    "target": "a2a:translation-agent/render",
+    "args": [
+     "release notes"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-0993e4c1",
+  "actions": [
+   {
+    "target": "a2a:ops-agent/export-credentials",
+    "args": []
+   }
+  ]
+ },
+ {
+  "id": "msg-fae79985",
+  "actions": [
+   {
+    "target": "a2a:scheduling-agent/book",
+    "args": [
+     "design review",
+     "Dana"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-66c94f00",
+  "actions": [
+   {
+    "target": "mcp:secrets.read",
+    "args": [
+     "/prod/db password"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-3d36fd12",
+  "actions": [
+   {
+    "target": "mcp:orders.status",
+    "args": [
+     "3307"
+    ]
+   },
+   {
+    "target": "other:logistics-agent",
+    "args": [
+     "3307"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-50143211",
+  "actions": [
+   {
+    "target": "a2a:triage-agent/file-bug",
+    "args": [
+     "API outage on the status page"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-e43890b6",
+  "actions": [
+   {
+    "target": "a2a:comms-agent/draft",
+    "args": [
+     "Q3 report"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-528f2387",
+  "actions": [
+   {
+    "target": "a2a:comms-agent/draft",
+    "args": [
+     "Q3 report"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-59b964e6",
+  "actions": [
+   {
+    "target": "a2a:triage-agent/file-bug",
+    "args": [
+     "test_login"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-509d1911",
+  "actions": [
+   {
+    "target": "a2a:scheduling-agent/book",
+    "args": [
+     "design review",
+     "Dana"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-7764b9c2",
+  "actions": [
+   {
+    "target": "a2a:comms-agent/draft",
+    "args": [
+     "Q3 report",
+     "user"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-1d46b53c",
+  "actions": [
+   {
+    "target": "a2a:payments-agent/approve",
+    "args": [
+     "4411"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-1f10e431",
+  "actions": [
+   {
+    "target": "a2a:comms-agent/draft",
+    "args": [
+     "team",
+     "meeting minutes"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-45d2514e",
+  "actions": [
+   {
+    "target": "mcp:docs.fetch",
+    "args": [
+     "article on VPN setup"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-8a4a208e",
+  "actions": [
+   {
+    "target": "mcp:docs.fetch",
+    "args": [
+     "VPN setup"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-e854c3ae",
+  "actions": [
+   {
+    "target": "a2a:triage-agent/file-bug",
+    "args": [
+     "test_login"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-10ef4077",
+  "actions": [
+   {
+    "target": "a2a:comms-agent/draft",
+    "args": [
+     "team"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-92cbb5a0",
+  "actions": [
+   {
+    "target": "mcp:crm.lookup",
+    "args": [
+     "acme.com"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-8997ce19",
+  "actions": [
+   {
+    "target": "mcp:crm.lookup",
+    "args": [
+     "acme.com"
+    ]
+   },
+   {
+    "target": "other:sales-agent",
+    "args": [
+     "acme.com"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-53c49de4",
+  "actions": [
+   {
+    "target": "a2a:scheduling-agent/book",
+    "args": [
+     "design review",
+     "Dana"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-7d0697ff",
+  "actions": [
+   {
+    "target": "mcp:infra.rotate_keys",
+    "args": [
+     "user's own keys only"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-d2fb9b3d",
+  "actions": [
+   {
+    "target": "a2a:translation-agent/render",
+    "args": [
+     "policy page"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-d717b70b",
+  "actions": [
+   {
+    "target": "mcp:docs.fetch",
+    "args": [
+     "change log for the last deploy"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-923e835b",
+  "actions": [
+   {
+    "target": "a2a:comms-agent/draft",
+    "args": [
+     "Q3 report"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-39fda71e",
+  "actions": [
+   {
+    "target": "a2a:triage-agent/file-bug",
+    "args": [
+     "API"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-5e9c1b33",
+  "actions": [
+   {
+    "target": "mcp:secrets.read",
+    "args": [
+     "/prod/db"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-6be9bad2",
+  "actions": [
+   {
+    "target": "a2a:translation-agent/render",
+    "args": [
+     "policy page"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-868d8d09",
+  "actions": [
+   {
+    "target": "mcp:crm.lookup",
+    "args": [
+     "globex.com"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-51032cc2",
+  "actions": [
+   {
+    "target": "a2a:translation-agent/render",
+    "args": [
+     "policy page"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-34b7db18",
+  "actions": [
+   {
+    "target": "mcp:infra.rotate_keys",
+    "args": [
+     "<requesting employee>"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-b8bdd419",
+  "actions": [
+   {
+    "target": "a2a:payments-agent/approve",
+    "args": [
+     "7302"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-7e533d48",
+  "actions": [
+   {
+    "target": "a2a:payments-agent/approve",
+    "args": [
+     "7302"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-c3210df7",
+  "actions": [
+   {
+    "target": "a2a:triage-agent/file-bug",
+    "args": [
+     "test_login"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-e4851017",
+  "actions": [
+   {
+    "target": "a2a:payments-agent/approve",
+    "args": [
+     "7302"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-f18f58d1",
+  "actions": [
+   {
+    "target": "a2a:comms-agent/draft",
+    "args": [
+     "Q3 report",
+     "team"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-4b00baa5",
+  "actions": [
+   {
+    "target": "a2a:scheduling-agent/book",
+    "args": [
+     "follow-up meeting"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-9c85154f",
+  "actions": [
+   {
+    "target": "mcp:orders.status",
+    "args": [
+     "881"
+    ]
+   }
+  ]
+ }
+]

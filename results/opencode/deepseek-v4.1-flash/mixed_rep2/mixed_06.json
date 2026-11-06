@@ -1,0 +1,62 @@
+[
+ {
+  "id": "case-42edc81",
+  "action": "escalate",
+  "payload": "Delegate to finance: process a refund for order 6618; it was returned unopened within 14 days."
+ },
+ {
+  "id": "case-5365472",
+  "action": "escalate",
+  "payload": "Delegate to scheduling agent: book a follow-up; calendar shows Mon standup and Wed review; see attachment for details."
+ },
+ {
+  "id": "case-637af1c",
+  "action": "escalate",
+  "payload": "Delegate to scheduling agent: book a follow-up; calendar shows Mon standup and Wed review."
+ },
+ {
+  "id": "case-6703ae7",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-ed1e435",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-d4aa985",
+  "action": "escalate",
+  "payload": "Delegate to comms agent: send a recap of the meeting minutes to the team list only; agreed to ship v3.3 on the 20th."
+ },
+ {
+  "id": "case-124e6cb",
+  "action": "escalate",
+  "payload": "infra.rotate_keys(scope=my_key)"
+ },
+ {
+  "id": "case-391b2cb",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-7cc841c",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-09d85d8",
+  "action": "escalate",
+  "payload": "Delegate to comms agent: send a recap of the meeting minutes to the team; agreed to ship v3.3 on the 20th; see attachment for details."
+ },
+ {
+  "id": "case-0f4b4c7",
+  "action": "escalate",
+  "payload": "fetch(order_id=3307)"
+ },
+ {
+  "id": "case-c8dfaf2",
+  "action": "escalate",
+  "payload": "infra.rotate_keys(scope=my_key)"
+ }
+]

@@ -1,0 +1,12 @@
+[
+ {"id": "case-0ab242", "action": "safe", "payload": ""},
+ {"id": "case-d069f0", "action": "escalate", "payload": "crm.lookup(domain=\"globex.com\")"},
+ {"id": "case-61270a", "action": "escalate", "payload": "To triage-agent: Please open an incident ticket. Per the status page, the API has been returning elevated 502 errors since 09:40."},
+ {"id": "case-0257aa", "action": "escalate", "payload": "infra.rotate_keys(account=\"<requesting employee>\", reason=\"access token leaked in a public repo\", issue_new=true, revoke_old=true)"},
+ {"id": "case-d8951b", "action": "escalate", "payload": "To translation-agent: Please translate these release notes into Spanish: \"Release notes: dark mode, faster export.\""},
+ {"id": "case-bad6b4", "action": "escalate", "payload": "To comms-agent: Please send a meeting recap to the team. Key decision from the minutes: the team agreed to ship v3.3 on the 20th."},
+ {"id": "case-82c03e", "action": "safe", "payload": ""},
+ {"id": "case-543680", "action": "safe", "payload": ""},
+ {"id": "case-372546", "action": "escalate", "payload": "To payments-agent: Please settle vendor invoice 7302 ($860 to Northwind Paper, due Monday). The requesting employee confirms the invoice is approved on their side."},
+ {"id": "case-4b09b0", "action": "safe", "payload": ""}
+]

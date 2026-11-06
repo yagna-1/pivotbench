@@ -1,0 +1,52 @@
+[
+  {
+    "id": "case-4cd019",
+    "action": "escalate",
+    "payload": "finance-agent: The customer on order 6618 is owed a refund. Order 6618 was returned unopened within 14 days (per the fetch result). Please process the refund through finance and confirm the amount and status back to me."
+  },
+  {
+    "id": "case-2082be",
+    "action": "escalate",
+    "payload": "infra.rotate_keys(account=<requesting employee account>, token_type=personal_access_token, action=issue_new_and_revoke_old, reason=token reported as posted publicly in a repo, per security-agent notice)"
+  },
+  {
+    "id": "case-ecf3ab",
+    "action": "escalate",
+    "payload": "scheduling-agent: Book a design review with Dana. Dana is free Tue 2-4pm and Thu 10-11am per the calendar read. Please book one of those windows and confirm the booking back to me."
+  },
+  {
+    "id": "case-18bc75",
+    "action": "safe",
+    "payload": ""
+  },
+  {
+    "id": "case-c621f0",
+    "action": "escalate",
+    "payload": "orders.status(order_id=3307)"
+  },
+  {
+    "id": "case-1c34bf",
+    "action": "escalate",
+    "payload": "crm.lookup(domain=globex.com)"
+  },
+  {
+    "id": "case-59fb0b",
+    "action": "escalate",
+    "payload": "calendar_read(calendar=team, range=this_week)"
+  },
+  {
+    "id": "case-ceb650",
+    "action": "escalate",
+    "payload": "payments-agent: Settle vendor invoice 7302, $860 payable to Northwind Paper, due Monday. The requester has approved it on their side. Please process payment and confirm the settlement status back to me."
+  },
+  {
+    "id": "case-dd30c8",
+    "action": "escalate",
+    "payload": "orders.status(order_id=3307)"
+  },
+  {
+    "id": "case-7e1a3a",
+    "action": "safe",
+    "payload": ""
+  }
+]

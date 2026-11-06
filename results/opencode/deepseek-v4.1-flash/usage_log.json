@@ -1,0 +1,3618 @@
+[
+ {
+  "file": "deepseek-v4.1-flash/realistic/real_08.json",
+  "usage": {
+   "prompt_tokens": 1898,
+   "completion_tokens": 3509,
+   "total_tokens": 5407,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 2709
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.0023901,
+    "allowance": 0.00143406,
+    "tokens": {
+     "input": 1898,
+     "output": 3509,
+     "reasoning": 2709,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/realistic/real_09.json",
+  "usage": {
+   "prompt_tokens": 1919,
+   "completion_tokens": 10319,
+   "total_tokens": 12238,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 9607
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00647925,
+    "allowance": 0.00388755,
+    "tokens": {
+     "input": 1919,
+     "output": 10319,
+     "reasoning": 9607,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/realistic/real_10.json",
+  "usage": {
+   "prompt_tokens": 1943,
+   "completion_tokens": 10466,
+   "total_tokens": 12409,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 9646
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00657105,
+    "allowance": 0.00394263,
+    "tokens": {
+     "input": 1943,
+     "output": 10466,
+     "reasoning": 9646,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/realistic/real_11.json",
+  "usage": {
+   "prompt_tokens": 1908,
+   "completion_tokens": 5397,
+   "total_tokens": 7305,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 4583
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.0035244,
+    "allowance": 0.00211464,
+    "tokens": {
+     "input": 1908,
+     "output": 5397,
+     "reasoning": 4583,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/realistic/real_12.json",
+  "usage": {
+   "prompt_tokens": 1908,
+   "completion_tokens": 9689,
+   "total_tokens": 11597,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 8748
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.0060996,
+    "allowance": 0.00365976,
+    "tokens": {
+     "input": 1908,
+     "output": 9689,
+     "reasoning": 8748,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/realistic/real_13.json",
+  "usage": {
+   "prompt_tokens": 1914,
+   "completion_tokens": 10243,
+   "total_tokens": 12157,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 9247
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.0064329,
+    "allowance": 0.00385974,
+    "tokens": {
+     "input": 1914,
+     "output": 10243,
+     "reasoning": 9247,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/realistic/real_14.json",
+  "usage": {
+   "prompt_tokens": 1938,
+   "completion_tokens": 7869,
+   "total_tokens": 9807,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 6913
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.0050121,
+    "allowance": 0.00300726,
+    "tokens": {
+     "input": 1938,
+     "output": 7869,
+     "reasoning": 6913,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/realistic/real_15.json",
+  "usage": {
+   "prompt_tokens": 1904,
+   "completion_tokens": 8007,
+   "total_tokens": 9911,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 7072
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.0050898,
+    "allowance": 0.00305388,
+    "tokens": {
+     "input": 1904,
+     "output": 8007,
+     "reasoning": 7072,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/realistic/real_16.json",
+  "usage": {
+   "prompt_tokens": 1935,
+   "completion_tokens": 10686,
+   "total_tokens": 12621,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 9714
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00670185,
+    "allowance": 0.00402111,
+    "tokens": {
+     "input": 1935,
+     "output": 10686,
+     "reasoning": 9714,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/realistic/real_17.json",
+  "usage": {
+   "prompt_tokens": 1923,
+   "completion_tokens": 8740,
+   "total_tokens": 10663,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 7815
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00553245,
+    "allowance": 0.00331947,
+    "tokens": {
+     "input": 1923,
+     "output": 8740,
+     "reasoning": 7815,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/realistic/real_18.json",
+  "usage": {
+   "prompt_tokens": 1842,
+   "completion_tokens": 12461,
+   "total_tokens": 14303,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 11704
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.0077529,
+    "allowance": 0.00465174,
+    "tokens": {
+     "input": 1842,
+     "output": 12461,
+     "reasoning": 11704,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/realistic/real_19.json",
+  "usage": {
+   "prompt_tokens": 1868,
+   "completion_tokens": 10991,
+   "total_tokens": 12859,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 10112
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.0068748,
+    "allowance": 0.00412488,
+    "tokens": {
+     "input": 1868,
+     "output": 10991,
+     "reasoning": 10112,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/realistic/real_20.json",
+  "usage": {
+   "prompt_tokens": 1906,
+   "completion_tokens": 4910,
+   "total_tokens": 6816,
+   "prompt_tokens_details": {
+    "audio_tokens": 0,
+    "cached_tokens": 0,
+    "cache_creation_input_tokens": 0,
+    "cache_write_tokens": 0
+   },
+   "completion_tokens_details": {
+    "accepted_prediction_tokens": 0,
+    "audio_tokens": 0,
+    "reasoning_tokens": 3983,
+    "rejected_prediction_tokens": 0
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.0032319,
+    "allowance": 0.00193914,
+    "tokens": {
+     "input": 1906,
+     "output": 4910,
+     "reasoning": 3983,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/realistic/real_21.json",
+  "usage": {
+   "prompt_tokens": 1894,
+   "completion_tokens": 12756,
+   "total_tokens": 14650,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 12015
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.0079377,
+    "allowance": 0.00476262,
+    "tokens": {
+     "input": 1894,
+     "output": 12756,
+     "reasoning": 12015,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/realistic/real_22.json",
+  "usage": {
+   "prompt_tokens": 1903,
+   "completion_tokens": 14716,
+   "total_tokens": 16619,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 13793
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00911505,
+    "allowance": 0.00546903,
+    "tokens": {
+     "input": 1903,
+     "output": 14716,
+     "reasoning": 13793,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/realistic/real_23.json",
+  "usage": {
+   "prompt_tokens": 1937,
+   "completion_tokens": 9529,
+   "total_tokens": 11466,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 8810
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00600795,
+    "allowance": 0.00360477,
+    "tokens": {
+     "input": 1937,
+     "output": 9529,
+     "reasoning": 8810,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/realistic/real_24.json",
+  "usage": {
+   "prompt_tokens": 1859,
+   "completion_tokens": 9503,
+   "total_tokens": 11362,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 8802
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00598065,
+    "allowance": 0.00358839,
+    "tokens": {
+     "input": 1859,
+     "output": 9503,
+     "reasoning": 8802,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/realistic/real_25.json",
+  "usage": {
+   "prompt_tokens": 1904,
+   "completion_tokens": 4730,
+   "total_tokens": 6634,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 3803
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.0031236,
+    "allowance": 0.00187416,
+    "tokens": {
+     "input": 1904,
+     "output": 4730,
+     "reasoning": 3803,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/realistic/real_27.json",
+  "usage": {
+   "prompt_tokens": 1920,
+   "completion_tokens": 8393,
+   "total_tokens": 10313,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 7444
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.0053238,
+    "allowance": 0.00319428,
+    "tokens": {
+     "input": 1920,
+     "output": 8393,
+     "reasoning": 7444,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/realistic/real_28.json",
+  "usage": {
+   "prompt_tokens": 1885,
+   "completion_tokens": 4806,
+   "total_tokens": 6691,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 4007
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00316635,
+    "allowance": 0.00189981,
+    "tokens": {
+     "input": 1885,
+     "output": 4806,
+     "reasoning": 4007,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/realistic/real_29.json",
+  "usage": {
+   "prompt_tokens": 1853,
+   "completion_tokens": 8766,
+   "total_tokens": 10619,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 8144
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00553755,
+    "allowance": 0.00332253,
+    "tokens": {
+     "input": 1853,
+     "output": 8766,
+     "reasoning": 8144,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/realistic/real_30.json",
+  "usage": {
+   "prompt_tokens": 1879,
+   "completion_tokens": 11160,
+   "total_tokens": 13039,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 10289
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00697785,
+    "allowance": 0.00418671,
+    "tokens": {
+     "input": 1879,
+     "output": 11160,
+     "reasoning": 10289,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/realistic/real_31.json",
+  "usage": {
+   "prompt_tokens": 1905,
+   "completion_tokens": 4206,
+   "total_tokens": 6111,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 3598
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00280935,
+    "allowance": 0.00168561,
+    "tokens": {
+     "input": 1905,
+     "output": 4206,
+     "reasoning": 3598,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/realistic/real_32.json",
+  "usage": {
+   "prompt_tokens": 1939,
+   "completion_tokens": 8948,
+   "total_tokens": 10887,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 7996
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00565965,
+    "allowance": 0.00339579,
+    "tokens": {
+     "input": 1939,
+     "output": 8948,
+     "reasoning": 7996,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/realistic/real_33.json",
+  "usage": {
+   "prompt_tokens": 1896,
+   "completion_tokens": 8981,
+   "total_tokens": 10877,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 8125
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.005673,
+    "allowance": 0.0034038,
+    "tokens": {
+     "input": 1896,
+     "output": 8981,
+     "reasoning": 8125,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/realistic/real_34.json",
+  "usage": {
+   "prompt_tokens": 1859,
+   "completion_tokens": 7294,
+   "total_tokens": 9153,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": null
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 6639
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00465525,
+    "allowance": 0.00279315,
+    "tokens": {
+     "input": 1859,
+     "output": 7294,
+     "reasoning": 6639,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/realistic/real_35.json",
+  "usage": {
+   "prompt_tokens": 1903,
+   "completion_tokens": 11497,
+   "total_tokens": 13400,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": null
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 10560
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00718365,
+    "allowance": 0.00431019,
+    "tokens": {
+     "input": 1903,
+     "output": 11497,
+     "reasoning": 10560,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/realistic/real_36.json",
+  "usage": {
+   "prompt_tokens": 1898,
+   "completion_tokens": 6558,
+   "total_tokens": 8456,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 5871
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.0042195,
+    "allowance": 0.0025317,
+    "tokens": {
+     "input": 1898,
+     "output": 6558,
+     "reasoning": 5871,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/realistic/real_37.json",
+  "usage": {
+   "prompt_tokens": 1908,
+   "completion_tokens": 6826,
+   "total_tokens": 8734,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 6201
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.0043818,
+    "allowance": 0.00262908,
+    "tokens": {
+     "input": 1908,
+     "output": 6826,
+     "reasoning": 6201,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/realistic/real_38.json",
+  "usage": {
+   "prompt_tokens": 1893,
+   "completion_tokens": 6614,
+   "total_tokens": 8507,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": null
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 5718
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00425235,
+    "allowance": 0.00255141,
+    "tokens": {
+     "input": 1893,
+     "output": 6614,
+     "reasoning": 5718,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/realistic/real_39.json",
+  "usage": {
+   "prompt_tokens": 1903,
+   "completion_tokens": 7818,
+   "total_tokens": 9721,
+   "prompt_tokens_details": {
+    "cached_tokens": 1792
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 7156
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00471283,
+    "allowance": 0.0028277,
+    "tokens": {
+     "input": 111,
+     "output": 7818,
+     "reasoning": 7156,
+     "cache_read": 1792,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/mixed_rep1/mixed_00.json",
+  "usage": {
+   "prompt_tokens": 1324,
+   "completion_tokens": 13070,
+   "total_tokens": 14394,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 12544
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.0080406,
+    "allowance": 0.00482436,
+    "tokens": {
+     "input": 1324,
+     "output": 13070,
+     "reasoning": 12544,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/mixed_rep1/mixed_01.json",
+  "usage": {
+   "prompt_tokens": 1320,
+   "completion_tokens": 5323,
+   "total_tokens": 6643,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 4833
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.0033918,
+    "allowance": 0.00203508,
+    "tokens": {
+     "input": 1320,
+     "output": 5323,
+     "reasoning": 4833,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/mixed_rep1/mixed_02.json",
+  "usage": {
+   "prompt_tokens": 1376,
+   "completion_tokens": 6941,
+   "total_tokens": 8317,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 6466
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.004371,
+    "allowance": 0.0026226,
+    "tokens": {
+     "input": 1376,
+     "output": 6941,
+     "reasoning": 6466,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/mixed_rep1/mixed_03.json",
+  "usage": {
+   "prompt_tokens": 1342,
+   "completion_tokens": 5143,
+   "total_tokens": 6485,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 4586
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.0032871,
+    "allowance": 0.00197226,
+    "tokens": {
+     "input": 1342,
+     "output": 5143,
+     "reasoning": 4586,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/mixed_rep1/mixed_04.json",
+  "usage": {
+   "prompt_tokens": 1301,
+   "completion_tokens": 3675,
+   "total_tokens": 4976,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 3066
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00240015,
+    "allowance": 0.00144009,
+    "tokens": {
+     "input": 1301,
+     "output": 3675,
+     "reasoning": 3066,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/mixed_rep1/mixed_05.json",
+  "usage": {
+   "prompt_tokens": 1403,
+   "completion_tokens": 6671,
+   "total_tokens": 8074,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 6289
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00421305,
+    "allowance": 0.00252783,
+    "tokens": {
+     "input": 1403,
+     "output": 6671,
+     "reasoning": 6289,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/mixed_rep1/mixed_06.json",
+  "usage": {
+   "prompt_tokens": 1319,
+   "completion_tokens": 6277,
+   "total_tokens": 7596,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 5694
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00396405,
+    "allowance": 0.00237843,
+    "tokens": {
+     "input": 1319,
+     "output": 6277,
+     "reasoning": 5694,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/mixed_rep1/mixed_07.json",
+  "usage": {
+   "prompt_tokens": 1369,
+   "completion_tokens": 9460,
+   "total_tokens": 10829,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 8972
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00588135,
+    "allowance": 0.00352881,
+    "tokens": {
+     "input": 1369,
+     "output": 9460,
+     "reasoning": 8972,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/mixed_rep1/mixed_08.json",
+  "usage": {
+   "prompt_tokens": 1336,
+   "completion_tokens": 8775,
+   "total_tokens": 10111,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 8329
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.0054654,
+    "allowance": 0.00327924,
+    "tokens": {
+     "input": 1336,
+     "output": 8775,
+     "reasoning": 8329,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/mixed_rep1/mixed_09.json",
+  "usage": {
+   "prompt_tokens": 1384,
+   "completion_tokens": 6370,
+   "total_tokens": 7754,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 6049
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.0040296,
+    "allowance": 0.00241776,
+    "tokens": {
+     "input": 1384,
+     "output": 6370,
+     "reasoning": 6049,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/mixed_rep2/mixed_00.json",
+  "usage": {
+   "prompt_tokens": 1324,
+   "completion_tokens": 5621,
+   "total_tokens": 6945,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 5097
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.0035712,
+    "allowance": 0.00214272,
+    "tokens": {
+     "input": 1324,
+     "output": 5621,
+     "reasoning": 5097,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/mixed_rep2/mixed_01.json",
+  "usage": {
+   "prompt_tokens": 1320,
+   "completion_tokens": 5730,
+   "total_tokens": 7050,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 5244
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.003636,
+    "allowance": 0.0021816,
+    "tokens": {
+     "input": 1320,
+     "output": 5730,
+     "reasoning": 5244,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/mixed_rep2/mixed_02.json",
+  "usage": {
+   "prompt_tokens": 1376,
+   "completion_tokens": 12561,
+   "total_tokens": 13937,
+   "prompt_tokens_details": {
+    "cached_tokens": 1280
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 11998
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00755484,
+    "allowance": 0.0045329,
+    "tokens": {
+     "input": 96,
+     "output": 12561,
+     "reasoning": 11998,
+     "cache_read": 1280,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/mixed_rep2/mixed_03.json",
+  "usage": {
+   "prompt_tokens": 1342,
+   "completion_tokens": 5733,
+   "total_tokens": 7075,
+   "prompt_tokens_details": {
+    "cached_tokens": 1280
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 5156
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00345294,
+    "allowance": 0.00207176,
+    "tokens": {
+     "input": 62,
+     "output": 5733,
+     "reasoning": 5156,
+     "cache_read": 1280,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/mixed_rep2/mixed_04.json",
+  "usage": {
+   "prompt_tokens": 1301,
+   "completion_tokens": 11909,
+   "total_tokens": 13210,
+   "prompt_tokens_details": {
+    "cached_tokens": 1280
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 11338
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00715239,
+    "allowance": 0.00429143,
+    "tokens": {
+     "input": 21,
+     "output": 11909,
+     "reasoning": 11338,
+     "cache_read": 1280,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/mixed_rep2/mixed_05.json",
+  "usage": {
+   "prompt_tokens": 1403,
+   "completion_tokens": 6453,
+   "total_tokens": 7856,
+   "prompt_tokens_details": {
+    "cached_tokens": 1280
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 5897
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00389409,
+    "allowance": 0.00233645,
+    "tokens": {
+     "input": 123,
+     "output": 6453,
+     "reasoning": 5897,
+     "cache_read": 1280,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/mixed_rep2/mixed_06.json",
+  "usage": {
+   "prompt_tokens": 1319,
+   "completion_tokens": 8991,
+   "total_tokens": 10310,
+   "prompt_tokens_details": {
+    "cached_tokens": 1280
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 8611
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00540429,
+    "allowance": 0.00324257,
+    "tokens": {
+     "input": 39,
+     "output": 8991,
+     "reasoning": 8611,
+     "cache_read": 1280,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/mixed_rep2/mixed_07.json",
+  "usage": {
+   "prompt_tokens": 1369,
+   "completion_tokens": 4839,
+   "total_tokens": 6208,
+   "prompt_tokens_details": {
+    "cached_tokens": 1280
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 4418
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00292059,
+    "allowance": 0.00175235,
+    "tokens": {
+     "input": 89,
+     "output": 4839,
+     "reasoning": 4418,
+     "cache_read": 1280,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/mixed_rep2/mixed_08.json",
+  "usage": {
+   "prompt_tokens": 1336,
+   "completion_tokens": 14662,
+   "total_tokens": 15998,
+   "prompt_tokens_details": {
+    "cached_tokens": 1280
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 14148
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00880944,
+    "allowance": 0.00528566,
+    "tokens": {
+     "input": 56,
+     "output": 14662,
+     "reasoning": 14148,
+     "cache_read": 1280,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/mixed_rep2/mixed_09.json",
+  "usage": {
+   "prompt_tokens": 1384,
+   "completion_tokens": 10660,
+   "total_tokens": 12044,
+   "prompt_tokens_details": {
+    "cached_tokens": 1280
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 10091
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00641544,
+    "allowance": 0.00384926,
+    "tokens": {
+     "input": 104,
+     "output": 10660,
+     "reasoning": 10091,
+     "cache_read": 1280,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/mixed_rep3/mixed_00.json",
+  "usage": {
+   "prompt_tokens": 1324,
+   "completion_tokens": 8210,
+   "total_tokens": 9534,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 7803
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.0051246,
+    "allowance": 0.00307476,
+    "tokens": {
+     "input": 1324,
+     "output": 8210,
+     "reasoning": 7803,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/mixed_rep3/mixed_01.json",
+  "usage": {
+   "prompt_tokens": 1320,
+   "completion_tokens": 5409,
+   "total_tokens": 6729,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 4932
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.0034434,
+    "allowance": 0.00206604,
+    "tokens": {
+     "input": 1320,
+     "output": 5409,
+     "reasoning": 4932,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/mixed_rep3/mixed_02.json",
+  "usage": {
+   "prompt_tokens": 1376,
+   "completion_tokens": 3461,
+   "total_tokens": 4837,
+   "prompt_tokens_details": {
+    "cached_tokens": 1280
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 3033
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00209484,
+    "allowance": 0.0012569,
+    "tokens": {
+     "input": 96,
+     "output": 3461,
+     "reasoning": 3033,
+     "cache_read": 1280,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/mixed_rep3/mixed_03.json",
+  "usage": {
+   "prompt_tokens": 1342,
+   "completion_tokens": 9565,
+   "total_tokens": 10907,
+   "prompt_tokens_details": {
+    "cached_tokens": 1280
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 8992
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00575214,
+    "allowance": 0.00345128,
+    "tokens": {
+     "input": 62,
+     "output": 9565,
+     "reasoning": 8992,
+     "cache_read": 1280,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/mixed_rep3/mixed_04.json",
+  "usage": {
+   "prompt_tokens": 1301,
+   "completion_tokens": 7492,
+   "total_tokens": 8793,
+   "prompt_tokens_details": {
+    "cached_tokens": 1280
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 6964
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00450219,
+    "allowance": 0.00270131,
+    "tokens": {
+     "input": 21,
+     "output": 7492,
+     "reasoning": 6964,
+     "cache_read": 1280,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/mixed_rep3/mixed_05.json",
+  "usage": {
+   "prompt_tokens": 1403,
+   "completion_tokens": 8472,
+   "total_tokens": 9875,
+   "prompt_tokens_details": {
+    "cached_tokens": 1280
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 7852
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00510549,
+    "allowance": 0.00306329,
+    "tokens": {
+     "input": 123,
+     "output": 8472,
+     "reasoning": 7852,
+     "cache_read": 1280,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/mixed_rep3/mixed_06.json",
+  "usage": {
+   "prompt_tokens": 1319,
+   "completion_tokens": 6436,
+   "total_tokens": 7755,
+   "prompt_tokens_details": {
+    "cached_tokens": 1280
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 5909
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00387129,
+    "allowance": 0.00232277,
+    "tokens": {
+     "input": 39,
+     "output": 6436,
+     "reasoning": 5909,
+     "cache_read": 1280,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/mixed_rep3/mixed_07.json",
+  "usage": {
+   "prompt_tokens": 1369,
+   "completion_tokens": 3651,
+   "total_tokens": 5020,
+   "prompt_tokens_details": {
+    "cached_tokens": 1280
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 3176
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00220779,
+    "allowance": 0.00132467,
+    "tokens": {
+     "input": 89,
+     "output": 3651,
+     "reasoning": 3176,
+     "cache_read": 1280,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/mixed_rep3/mixed_08.json",
+  "usage": {
+   "prompt_tokens": 1336,
+   "completion_tokens": 9794,
+   "total_tokens": 11130,
+   "prompt_tokens_details": {
+    "cached_tokens": 1280
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 9437
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00588864,
+    "allowance": 0.00353318,
+    "tokens": {
+     "input": 56,
+     "output": 9794,
+     "reasoning": 9437,
+     "cache_read": 1280,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/mixed_rep3/mixed_09.json",
+  "usage": {
+   "prompt_tokens": 1384,
+   "completion_tokens": 11450,
+   "total_tokens": 12834,
+   "prompt_tokens_details": {
+    "cached_tokens": 1280
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 10955
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00688944,
+    "allowance": 0.00413366,
+    "tokens": {
+     "input": 104,
+     "output": 11450,
+     "reasoning": 10955,
+     "cache_read": 1280,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/single/single_00.json",
+  "usage": {
+   "prompt_tokens": 378,
+   "completion_tokens": 281,
+   "total_tokens": 659,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 240
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.0002253,
+    "allowance": 0.00013518,
+    "tokens": {
+     "input": 378,
+     "output": 281,
+     "reasoning": 240,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/single/single_01.json",
+  "usage": {
+   "prompt_tokens": 388,
+   "completion_tokens": 2130,
+   "total_tokens": 2518,
+   "prompt_tokens_details": {
+    "audio_tokens": 0,
+    "cached_tokens": 0,
+    "cache_creation_input_tokens": 0,
+    "cache_write_tokens": 0
+   },
+   "completion_tokens_details": {
+    "accepted_prediction_tokens": 0,
+    "audio_tokens": 0,
+    "reasoning_tokens": 2065,
+    "rejected_prediction_tokens": 0
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.0013362,
+    "allowance": 0.00080172,
+    "tokens": {
+     "input": 388,
+     "output": 2130,
+     "reasoning": 2065,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/single/single_02.json",
+  "usage": {
+   "prompt_tokens": 401,
+   "completion_tokens": 502,
+   "total_tokens": 903,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 463
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00036135,
+    "allowance": 0.00021681,
+    "tokens": {
+     "input": 401,
+     "output": 502,
+     "reasoning": 463,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/single/single_03.json",
+  "usage": {
+   "prompt_tokens": 386,
+   "completion_tokens": 286,
+   "total_tokens": 672,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 242
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.0002295,
+    "allowance": 0.0001377,
+    "tokens": {
+     "input": 386,
+     "output": 286,
+     "reasoning": 242,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/single/single_04.json",
+  "usage": {
+   "prompt_tokens": 384,
+   "completion_tokens": 289,
+   "total_tokens": 673,
+   "prompt_cache_hit_tokens": 0,
+   "prompt_cache_miss_tokens": 384,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 249
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.000231,
+    "allowance": 0.0001386,
+    "tokens": {
+     "input": 384,
+     "output": 289,
+     "reasoning": 249,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/single/single_05.json",
+  "usage": {
+   "prompt_tokens": 403,
+   "completion_tokens": 720,
+   "total_tokens": 1123,
+   "prompt_tokens_details": {
+    "audio_tokens": 0,
+    "cached_tokens": 0,
+    "cache_creation_input_tokens": 0,
+    "cache_write_tokens": 0
+   },
+   "completion_tokens_details": {
+    "accepted_prediction_tokens": 0,
+    "audio_tokens": 0,
+    "reasoning_tokens": 660,
+    "rejected_prediction_tokens": 0
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00049245,
+    "allowance": 0.00029547,
+    "tokens": {
+     "input": 403,
+     "output": 720,
+     "reasoning": 660,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/single/single_06.json",
+  "usage": {
+   "prompt_tokens": 379,
+   "completion_tokens": 1984,
+   "total_tokens": 2363,
+   "prompt_cache_hit_tokens": 0,
+   "prompt_cache_miss_tokens": 379,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 1945
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00124725,
+    "allowance": 0.00074835,
+    "tokens": {
+     "input": 379,
+     "output": 1984,
+     "reasoning": 1945,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/single/single_07.json",
+  "usage": {
+   "prompt_tokens": 382,
+   "completion_tokens": 248,
+   "total_tokens": 630,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 203
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.0002061,
+    "allowance": 0.00012366,
+    "tokens": {
+     "input": 382,
+     "output": 248,
+     "reasoning": 203,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/single/single_08.json",
+  "usage": {
+   "prompt_tokens": 383,
+   "completion_tokens": 4046,
+   "total_tokens": 4429,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 4025
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00248505,
+    "allowance": 0.00149103,
+    "tokens": {
+     "input": 383,
+     "output": 4046,
+     "reasoning": 4025,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/single/single_09.json",
+  "usage": {
+   "prompt_tokens": 403,
+   "completion_tokens": 4623,
+   "total_tokens": 5026,
+   "prompt_tokens_details": {
+    "audio_tokens": 0,
+    "cached_tokens": 0,
+    "cache_creation_input_tokens": 0,
+    "cache_write_tokens": 0
+   },
+   "completion_tokens_details": {
+    "accepted_prediction_tokens": 0,
+    "audio_tokens": 0,
+    "reasoning_tokens": 4604,
+    "rejected_prediction_tokens": 0
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00283425,
+    "allowance": 0.00170055,
+    "tokens": {
+     "input": 403,
+     "output": 4623,
+     "reasoning": 4604,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/single/single_10.json",
+  "usage": {
+   "prompt_tokens": 387,
+   "completion_tokens": 1234,
+   "total_tokens": 1621,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 1202
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00079845,
+    "allowance": 0.00047907,
+    "tokens": {
+     "input": 387,
+     "output": 1234,
+     "reasoning": 1202,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/single/single_11.json",
+  "usage": {
+   "prompt_tokens": 370,
+   "completion_tokens": 1079,
+   "total_tokens": 1449,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 1058
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.0007029,
+    "allowance": 0.00042174,
+    "tokens": {
+     "input": 370,
+     "output": 1079,
+     "reasoning": 1058,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/planner_s1/batch_1.json",
+  "usage": {
+   "prompt_tokens": 3506,
+   "completion_tokens": 4908,
+   "total_tokens": 8414,
+   "prompt_tokens_details": {
+    "cached_tokens": 3456
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 2933
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00296267,
+    "allowance": 0.0017776,
+    "tokens": {
+     "input": 50,
+     "output": 4908,
+     "reasoning": 2933,
+     "cache_read": 3456,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/planner_s1/batch_2.json",
+  "usage": {
+   "prompt_tokens": 3330,
+   "completion_tokens": 14797,
+   "total_tokens": 18127,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 13034
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.0093777,
+    "allowance": 0.00562662,
+    "tokens": {
+     "input": 3330,
+     "output": 14797,
+     "reasoning": 13034,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/planner_s1/batch_3.json",
+  "usage": {
+   "prompt_tokens": 2955,
+   "completion_tokens": 11805,
+   "total_tokens": 14760,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 10222
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00752625,
+    "allowance": 0.00451575,
+    "tokens": {
+     "input": 2955,
+     "output": 11805,
+     "reasoning": 10222,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/planner_s2/batch_1.json",
+  "usage": {
+   "prompt_tokens": 3506,
+   "completion_tokens": 14974,
+   "total_tokens": 18480,
+   "prompt_tokens_details": {
+    "cached_tokens": 3456
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 13164
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00900227,
+    "allowance": 0.00540136,
+    "tokens": {
+     "input": 50,
+     "output": 14974,
+     "reasoning": 13164,
+     "cache_read": 3456,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/planner_s2/batch_3.json",
+  "usage": {
+   "prompt_tokens": 2955,
+   "completion_tokens": 11956,
+   "total_tokens": 14911,
+   "prompt_tokens_details": {
+    "cached_tokens": 2944
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 10171
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00718408,
+    "allowance": 0.00431045,
+    "tokens": {
+     "input": 11,
+     "output": 11956,
+     "reasoning": 10171,
+     "cache_read": 2944,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/planner_s3/batch_1.json",
+  "usage": {
+   "prompt_tokens": 3505,
+   "completion_tokens": 14330,
+   "total_tokens": 17835,
+   "prompt_tokens_details": {
+    "cached_tokens": 3456
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 12058
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00861572,
+    "allowance": 0.00516943,
+    "tokens": {
+     "input": 49,
+     "output": 14330,
+     "reasoning": 12058,
+     "cache_read": 3456,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/planner_s3/batch_2.json",
+  "usage": {
+   "prompt_tokens": 3329,
+   "completion_tokens": 13572,
+   "total_tokens": 16901,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 11813
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00864255,
+    "allowance": 0.00518553,
+    "tokens": {
+     "input": 3329,
+     "output": 13572,
+     "reasoning": 11813,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/planner_s3/batch_3.json",
+  "usage": {
+   "prompt_tokens": 2954,
+   "completion_tokens": 11431,
+   "total_tokens": 14385,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 9643
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.0073017,
+    "allowance": 0.00438102,
+    "tokens": {
+     "input": 2954,
+     "output": 11431,
+     "reasoning": 9643,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/parse/parse_03.json",
+  "usage": {
+   "prompt_tokens": 3209,
+   "completion_tokens": 7431,
+   "total_tokens": 10640,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 5620
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00493995,
+    "allowance": 0.00296397,
+    "tokens": {
+     "input": 3209,
+     "output": 7431,
+     "reasoning": 5620,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/parse/parse_04.json",
+  "usage": {
+   "prompt_tokens": 2975,
+   "completion_tokens": 15184,
+   "total_tokens": 18159,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 13566
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00955665,
+    "allowance": 0.00573399,
+    "tokens": {
+     "input": 2975,
+     "output": 15184,
+     "reasoning": 13566,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/parse/parse_08.json",
+  "usage": {
+   "prompt_tokens": 3112,
+   "completion_tokens": 14940,
+   "total_tokens": 18052,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 13389
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.0094308,
+    "allowance": 0.00565848,
+    "tokens": {
+     "input": 3112,
+     "output": 14940,
+     "reasoning": 13389,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/parse/parse_10.json",
+  "usage": {
+   "prompt_tokens": 3122,
+   "completion_tokens": 3225,
+   "total_tokens": 6347,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": null
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 1323
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.0024033,
+    "allowance": 0.00144198,
+    "tokens": {
+     "input": 3122,
+     "output": 3225,
+     "reasoning": 1323,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/parse/parse_12.json",
+  "usage": {
+   "prompt_tokens": 3119,
+   "completion_tokens": 14265,
+   "total_tokens": 17384,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 12503
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00902685,
+    "allowance": 0.00541611,
+    "tokens": {
+     "input": 3119,
+     "output": 14265,
+     "reasoning": 12503,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/parse/parse_13.json",
+  "usage": {
+   "prompt_tokens": 3073,
+   "completion_tokens": 12553,
+   "total_tokens": 15626,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 10904
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00799275,
+    "allowance": 0.00479565,
+    "tokens": {
+     "input": 3073,
+     "output": 12553,
+     "reasoning": 10904,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/parse_r2/parse_02.json",
+  "usage": {
+   "prompt_tokens": 1888,
+   "completion_tokens": 13502,
+   "total_tokens": 15390,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 11994
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.0083844,
+    "allowance": 0.00503064,
+    "tokens": {
+     "input": 1888,
+     "output": 13502,
+     "reasoning": 11994,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/judge_auth/auth_00.json",
+  "usage": {
+   "prompt_tokens": 3737,
+   "completion_tokens": 3488,
+   "total_tokens": 7225,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 2660
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00265335,
+    "allowance": 0.00159201,
+    "tokens": {
+     "input": 3737,
+     "output": 3488,
+     "reasoning": 2660,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/judge_auth/auth_01.json",
+  "usage": {
+   "prompt_tokens": 3553,
+   "completion_tokens": 4885,
+   "total_tokens": 8438,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 3854
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00346395,
+    "allowance": 0.00207837,
+    "tokens": {
+     "input": 3553,
+     "output": 4885,
+     "reasoning": 3854,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/judge_auth/auth_02.json",
+  "usage": {
+   "prompt_tokens": 3662,
+   "completion_tokens": 3590,
+   "total_tokens": 7252,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 2567
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.0027033,
+    "allowance": 0.00162198,
+    "tokens": {
+     "input": 3662,
+     "output": 3590,
+     "reasoning": 2567,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/judge_auth/auth_03.json",
+  "usage": {
+   "prompt_tokens": 3532,
+   "completion_tokens": 3658,
+   "total_tokens": 7190,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 2822
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.0027246,
+    "allowance": 0.00163476,
+    "tokens": {
+     "input": 3532,
+     "output": 3658,
+     "reasoning": 2822,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/judge_auth/auth_04.json",
+  "usage": {
+   "prompt_tokens": 3709,
+   "completion_tokens": 3838,
+   "total_tokens": 7547,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 3010
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00285915,
+    "allowance": 0.00171549,
+    "tokens": {
+     "input": 3709,
+     "output": 3838,
+     "reasoning": 3010,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/judge_auth/auth_05.json",
+  "usage": {
+   "prompt_tokens": 3640,
+   "completion_tokens": 3476,
+   "total_tokens": 7116,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 2603
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.0026316,
+    "allowance": 0.00157896,
+    "tokens": {
+     "input": 3640,
+     "output": 3476,
+     "reasoning": 2603,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/judge_auth/auth_06.json",
+  "usage": {
+   "prompt_tokens": 3835,
+   "completion_tokens": 3358,
+   "total_tokens": 7193,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 2308
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00259005,
+    "allowance": 0.00155403,
+    "tokens": {
+     "input": 3835,
+     "output": 3358,
+     "reasoning": 2308,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/judge_auth/auth_07.json",
+  "usage": {
+   "prompt_tokens": 3596,
+   "completion_tokens": 3630,
+   "total_tokens": 7226,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 2797
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.0027174,
+    "allowance": 0.00163044,
+    "tokens": {
+     "input": 3596,
+     "output": 3630,
+     "reasoning": 2797,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/judge_auth/auth_08.json",
+  "usage": {
+   "prompt_tokens": 3565,
+   "completion_tokens": 5348,
+   "total_tokens": 8913,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 4498
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00374355,
+    "allowance": 0.00224613,
+    "tokens": {
+     "input": 3565,
+     "output": 5348,
+     "reasoning": 4498,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/judge_auth/auth_09.json",
+  "usage": {
+   "prompt_tokens": 3313,
+   "completion_tokens": 3448,
+   "total_tokens": 6761,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 2480
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00256575,
+    "allowance": 0.00153945,
+    "tokens": {
+     "input": 3313,
+     "output": 3448,
+     "reasoning": 2480,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/judge_prov_data/prov_01.json",
+  "usage": {
+   "prompt_tokens": 5490,
+   "completion_tokens": 13226,
+   "total_tokens": 18716,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 12395
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.0087591,
+    "allowance": 0.00525546,
+    "tokens": {
+     "input": 5490,
+     "output": 13226,
+     "reasoning": 12395,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/judge_prov_data/prov_02.json",
+  "usage": {
+   "prompt_tokens": 5709,
+   "completion_tokens": 10298,
+   "total_tokens": 16007,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 9475
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00703515,
+    "allowance": 0.00422109,
+    "tokens": {
+     "input": 5709,
+     "output": 10298,
+     "reasoning": 9475,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/judge_prov_data/prov_03.json",
+  "usage": {
+   "prompt_tokens": 5602,
+   "completion_tokens": 10069,
+   "total_tokens": 15671,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 9233
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.0068817,
+    "allowance": 0.00412902,
+    "tokens": {
+     "input": 5602,
+     "output": 10069,
+     "reasoning": 9233,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/judge_prov_data/prov_04.json",
+  "usage": {
+   "prompt_tokens": 5737,
+   "completion_tokens": 9140,
+   "total_tokens": 14877,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 8313
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00634455,
+    "allowance": 0.00380673,
+    "tokens": {
+     "input": 5737,
+     "output": 9140,
+     "reasoning": 8313,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/judge_prov_data/prov_05.json",
+  "usage": {
+   "prompt_tokens": 5687,
+   "completion_tokens": 14095,
+   "total_tokens": 19782,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 13272
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00931005,
+    "allowance": 0.00558603,
+    "tokens": {
+     "input": 5687,
+     "output": 14095,
+     "reasoning": 13272,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/judge_prov_data/prov_06.json",
+  "usage": {
+   "prompt_tokens": 5724,
+   "completion_tokens": 8711,
+   "total_tokens": 14435,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 7861
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.0060852,
+    "allowance": 0.00365112,
+    "tokens": {
+     "input": 5724,
+     "output": 8711,
+     "reasoning": 7861,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/judge_prov_data/prov_07.json",
+  "usage": {
+   "prompt_tokens": 5407,
+   "completion_tokens": 15285,
+   "total_tokens": 20692,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 14252
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00998205,
+    "allowance": 0.00598923,
+    "tokens": {
+     "input": 5407,
+     "output": 15285,
+     "reasoning": 14252,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/judge_prov_data/prov_09.json",
+  "usage": {
+   "prompt_tokens": 5084,
+   "completion_tokens": 10285,
+   "total_tokens": 15369,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 9317
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.0069336,
+    "allowance": 0.00416016,
+    "tokens": {
+     "input": 5084,
+     "output": 10285,
+     "reasoning": 9317,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/judge_prov_instr/prov_00.json",
+  "usage": {
+   "prompt_tokens": 5633,
+   "completion_tokens": 7242,
+   "total_tokens": 12875,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 6414
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00519015,
+    "allowance": 0.00311409,
+    "tokens": {
+     "input": 5633,
+     "output": 7242,
+     "reasoning": 6414,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/judge_prov_instr/prov_01.json",
+  "usage": {
+   "prompt_tokens": 5502,
+   "completion_tokens": 6758,
+   "total_tokens": 12260,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 5727
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.0048801,
+    "allowance": 0.00292806,
+    "tokens": {
+     "input": 5502,
+     "output": 6758,
+     "reasoning": 5727,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/judge_prov_instr/prov_02.json",
+  "usage": {
+   "prompt_tokens": 5721,
+   "completion_tokens": 4879,
+   "total_tokens": 10600,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 3856
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00378555,
+    "allowance": 0.00227133,
+    "tokens": {
+     "input": 5721,
+     "output": 4879,
+     "reasoning": 3856,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/judge_prov_instr/prov_03.json",
+  "usage": {
+   "prompt_tokens": 5614,
+   "completion_tokens": 3640,
+   "total_tokens": 9254,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 2804
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.0030261,
+    "allowance": 0.00181566,
+    "tokens": {
+     "input": 5614,
+     "output": 3640,
+     "reasoning": 2804,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/judge_prov_instr/prov_04.json",
+  "usage": {
+   "prompt_tokens": 5749,
+   "completion_tokens": 6036,
+   "total_tokens": 11785,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 5008
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00448395,
+    "allowance": 0.00269037,
+    "tokens": {
+     "input": 5749,
+     "output": 6036,
+     "reasoning": 5008,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/judge_prov_instr/prov_05.json",
+  "usage": {
+   "prompt_tokens": 5699,
+   "completion_tokens": 4382,
+   "total_tokens": 10081,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 3359
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00348405,
+    "allowance": 0.00209043,
+    "tokens": {
+     "input": 5699,
+     "output": 4382,
+     "reasoning": 3359,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/judge_prov_instr/prov_06.json",
+  "usage": {
+   "prompt_tokens": 5736,
+   "completion_tokens": 4618,
+   "total_tokens": 10354,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 3768
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.0036312,
+    "allowance": 0.00217872,
+    "tokens": {
+     "input": 5736,
+     "output": 4618,
+     "reasoning": 3768,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/judge_prov_instr/prov_07.json",
+  "usage": {
+   "prompt_tokens": 5419,
+   "completion_tokens": 4538,
+   "total_tokens": 9957,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 3705
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00353565,
+    "allowance": 0.00212139,
+    "tokens": {
+     "input": 5419,
+     "output": 4538,
+     "reasoning": 3705,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/judge_prov_instr/prov_08.json",
+  "usage": {
+   "prompt_tokens": 5668,
+   "completion_tokens": 5342,
+   "total_tokens": 11010,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 4292
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.0040554,
+    "allowance": 0.00243324,
+    "tokens": {
+     "input": 5668,
+     "output": 5342,
+     "reasoning": 4292,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/judge_prov_instr/prov_09.json",
+  "usage": {
+   "prompt_tokens": 5096,
+   "completion_tokens": 3643,
+   "total_tokens": 8739,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 2859
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.0029502,
+    "allowance": 0.00177012,
+    "tokens": {
+     "input": 5096,
+     "output": 3643,
+     "reasoning": 2859,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/judge_pi/pi_00.json",
+  "usage": {
+   "prompt_tokens": 2832,
+   "completion_tokens": 2450,
+   "total_tokens": 5282,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 1413
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.0018948,
+    "allowance": 0.00113688,
+    "tokens": {
+     "input": 2832,
+     "output": 2450,
+     "reasoning": 1413,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/judge_pi/pi_01.json",
+  "usage": {
+   "prompt_tokens": 3117,
+   "completion_tokens": 4805,
+   "total_tokens": 7922,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 3914
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00335055,
+    "allowance": 0.00201033,
+    "tokens": {
+     "input": 3117,
+     "output": 4805,
+     "reasoning": 3914,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/judge_pi/pi_02.json",
+  "usage": {
+   "prompt_tokens": 3147,
+   "completion_tokens": 4447,
+   "total_tokens": 7594,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 3604
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00314025,
+    "allowance": 0.00188415,
+    "tokens": {
+     "input": 3147,
+     "output": 4447,
+     "reasoning": 3604,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/judge_pi/pi_03.json",
+  "usage": {
+   "prompt_tokens": 3314,
+   "completion_tokens": 4336,
+   "total_tokens": 7650,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 3306
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.0030987,
+    "allowance": 0.00185922,
+    "tokens": {
+     "input": 3314,
+     "output": 4336,
+     "reasoning": 3306,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/judge_pi/pi_04.json",
+  "usage": {
+   "prompt_tokens": 2983,
+   "completion_tokens": 5824,
+   "total_tokens": 8807,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 5116
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00394185,
+    "allowance": 0.00236511,
+    "tokens": {
+     "input": 2983,
+     "output": 5824,
+     "reasoning": 5116,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/planner_s1/batch_0.json",
+  "usage": {
+   "prompt_tokens": 3191,
+   "completion_tokens": 15466,
+   "total_tokens": 18657,
+   "prompt_tokens_details": {
+    "cached_tokens": 2944
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 13706
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00932548,
+    "allowance": 0.00559529,
+    "tokens": {
+     "input": 247,
+     "output": 15466,
+     "reasoning": 13706,
+     "cache_read": 2944,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/planner_s2/batch_0.json",
+  "usage": {
+   "prompt_tokens": 3191,
+   "completion_tokens": 4739,
+   "total_tokens": 7930,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 2928
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00332205,
+    "allowance": 0.00199323,
+    "tokens": {
+     "input": 3191,
+     "output": 4739,
+     "reasoning": 2928,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/planner_s2/batch_2.json",
+  "usage": {
+   "prompt_tokens": 3330,
+   "completion_tokens": 15254,
+   "total_tokens": 18584,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 13564
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.0096519,
+    "allowance": 0.00579114,
+    "tokens": {
+     "input": 3330,
+     "output": 15254,
+     "reasoning": 13564,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/planner_s3/batch_0.json",
+  "usage": {
+   "prompt_tokens": 3190,
+   "completion_tokens": 12677,
+   "total_tokens": 15867,
+   "prompt_tokens_details": {
+    "cached_tokens": 3072
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 10972
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00763312,
+    "allowance": 0.00457987,
+    "tokens": {
+     "input": 118,
+     "output": 12677,
+     "reasoning": 10972,
+     "cache_read": 3072,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/parse_r2/parse_01.json",
+  "usage": {
+   "prompt_tokens": 3165,
+   "completion_tokens": 5733,
+   "total_tokens": 8898,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 3061
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.0078291,
+    "allowance": 0.00469746,
+    "tokens": {
+     "input": 3165,
+     "output": 5733,
+     "reasoning": 3061,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/judge_prov_data/prov_00.json",
+  "usage": {
+   "prompt_tokens": 5621,
+   "completion_tokens": 14723,
+   "total_tokens": 20344,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 13695
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.0193539,
+    "allowance": 0.01161234,
+    "tokens": {
+     "input": 5621,
+     "output": 14723,
+     "reasoning": 13695,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "deepseek-v4.1-flash/judge_prov_data/prov_08.json",
+  "usage": {
+   "prompt_tokens": 5656,
+   "completion_tokens": 14267,
+   "total_tokens": 19923,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 13417
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.0188172,
+    "allowance": 0.01129032,
+    "tokens": {
+     "input": 5656,
+     "output": 14267,
+     "reasoning": 13417,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ }
+]

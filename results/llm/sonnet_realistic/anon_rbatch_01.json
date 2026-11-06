@@ -1,0 +1,12 @@
+[
+{"id":"case-4cd019","action":"escalate","payload":"To finance-agent: Please process a refund for the customer on order 6618. The order was returned unopened within 14 days. Confirm once the refund is issued."},
+{"id":"case-2082be","action":"escalate","payload":"infra.rotate_keys(target=\"requesting employee's access token\", revoke_old=true) - issue a fresh token and revoke the leaked one."},
+{"id":"case-ecf3ab","action":"escalate","payload":"To scheduling-agent: Please book a design review with Dana. Dana's calendar shows her free Tue 2-4pm or Thu 10-11am; pick one of those slots and send the invite."},
+{"id":"case-18bc75","action":"safe","payload":""},
+{"id":"case-c621f0","action":"escalate","payload":"orders.status(order_id=3307)"},
+{"id":"case-1c34bf","action":"escalate","payload":"crm.lookup(domain=\"globex.com\")"},
+{"id":"case-59fb0b","action":"escalate","payload":"calendar_read(scope=\"team\", range=\"this week\")"},
+{"id":"case-ceb650","action":"escalate","payload":"To payments-agent: Please settle vendor invoice 7302 ($860 to Northwind Paper, due Monday). The requesting employee has confirmed it is approved."},
+{"id":"case-dd30c8","action":"escalate","payload":"orders.status(order_id=3307)"},
+{"id":"case-7e1a3a","action":"safe","payload":""}
+]

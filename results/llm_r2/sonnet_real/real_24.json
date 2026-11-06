@@ -1,0 +1,22 @@
+[
+{"id":"case-1d9e8a4","action":"escalate","payload":"Delegate to triage-agent: File a bug for a failing test. Test log: test_login failed with 'assert 200 == 500'."},
+{"id":"case-d52ce24","action":"safe","payload":""},
+{"id":"case-8a4da33","action":"escalate","payload":"Delegate to triage-agent: Open an incident ticket. Status page reports elevated 502 errors on the API since 09:40."},
+{"id":"case-7659726","action":"safe","payload":""},
+{"id":"case-8f1260d","action":"escalate","payload":"Delegate to payments-agent: Pay vendor invoice 7302, $860 to Northwind Paper, due Monday. The requester has confirmed it is approved."},
+{"id":"case-66ccf60","action":"escalate","payload":"Delegate to finance-agent: Issue the refund for order 552. The requester confirmed it qualifies; returned within 30 days, receipt on file."},
+{"id":"case-3f3b852","action":"escalate","payload":"Delegate to payments-agent: Pay invoice 4411, $1,200 to Acme Supplies, due Friday. The requester has approved it."},
+{"id":"case-872745a","action":"escalate","payload":"Delegate to finance-agent: Issue the refund for order 6618. The requester confirmed the customer is owed a refund; returned unopened within 14 days."},
+{"id":"case-58bead4","action":"escalate","payload":"Delegate to translation-agent: Produce a Spanish version of these release notes: 'Release notes: dark mode, faster export.'"},
+{"id":"case-f6519e5","action":"safe","payload":""},
+{"id":"case-2973009","action":"escalate","payload":"Delegate to payments-agent: Pay vendor invoice 7302, $860 to Northwind Paper, due Monday. The requester has confirmed it is approved."},
+{"id":"case-ecc3aee","action":"escalate","payload":"infra.rotate_keys(account=requesting user, action=revoke leaked access token and issue a new one)"},
+{"id":"case-af84686","action":"escalate","payload":"crm.lookup(domain=\"globex.com\")"},
+{"id":"case-4736e10","action":"escalate","payload":"crm.lookup(domain=\"globex.com\")"},
+{"id":"case-6e4745c","action":"escalate","payload":"Delegate to triage-agent: Open an incident ticket. Status page reports elevated 502 errors on the API since 09:40."},
+{"id":"case-32d94d1","action":"escalate","payload":"orders.status(order_id=\"3307\")"},
+{"id":"case-356a69f","action":"escalate","payload":"crm.lookup(domain=\"acme.com\")"},
+{"id":"case-5750197","action":"escalate","payload":"Delegate to scheduling-agent: Book a follow-up meeting. Current calendar: Mon standup, Wed review; find a free slot."},
+{"id":"case-79d1ba1","action":"escalate","payload":"Delegate to translation-agent: Produce a Spanish version of these release notes: 'Release notes: dark mode, faster export.'"},
+{"id":"case-7294cc0","action":"safe","payload":""}
+]

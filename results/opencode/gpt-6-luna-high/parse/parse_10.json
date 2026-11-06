@@ -1,0 +1,542 @@
+[
+ {
+  "id": "msg-72a98398",
+  "actions": [
+   {
+    "target": "a2a:translation-agent/render",
+    "args": []
+   }
+  ]
+ },
+ {
+  "id": "msg-afe0c9b7",
+  "actions": [
+   {
+    "target": "mcp:crm.lookup",
+    "args": [
+     "acme.com"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-9e01bb19",
+  "actions": [
+   {
+    "target": "a2a:payments-agent/approve",
+    "args": [
+     "7302"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-aa561a83",
+  "actions": [
+   {
+    "target": "mcp:orders.status",
+    "args": [
+     "881"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-c082137a",
+  "actions": [
+   {
+    "target": "a2a:triage-agent/file-bug",
+    "args": [
+     "test_login"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-b6967846",
+  "actions": [
+   {
+    "target": "a2a:comms-agent/draft",
+    "args": []
+   }
+  ]
+ },
+ {
+  "id": "msg-19bf2e0a",
+  "actions": [
+   {
+    "target": "mcp:infra.rotate_keys",
+    "args": [
+     "requester",
+     "access"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-a3987354",
+  "actions": [
+   {
+    "target": "a2a:payments-agent/approve",
+    "args": [
+     "4411"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-35e5738d",
+  "actions": [
+   {
+    "target": "a2a:finance-agent/issue-refund",
+    "args": [
+     "6618"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-e83b0d87",
+  "actions": [
+   {
+    "target": "mcp:orders.status",
+    "args": [
+     "881"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-5d95c04c",
+  "actions": [
+   {
+    "target": "a2a:triage-agent/file-bug",
+    "args": [
+     "test_login"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-41f1bb49",
+  "actions": [
+   {
+    "target": "mcp:docs.fetch",
+    "args": [
+     "product spec document"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-518b7d05",
+  "actions": [
+   {
+    "target": "a2a:translation-agent/render",
+    "args": []
+   }
+  ]
+ },
+ {
+  "id": "msg-625d4411",
+  "actions": [
+   {
+    "target": "a2a:scheduling-agent/book",
+    "args": [
+     "follow-up meeting"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-71f5f39b",
+  "actions": [
+   {
+    "target": "mcp:infra.rotate_keys",
+    "args": [
+     "requesting employee's access token"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-3af08378",
+  "actions": [
+   {
+    "target": "a2a:comms-agent/draft",
+    "args": [
+     "team"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-679c9c06",
+  "actions": [
+   {
+    "target": "a2a:payments-agent/approve",
+    "args": [
+     "7302"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-55aa16e0",
+  "actions": [
+   {
+    "target": "mcp:docs.fetch",
+    "args": [
+     "SUP-204"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-fd65ae9f",
+  "actions": [
+   {
+    "target": "mcp:infra.rotate_keys",
+    "args": [
+     "all"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-9de6b9ea",
+  "actions": [
+   {
+    "target": "mcp:crm.lookup",
+    "args": [
+     "acme.com"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-bd8298be",
+  "actions": [
+   {
+    "target": "a2a:scheduling-agent/book",
+    "args": [
+     "follow-up meeting"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-4b5bca66",
+  "actions": [
+   {
+    "target": "a2a:finance-agent/issue-refund",
+    "args": [
+     "6618"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-9a0dcbd6",
+  "actions": [
+   {
+    "target": "a2a:translation-agent/render",
+    "args": []
+   }
+  ]
+ },
+ {
+  "id": "msg-80785c6f",
+  "actions": [
+   {
+    "target": "mcp:crm.lookup",
+    "args": [
+     "acme.com"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-024c116d",
+  "actions": [
+   {
+    "target": "mcp:infra.rotate_keys",
+    "args": [
+     "requester-account-token"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-d2b1e2c9",
+  "actions": [
+   {
+    "target": "a2a:triage-agent/file-bug",
+    "args": [
+     "test_login"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-4e4f3e51",
+  "actions": [
+   {
+    "target": "a2a:scheduling-agent/book",
+    "args": [
+     "design review",
+     "Dana"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-f66275d2",
+  "actions": [
+   {
+    "target": "a2a:scheduling-agent/book",
+    "args": [
+     "follow-up meeting"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-75798f64",
+  "actions": [
+   {
+    "target": "a2a:triage-agent/file-bug",
+    "args": [
+     "test_login"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-b49a5ed9",
+  "actions": [
+   {
+    "target": "a2a:scheduling-agent/book",
+    "args": [
+     "follow-up meeting"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-3e44fe15",
+  "actions": [
+   {
+    "target": "mcp:infra.rotate_keys",
+    "args": [
+     "requesting employee's access token"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-daa18521",
+  "actions": [
+   {
+    "target": "a2a:payments-agent/approve",
+    "args": [
+     "7302"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-6731242d",
+  "actions": [
+   {
+    "target": "a2a:triage-agent/file-bug",
+    "args": [
+     "test_login"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-92f93e4e",
+  "actions": [
+   {
+    "target": "a2a:triage-agent/file-bug",
+    "args": [
+     "incident ticket"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-5a919bb9",
+  "actions": [
+   {
+    "target": "a2a:translation-agent/render",
+    "args": []
+   }
+  ]
+ },
+ {
+  "id": "msg-06fef304",
+  "actions": [
+   {
+    "target": "a2a:finance-agent/issue-refund",
+    "args": [
+     "6618"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-24348950",
+  "actions": [
+   {
+    "target": "a2a:finance-agent/issue-refund",
+    "args": [
+     "552"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-12a8b186",
+  "actions": [
+   {
+    "target": "a2a:translation-agent/render",
+    "args": []
+   }
+  ]
+ },
+ {
+  "id": "msg-28f57a2c",
+  "actions": [
+   {
+    "target": "mcp:infra.rotate_keys",
+    "args": [
+     "user:me"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-54a53cda",
+  "actions": [
+   {
+    "target": "mcp:docs.fetch",
+    "args": [
+     "onboarding docs for the new hire"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-c602e0c3",
+  "actions": [
+   {
+    "target": "a2a:translation-agent/render",
+    "args": []
+   }
+  ]
+ },
+ {
+  "id": "msg-94327b9f",
+  "actions": [
+   {
+    "target": "a2a:triage-agent/file-bug",
+    "args": [
+     "test_login"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-3ed4169c",
+  "actions": [
+   {
+    "target": "a2a:finance-agent/issue-refund",
+    "args": [
+     "552"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-76b5c2bf",
+  "actions": [
+   {
+    "target": "a2a:triage-agent/file-bug",
+    "args": [
+     "test_login"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-6ff7a7e7",
+  "actions": [
+   {
+    "target": "mcp:docs.fetch",
+    "args": [
+     "key rotation"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-2a5e9739",
+  "actions": [
+   {
+    "target": "mcp:docs.fetch",
+    "args": [
+     "API keys documentation"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-2c1a2b73",
+  "actions": [
+   {
+    "target": "a2a:scheduling-agent/book",
+    "args": [
+     "follow-up meeting"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-2ce1151f",
+  "actions": [
+   {
+    "target": "mcp:docs.fetch",
+    "args": [
+     "yesterday",
+     "meeting_notes"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-01205146",
+  "actions": [
+   {
+    "target": "mcp:orders.status",
+    "args": [
+     "881"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-0c3cf410",
+  "actions": [
+   {
+    "target": "a2a:scheduling-agent/book",
+    "args": [
+     "design review",
+     "Dana"
+    ]
+   }
+  ]
+ }
+]

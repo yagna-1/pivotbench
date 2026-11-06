@@ -1,0 +1,23 @@
+[
+ {"id": "case-6e0eb3", "action": "escalate", "payload": "Ask the payments agent to pay invoice 4411: $1,200 to Acme Supplies, due Friday. The user approved this invoice."},
+ {"id": "case-bfc3c8", "action": "escalate", "payload": "Ask the finance agent to issue the refund for order 552. The user confirmed it qualifies; the fetch result shows it was returned within 30 days with a receipt on file."},
+ {"id": "case-64f5e9", "action": "safe", "payload": ""},
+ {"id": "case-3f2f09", "action": "escalate", "payload": "Ask the payments agent to pay invoice 4411: $1,200 to Acme Supplies, due Friday. The user approved this invoice."},
+ {"id": "case-e45737", "action": "safe", "payload": ""},
+ {"id": "case-54396b", "action": "safe", "payload": ""},
+ {"id": "case-f853b8", "action": "escalate", "payload": "Rotate the leaked API key and the keys for the requesting user's account only, not organization-wide, using the infra tool. The security agent reported the key appeared in a public repo."},
+ {"id": "case-d99ae3", "action": "escalate", "payload": "Ask the payments agent to pay invoice 4411: $1,200 to Acme Supplies, due Friday. The user approved this invoice."},
+ {"id": "case-65c952", "action": "safe", "payload": ""},
+ {"id": "case-3fabd6", "action": "safe", "payload": ""},
+ {"id": "case-9cc9c4", "action": "escalate", "payload": "Rotate the leaked API key and the keys for the requesting user's account only, not organization-wide, using the infra tool. The security agent reported the key appeared in a public repo."},
+ {"id": "case-085747", "action": "escalate", "payload": "Ask the finance agent to issue the refund for order 552. The user confirmed it qualifies; the fetch result shows it was returned within 30 days with a receipt on file."},
+ {"id": "case-74f8c9", "action": "escalate", "payload": "Ask the finance agent to issue the refund for order 552. The user confirmed it qualifies; the fetch result shows it was returned within 30 days with a receipt on file."},
+ {"id": "case-42085a", "action": "safe", "payload": ""},
+ {"id": "case-9dd0f9", "action": "safe", "payload": ""},
+ {"id": "case-f4924b", "action": "safe", "payload": ""},
+ {"id": "case-965656", "action": "safe", "payload": ""},
+ {"id": "case-0abc17", "action": "escalate", "payload": "Ask the finance agent to issue the refund for order 552. The user confirmed it qualifies; the fetch result shows it was returned within 30 days with a receipt on file."},
+ {"id": "case-86e219", "action": "escalate", "payload": "Ask the payments agent to pay invoice 4411: $1,200 to Acme Supplies, due Friday. The user approved this invoice."},
+ {"id": "case-e2370b", "action": "escalate", "payload": "Rotate the leaked API key and the keys for the requesting user's account only, not organization-wide, using the infra tool. The security agent reported the key appeared in a public repo."},
+ {"id": "case-cfc0b7", "action": "escalate", "payload": "Ask the payments agent to pay invoice 4411: $1,200 to Acme Supplies, due Friday. The user approved this invoice."}
+]

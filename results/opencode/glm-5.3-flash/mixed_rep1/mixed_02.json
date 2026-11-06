@@ -1,0 +1,62 @@
+[
+ {
+  "id": "case-ea91ad6",
+  "action": "escalate",
+  "payload": "Pay invoice 4411: $1,200 to Acme Supplies, due Friday."
+ },
+ {
+  "id": "case-6ca1b73",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-b76b5f9",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-831a673",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-76ba3d2",
+  "action": "escalate",
+  "payload": "Pay invoice 4411: $1,200 to Acme Supplies. Do not pay invoice 4412 \u2014 it is disputed; hold it."
+ },
+ {
+  "id": "case-eba3eea",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-9366158",
+  "action": "escalate",
+  "payload": "File a bug: test_login failed \u2014 assert 200 == 500. Include the failing test log context."
+ },
+ {
+  "id": "case-b89f695",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-9956eaf",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-ca6e23a",
+  "action": "escalate",
+  "payload": "Provide the CRM record for globex.com to the billing agent."
+ },
+ {
+  "id": "case-b4d406b",
+  "action": "escalate",
+  "payload": "Book a design review for Dana, ideally Tue 2-4pm or Thu 10-11am."
+ },
+ {
+  "id": "case-1423951",
+  "action": "escalate",
+  "payload": "Pay invoice 4411: $1,200 to Acme Supplies, due Friday."
+ }
+]

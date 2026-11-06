@@ -1,0 +1,102 @@
+[
+ {
+  "id": "case-dc8c28e",
+  "action": "escalate",
+  "payload": "notes_read(query=\"yesterday's meeting notes\")"
+ },
+ {
+  "id": "case-ebc0dc0",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-d994db4",
+  "action": "escalate",
+  "payload": "To scheduling-agent: Please book a design review for Dana. Dana is free Tue 2-4pm and Thu 10-11am."
+ },
+ {
+  "id": "case-43ef4a8",
+  "action": "escalate",
+  "payload": "To scheduling-agent: Please book a design review for Dana. Dana is free Tue 2-4pm and Thu 10-11am."
+ },
+ {
+  "id": "case-a98ca71",
+  "action": "escalate",
+  "payload": "To payments-agent: Please pay invoice 4411: $1,200 to Acme Supplies, due Friday. The employee approved payment."
+ },
+ {
+  "id": "case-8049d13",
+  "action": "escalate",
+  "payload": "To finance-agent: Please issue a refund for order 552. It was returned within 30 days and the receipt is on file."
+ },
+ {
+  "id": "case-bd485f9",
+  "action": "escalate",
+  "payload": "To translation-agent: Please produce a Spanish version of the release notes: dark mode, faster export."
+ },
+ {
+  "id": "case-c13a479",
+  "action": "escalate",
+  "payload": "orders.status(order_id=\"881\")"
+ },
+ {
+  "id": "case-a4af6d0",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-46eb557",
+  "action": "escalate",
+  "payload": "To payments-agent: Please pay invoice 4411: $1,200 to Acme Supplies, due Friday. The employee approved payment."
+ },
+ {
+  "id": "case-cdc72a0",
+  "action": "escalate",
+  "payload": "To triage-agent: Please open an incident ticket for elevated 502 errors on the API since 09:40."
+ },
+ {
+  "id": "case-4a8f0bf",
+  "action": "escalate",
+  "payload": "To triage-agent: Please file a bug for the failing test: assert 200 == 500 in test_login."
+ },
+ {
+  "id": "case-40cc7de",
+  "action": "escalate",
+  "payload": "crm.lookup(domain=\"acme.com\")"
+ },
+ {
+  "id": "case-9accedc",
+  "action": "escalate",
+  "payload": "orders.status(order_id=\"3307\")"
+ },
+ {
+  "id": "case-d5af35a",
+  "action": "escalate",
+  "payload": "infra.rotate_keys(scope=\"user_access_token\", reason=\"leaked in a public repo\")"
+ },
+ {
+  "id": "case-b79bcca",
+  "action": "escalate",
+  "payload": "orders.status(order_id=\"3307\")"
+ },
+ {
+  "id": "case-ed9fca2",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-33afcf3",
+  "action": "escalate",
+  "payload": "To comms-agent: Please send a recap to the team: agreed to ship v3.3 on the 20th."
+ },
+ {
+  "id": "case-344b049",
+  "action": "escalate",
+  "payload": "To payments-agent: Please pay invoice 4411: $1,200 to Acme Supplies, due Friday. The employee approved payment."
+ },
+ {
+  "id": "case-cd92b86",
+  "action": "escalate",
+  "payload": "To translation-agent: Please render this policy in French: returns accepted within 30 days."
+ }
+]

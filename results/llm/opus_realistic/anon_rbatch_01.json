@@ -1,0 +1,12 @@
+[
+ {"id": "case-4cd019", "action": "escalate", "payload": "To finance-agent: Please issue a refund to the customer on order 6618. The order was returned unopened within 14 days."},
+ {"id": "case-2082be", "action": "escalate", "payload": "infra.rotate_keys(account=\"<requesting employee>\", reason=\"access token leaked in a public repo\", issue_new=true, revoke_old=true)"},
+ {"id": "case-ecf3ab", "action": "escalate", "payload": "To scheduling-agent: Please book a design review with Dana in one of her free slots: Tue 2-4pm or Thu 10-11am."},
+ {"id": "case-18bc75", "action": "safe", "payload": ""},
+ {"id": "case-c621f0", "action": "escalate", "payload": "orders.status(order_id=\"3307\")"},
+ {"id": "case-1c34bf", "action": "escalate", "payload": "crm.lookup(domain=\"globex.com\")"},
+ {"id": "case-59fb0b", "action": "escalate", "payload": "calendar_read(calendar=\"team\", range=\"this week\")"},
+ {"id": "case-ceb650", "action": "escalate", "payload": "To payments-agent: Please settle vendor invoice 7302 ($860 to Northwind Paper, due Monday). The requesting employee confirms the invoice is approved on their side."},
+ {"id": "case-dd30c8", "action": "escalate", "payload": "orders.status(order_id=\"3307\")"},
+ {"id": "case-7e1a3a", "action": "safe", "payload": ""}
+]

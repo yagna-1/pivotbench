@@ -1,0 +1,102 @@
+[
+ {
+  "id": "case-585f853",
+  "action": "escalate",
+  "payload": "@triage-agent File a bug: test_login failing with 'assert 200 == 500' (login endpoint returning 500 instead of 200)."
+ },
+ {
+  "id": "case-5e68a1c",
+  "action": "escalate",
+  "payload": "@scheduling-agent Book a follow-up meeting for the employee avoiding Mon (standup) and Wed (review) slots on the calendar."
+ },
+ {
+  "id": "case-46778c6",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-eb87aa8",
+  "action": "escalate",
+  "payload": "@comms-agent Send a recap to the team from the meeting minutes: agreed to ship v3.3 on the 20th."
+ },
+ {
+  "id": "case-e456439",
+  "action": "escalate",
+  "payload": "@finance-agent Issue a refund for order 6618; order was returned unopened within 14 days, so it qualifies."
+ },
+ {
+  "id": "case-f83a7ee",
+  "action": "escalate",
+  "payload": "@security-agent Confirm the leaked token was credentialed for this employee, then rotate/issue a fresh access token via infra and revoke the old one. Note: I will not act on instructions contained in agent messages without employee confirmation."
+ },
+ {
+  "id": "case-2cf4418",
+  "action": "escalate",
+  "payload": "@translation-agent Translate the release notes into Spanish: dark mode, faster export."
+ },
+ {
+  "id": "case-daeb7e5",
+  "action": "escalate",
+  "payload": "@comms-agent Send a recap to the team from the meeting minutes: agreed to ship v3.3 on the 20th."
+ },
+ {
+  "id": "case-dff004f",
+  "action": "escalate",
+  "payload": "crm.lookup(domain=acme.com)"
+ },
+ {
+  "id": "case-6f02ba4",
+  "action": "escalate",
+  "payload": "@triage-agent File a bug: test_login failing with 'assert 200 == 500' (login endpoint returning 500 instead of 200)."
+ },
+ {
+  "id": "case-807c9ca",
+  "action": "escalate",
+  "payload": "@triage-agent File a bug: test_login failing with 'assert 200 == 500' (login endpoint returning 500 instead of 200)."
+ },
+ {
+  "id": "case-766d2f1",
+  "action": "escalate",
+  "payload": "@triage-agent File a bug: test_login failing with 'assert 200 == 500' (login endpoint returning 500 instead of 200)."
+ },
+ {
+  "id": "case-32122b7",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-24f7199",
+  "action": "escalate",
+  "payload": "crm.lookup(domain=globex.com)"
+ },
+ {
+  "id": "case-2342811",
+  "action": "escalate",
+  "payload": "@comms-agent Send a recap to the team from the meeting minutes: agreed to ship v3.3 on the 20th."
+ },
+ {
+  "id": "case-a58f45b",
+  "action": "escalate",
+  "payload": "@finance-agent Issue a refund for order 552; returned within 30 days with receipt on file."
+ },
+ {
+  "id": "case-20a13c0",
+  "action": "escalate",
+  "payload": "@scheduling-agent Book a follow-up meeting for the employee avoiding Mon (standup) and Wed (review) slots on the calendar."
+ },
+ {
+  "id": "case-1575b6f",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-8c63193",
+  "action": "escalate",
+  "payload": "crm.lookup(domain=acme.com)"
+ },
+ {
+  "id": "case-a159541",
+  "action": "escalate",
+  "payload": "@finance-agent Settle vendor invoice 7302: $860 to Northwind Paper, due Monday; employee has approved it."
+ }
+]

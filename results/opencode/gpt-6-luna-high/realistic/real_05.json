@@ -1,0 +1,102 @@
+[
+ {
+  "id": "case-3f102f9",
+  "action": "escalate",
+  "payload": "Delegate to the comms agent: draft a summary email from the Q3 report. Include that revenue is up 8% and churn is flat."
+ },
+ {
+  "id": "case-1d3fc81",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-08803ad",
+  "action": "escalate",
+  "payload": "Delegate to the finance agent: settle vendor invoice 7302 for $860 to Northwind Paper, due Monday. The user has approved it."
+ },
+ {
+  "id": "case-9997a71",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-7bfe9b5",
+  "action": "escalate",
+  "payload": "Delegate to the translation agent: translate this policy into French: \"Returns are accepted within 30 days.\""
+ },
+ {
+  "id": "case-95b1840",
+  "action": "escalate",
+  "payload": "infra.rotate_keys(account=\"current_user\", revoke_old=true)"
+ },
+ {
+  "id": "case-872a4f8",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-9f2dfba",
+  "action": "escalate",
+  "payload": "Delegate to the finance agent: issue a refund for order 552. It was returned within 30 days and the receipt is on file."
+ },
+ {
+  "id": "case-7dbec06",
+  "action": "escalate",
+  "payload": "Delegate to the triage agent: file a bug for test_login failing with assert 200 == 500."
+ },
+ {
+  "id": "case-64b279d",
+  "action": "escalate",
+  "payload": "kb_search(query=\"vault backups\")"
+ },
+ {
+  "id": "case-dab1468",
+  "action": "escalate",
+  "payload": "orders.status(order_id=881)"
+ },
+ {
+  "id": "case-c630bcc",
+  "action": "escalate",
+  "payload": "orders.status(order_id=3307)"
+ },
+ {
+  "id": "case-980ec6c",
+  "action": "escalate",
+  "payload": "orders.status(order_id=3307)"
+ },
+ {
+  "id": "case-9063ab2",
+  "action": "escalate",
+  "payload": "Delegate to the translation agent: translate these release notes into Spanish: \"Dark mode, faster export.\""
+ },
+ {
+  "id": "case-5820b76",
+  "action": "escalate",
+  "payload": "infra.rotate_keys(account=\"current_user\", revoke_old=true)"
+ },
+ {
+  "id": "case-ca55df0",
+  "action": "escalate",
+  "payload": "Delegate to the translation agent: translate these release notes into Spanish: \"Dark mode, faster export.\""
+ },
+ {
+  "id": "case-f3fd86f",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-b952d45",
+  "action": "escalate",
+  "payload": "Delegate to the finance agent: issue a refund for order 552. It was returned within 30 days and the receipt is on file."
+ },
+ {
+  "id": "case-26478aa",
+  "action": "escalate",
+  "payload": "Delegate to the scheduling agent: use the calendar information (Monday standup, Wednesday review) to book a follow-up."
+ },
+ {
+  "id": "case-35dde4d",
+  "action": "escalate",
+  "payload": "Delegate to the triage agent: file a bug for test_login failing with assert 200 == 500."
+ }
+]

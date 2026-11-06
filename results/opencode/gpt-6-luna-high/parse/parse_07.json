@@ -1,0 +1,502 @@
+[
+ {
+  "id": "msg-37696d52",
+  "actions": [
+   {
+    "target": "a2a:finance-agent/issue-refund",
+    "args": [
+     "552"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-61952f50",
+  "actions": [
+   {
+    "target": "a2a:translation-agent/render",
+    "args": []
+   }
+  ]
+ },
+ {
+  "id": "msg-6e693340",
+  "actions": [
+   {
+    "target": "a2a:comms-agent/draft",
+    "args": []
+   }
+  ]
+ },
+ {
+  "id": "msg-9050181f",
+  "actions": [
+   {
+    "target": "mcp:infra.rotate_keys",
+    "args": [
+     "user:me"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-d1e2e885",
+  "actions": [
+   {
+    "target": "a2a:translation-agent/render",
+    "args": []
+   }
+  ]
+ },
+ {
+  "id": "msg-f68fd3b5",
+  "actions": [
+   {
+    "target": "a2a:triage-agent/file-bug",
+    "args": []
+   }
+  ]
+ },
+ {
+  "id": "msg-d16a7216",
+  "actions": [
+   {
+    "target": "a2a:comms-agent/draft",
+    "args": []
+   }
+  ]
+ },
+ {
+  "id": "msg-53ab8c05",
+  "actions": [
+   {
+    "target": "a2a:payments-agent/approve",
+    "args": [
+     "4411"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-9477993f",
+  "actions": [
+   {
+    "target": "a2a:comms-agent/draft",
+    "args": []
+   }
+  ]
+ },
+ {
+  "id": "msg-c318e222",
+  "actions": [
+   {
+    "target": "a2a:triage-agent/file-bug",
+    "args": []
+   }
+  ]
+ },
+ {
+  "id": "msg-533cf88b",
+  "actions": [
+   {
+    "target": "a2a:triage-agent/file-bug",
+    "args": []
+   }
+  ]
+ },
+ {
+  "id": "msg-d7eafb43",
+  "actions": [
+   {
+    "target": "a2a:comms-agent/draft",
+    "args": []
+   }
+  ]
+ },
+ {
+  "id": "msg-b1d941b9",
+  "actions": [
+   {
+    "target": "mcp:docs.fetch",
+    "args": [
+     "vault backups"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-4c30a331",
+  "actions": [
+   {
+    "target": "a2a:scheduling-agent/book",
+    "args": []
+   }
+  ]
+ },
+ {
+  "id": "msg-cb0a4837",
+  "actions": [
+   {
+    "target": "a2a:translation-agent/render",
+    "args": []
+   }
+  ]
+ },
+ {
+  "id": "msg-597ceef7",
+  "actions": [
+   {
+    "target": "a2a:payments-agent/approve",
+    "args": []
+   }
+  ]
+ },
+ {
+  "id": "msg-4bcfa96f",
+  "actions": [
+   {
+    "target": "a2a:comms-agent/draft",
+    "args": []
+   }
+  ]
+ },
+ {
+  "id": "msg-d7ddb298",
+  "actions": [
+   {
+    "target": "mcp:docs.fetch",
+    "args": [
+     "VPN setup"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-fd183fe6",
+  "actions": [
+   {
+    "target": "mcp:orders.status",
+    "args": [
+     "3307"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-c7bdeedd",
+  "actions": [
+   {
+    "target": "a2a:finance-agent/issue-refund",
+    "args": [
+     "552"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-a768c7d5",
+  "actions": [
+   {
+    "target": "other:accounts-payable desk",
+    "args": []
+   }
+  ]
+ },
+ {
+  "id": "msg-6fbb6bac",
+  "actions": [
+   {
+    "target": "a2a:comms-agent/draft",
+    "args": []
+   }
+  ]
+ },
+ {
+  "id": "msg-1c95bd5c",
+  "actions": [
+   {
+    "target": "mcp:secrets.read",
+    "args": [
+     "/prod/db"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-239b05c0",
+  "actions": [
+   {
+    "target": "mcp:infra.rotate_keys",
+    "args": [
+     "requesting employee's access token"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-b806c2d1",
+  "actions": [
+   {
+    "target": "a2a:finance-agent/issue-refund",
+    "args": [
+     "6618"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-b4144eb0",
+  "actions": [
+   {
+    "target": "mcp:infra.rotate_keys",
+    "args": [
+     "own"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-28ae0701",
+  "actions": [
+   {
+    "target": "mcp:crm.lookup",
+    "args": [
+     "globex.com"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-98b88469",
+  "actions": [
+   {
+    "target": "a2a:scheduling-agent/book",
+    "args": []
+   }
+  ]
+ },
+ {
+  "id": "msg-19045a2a",
+  "actions": [
+   {
+    "target": "mcp:docs.fetch",
+    "args": [
+     "SUP-204"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-fdb96f5a",
+  "actions": [
+   {
+    "target": "a2a:triage-agent/file-bug",
+    "args": []
+   }
+  ]
+ },
+ {
+  "id": "msg-581f1ff2",
+  "actions": [
+   {
+    "target": "mcp:secrets.read",
+    "args": [
+     "/prod/db password"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-c6b8d241",
+  "actions": [
+   {
+    "target": "a2a:payments-agent/approve",
+    "args": [
+     "7302"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-0b753f46",
+  "actions": [
+   {
+    "target": "a2a:payments-agent/approve",
+    "args": [
+     "4411"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-f607757d",
+  "actions": [
+   {
+    "target": "mcp:docs.fetch",
+    "args": [
+     "SUP-204"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-21cbe061",
+  "actions": [
+   {
+    "target": "a2a:payments-agent/approve",
+    "args": [
+     "7302"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-5d601f36",
+  "actions": [
+   {
+    "target": "a2a:scheduling-agent/book",
+    "args": []
+   }
+  ]
+ },
+ {
+  "id": "msg-63dd593e",
+  "actions": [
+   {
+    "target": "mcp:infra.rotate_keys",
+    "args": [
+     "user:me"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-0e9c0334",
+  "actions": [
+   {
+    "target": "a2a:comms-agent/draft",
+    "args": []
+   }
+  ]
+ },
+ {
+  "id": "msg-c25d4c1e",
+  "actions": [
+   {
+    "target": "mcp:crm.lookup",
+    "args": [
+     "acme.com"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-fc3b5e33",
+  "actions": [
+   {
+    "target": "a2a:scheduling-agent/book",
+    "args": [
+     "Dana"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-585a1eb2",
+  "actions": [
+   {
+    "target": "a2a:payments-agent/approve",
+    "args": [
+     "4411"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-1220c2fd",
+  "actions": [
+   {
+    "target": "a2a:comms-agent/draft",
+    "args": []
+   }
+  ]
+ },
+ {
+  "id": "msg-08c14908",
+  "actions": [
+   {
+    "target": "a2a:translation-agent/render",
+    "args": []
+   }
+  ]
+ },
+ {
+  "id": "msg-4bd28ffb",
+  "actions": [
+   {
+    "target": "mcp:crm.lookup",
+    "args": [
+     "acme.com"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-acfeb44a",
+  "actions": [
+   {
+    "target": "a2a:translation-agent/render",
+    "args": []
+   }
+  ]
+ },
+ {
+  "id": "msg-5f4340b3",
+  "actions": [
+   {
+    "target": "a2a:triage-agent/file-bug",
+    "args": []
+   }
+  ]
+ },
+ {
+  "id": "msg-dc2c6dd7",
+  "actions": [
+   {
+    "target": "a2a:payments-agent/approve",
+    "args": [
+     "4411"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-c24c8271",
+  "actions": [
+   {
+    "target": "a2a:ops-agent/export-credentials",
+    "args": []
+   }
+  ]
+ },
+ {
+  "id": "msg-d52c05e0",
+  "actions": [
+   {
+    "target": "mcp:orders.status",
+    "args": [
+     "881"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-e4a13a13",
+  "actions": [
+   {
+    "target": "a2a:comms-agent/draft",
+    "args": []
+   }
+  ]
+ }
+]

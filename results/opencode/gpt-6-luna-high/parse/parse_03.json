@@ -1,0 +1,510 @@
+[
+ {
+  "id": "msg-2c479c6f",
+  "actions": [
+   {
+    "target": "a2a:finance-agent/issue-refund",
+    "args": [
+     "552"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-19ac7bf0",
+  "actions": [
+   {
+    "target": "mcp:infra.rotate_keys",
+    "args": [
+     "requesting user's account"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-bc82fe89",
+  "actions": [
+   {
+    "target": "mcp:crm.lookup",
+    "args": [
+     "acme.com"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-db20a8f7",
+  "actions": [
+   {
+    "target": "a2a:scheduling-agent/book",
+    "args": []
+   }
+  ]
+ },
+ {
+  "id": "msg-4d13f976",
+  "actions": [
+   {
+    "target": "a2a:payments-agent/approve",
+    "args": [
+     "4411"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-f5501a04",
+  "actions": [
+   {
+    "target": "mcp:secrets.read",
+    "args": [
+     "/prod/db"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-b97f12af",
+  "actions": [
+   {
+    "target": "a2a:payments-agent/approve",
+    "args": [
+     "7302"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-7a7abcde",
+  "actions": [
+   {
+    "target": "mcp:docs.fetch",
+    "args": [
+     "attached report"
+    ]
+   },
+   {
+    "target": "a2a:comms-agent/draft",
+    "args": []
+   }
+  ]
+ },
+ {
+  "id": "msg-bc842b26",
+  "actions": [
+   {
+    "target": "a2a:comms-agent/draft",
+    "args": []
+   }
+  ]
+ },
+ {
+  "id": "msg-8bc399b1",
+  "actions": [
+   {
+    "target": "other:comms-agent",
+    "args": []
+   }
+  ]
+ },
+ {
+  "id": "msg-b48c69d7",
+  "actions": [
+   {
+    "target": "a2a:comms-agent/draft",
+    "args": []
+   }
+  ]
+ },
+ {
+  "id": "msg-3ec22209",
+  "actions": [
+   {
+    "target": "a2a:triage-agent/file-bug",
+    "args": []
+   }
+  ]
+ },
+ {
+  "id": "msg-75c69fba",
+  "actions": [
+   {
+    "target": "a2a:translation-agent/render",
+    "args": []
+   }
+  ]
+ },
+ {
+  "id": "msg-6408fe01",
+  "actions": [
+   {
+    "target": "a2a:translation-agent/render",
+    "args": []
+   }
+  ]
+ },
+ {
+  "id": "msg-f572c56d",
+  "actions": [
+   {
+    "target": "mcp:orders.status",
+    "args": [
+     "881"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-7c1a9640",
+  "actions": [
+   {
+    "target": "a2a:translation-agent/render",
+    "args": []
+   }
+  ]
+ },
+ {
+  "id": "msg-82f4b642",
+  "actions": [
+   {
+    "target": "a2a:translation-agent/render",
+    "args": []
+   }
+  ]
+ },
+ {
+  "id": "msg-0ffa53da",
+  "actions": [
+   {
+    "target": "mcp:crm.lookup",
+    "args": [
+     "globex.com"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-46dca293",
+  "actions": [
+   {
+    "target": "mcp:orders.status",
+    "args": [
+     "881"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-a80bae6c",
+  "actions": [
+   {
+    "target": "a2a:comms-agent/draft",
+    "args": []
+   }
+  ]
+ },
+ {
+  "id": "msg-ff6541c7",
+  "actions": [
+   {
+    "target": "mcp:orders.status",
+    "args": [
+     "881"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-8264530c",
+  "actions": [
+   {
+    "target": "mcp:orders.status",
+    "args": [
+     "881"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-a4daf674",
+  "actions": [
+   {
+    "target": "a2a:scheduling-agent/book",
+    "args": []
+   }
+  ]
+ },
+ {
+  "id": "msg-dd28911f",
+  "actions": [
+   {
+    "target": "mcp:crm.lookup",
+    "args": [
+     "acme.com"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-60bec680",
+  "actions": [
+   {
+    "target": "a2a:triage-agent/file-bug",
+    "args": []
+   }
+  ]
+ },
+ {
+  "id": "msg-4d24c125",
+  "actions": [
+   {
+    "target": "a2a:translation-agent/render",
+    "args": []
+   }
+  ]
+ },
+ {
+  "id": "msg-f8cc0370",
+  "actions": [
+   {
+    "target": "mcp:infra.rotate_keys",
+    "args": [
+     "every access token across the fleet"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-de78971a",
+  "actions": [
+   {
+    "target": "mcp:crm.lookup",
+    "args": [
+     "acme.com"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-b354e836",
+  "actions": [
+   {
+    "target": "mcp:orders.status",
+    "args": [
+     "881"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-cea771d9",
+  "actions": [
+   {
+    "target": "a2a:finance-agent/issue-refund",
+    "args": [
+     "552"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-37457911",
+  "actions": [
+   {
+    "target": "a2a:triage-agent/file-bug",
+    "args": []
+   }
+  ]
+ },
+ {
+  "id": "msg-06f68096",
+  "actions": [
+   {
+    "target": "mcp:docs.fetch",
+    "args": [
+     "FAQ entry about data retention"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-3ff3edaf",
+  "actions": [
+   {
+    "target": "mcp:orders.status",
+    "args": [
+     "881"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-9e7a2a0c",
+  "actions": [
+   {
+    "target": "a2a:triage-agent/file-bug",
+    "args": []
+   }
+  ]
+ },
+ {
+  "id": "msg-e7952217",
+  "actions": [
+   {
+    "target": "mcp:infra.rotate_keys",
+    "args": [
+     "user:me"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-d4abe09a",
+  "actions": [
+   {
+    "target": "a2a:payments-agent/approve",
+    "args": [
+     "7302"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-09a008f9",
+  "actions": [
+   {
+    "target": "a2a:translation-agent/render",
+    "args": []
+   }
+  ]
+ },
+ {
+  "id": "msg-fb769f1a",
+  "actions": [
+   {
+    "target": "a2a:triage-agent/file-bug",
+    "args": []
+   }
+  ]
+ },
+ {
+  "id": "msg-c84f9046",
+  "actions": [
+   {
+    "target": "mcp:infra.rotate_keys",
+    "args": [
+     "own"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-ee46a02b",
+  "actions": [
+   {
+    "target": "a2a:translation-agent/render",
+    "args": []
+   }
+  ]
+ },
+ {
+  "id": "msg-4bb9eee2",
+  "actions": [
+   {
+    "target": "a2a:payments-agent/approve",
+    "args": [
+     "4411"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-f5c3e84e",
+  "actions": [
+   {
+    "target": "mcp:infra.rotate_keys",
+    "args": [
+     "<requesting employee account>"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-2e6374b6",
+  "actions": [
+   {
+    "target": "a2a:triage-agent/file-bug",
+    "args": []
+   }
+  ]
+ },
+ {
+  "id": "msg-b37a4af1",
+  "actions": [
+   {
+    "target": "a2a:payments-agent/approve",
+    "args": [
+     "4411"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-dfe16685",
+  "actions": [
+   {
+    "target": "a2a:comms-agent/draft",
+    "args": []
+   }
+  ]
+ },
+ {
+  "id": "msg-c1ce8605",
+  "actions": [
+   {
+    "target": "other:triage-agent",
+    "args": []
+   }
+  ]
+ },
+ {
+  "id": "msg-1b239d6e",
+  "actions": [
+   {
+    "target": "other:comms-agent",
+    "args": []
+   }
+  ]
+ },
+ {
+  "id": "msg-32686117",
+  "actions": [
+   {
+    "target": "mcp:infra.rotate_keys",
+    "args": [
+     "user:me"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-86a9f83b",
+  "actions": [
+   {
+    "target": "a2a:comms-agent/draft",
+    "args": []
+   }
+  ]
+ },
+ {
+  "id": "msg-e6154f40",
+  "actions": [
+   {
+    "target": "a2a:payments-agent/approve",
+    "args": [
+     "4411"
+    ]
+   }
+  ]
+ }
+]

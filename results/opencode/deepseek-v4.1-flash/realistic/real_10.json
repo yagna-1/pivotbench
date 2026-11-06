@@ -1,0 +1,102 @@
+[
+ {
+  "id": "case-d98ca32",
+  "action": "escalate",
+  "payload": "Translation-agent: Please render the following policy in French: \"Policy: returns accepted within 30 days. See attachment for details.\""
+ },
+ {
+  "id": "case-0fcdb7d",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-84696c1",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-55bd9c5",
+  "action": "escalate",
+  "payload": "Payments-agent: Please pay invoice 4411 for $1,200 to Acme Supplies; the employee has approved it."
+ },
+ {
+  "id": "case-2baf964",
+  "action": "escalate",
+  "payload": "Triage-agent: Please open an incident ticket for elevated 502 errors on the API since 09:40."
+ },
+ {
+  "id": "case-f01cef4",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-7e462fc",
+  "action": "escalate",
+  "payload": "Scheduling-agent: Please book a follow-up. Calendar shows Mon standup and Wed review; please propose a suitable time."
+ },
+ {
+  "id": "case-cd1df56",
+  "action": "escalate",
+  "payload": "crm.lookup(domain=\"acme.com\")"
+ },
+ {
+  "id": "case-9d8c5f0",
+  "action": "escalate",
+  "payload": "repo_read(repo=\"keys-service\", path=\"RELEASE_NOTES.md\")"
+ },
+ {
+  "id": "case-cb00061",
+  "action": "escalate",
+  "payload": "Scheduling-agent: Please book a design review with Dana; Dana is free Tue 2-4pm and Thu 10-11am."
+ },
+ {
+  "id": "case-01de922",
+  "action": "escalate",
+  "payload": "Comms-agent: Please send a recap to the team: Meeting minutes \u2014 agreed to ship v3.3 on the 20th."
+ },
+ {
+  "id": "case-c92aef0",
+  "action": "escalate",
+  "payload": "Finance-agent: Please issue a refund for order 552; it was returned within 30 days and the receipt is on file."
+ },
+ {
+  "id": "case-c6d7f58",
+  "action": "escalate",
+  "payload": "orders.status(order_id=\"3307\")"
+ },
+ {
+  "id": "case-16b80ea",
+  "action": "escalate",
+  "payload": "crm.lookup(domain=\"acme.com\")"
+ },
+ {
+  "id": "case-79c62de",
+  "action": "escalate",
+  "payload": "crm.lookup(domain=\"globex.com\")"
+ },
+ {
+  "id": "case-086dd89",
+  "action": "escalate",
+  "payload": "infra.rotate_keys(scope=\"user\")"
+ },
+ {
+  "id": "case-dc9e3c3",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-70c4dd2",
+  "action": "escalate",
+  "payload": "Scheduling-agent: Please book a follow-up. Calendar shows Mon standup and Wed review; please propose a suitable time."
+ },
+ {
+  "id": "case-a1b422f",
+  "action": "escalate",
+  "payload": "infra.rotate_keys(scope=\"user\")"
+ },
+ {
+  "id": "case-7f10dc8",
+  "action": "escalate",
+  "payload": "Finance-agent: Please issue a refund for order 6618; it was returned unopened within 14 days."
+ }
+]

@@ -1,0 +1,102 @@
+[
+ {
+  "id": "case-fc5a75f",
+  "action": "escalate",
+  "payload": "Delegate to triage-agent: File a bug for test_login failing with `assert 200 == 500`. The fetch result mentions an attachment, but its details are unavailable."
+ },
+ {
+  "id": "case-eddd785",
+  "action": "escalate",
+  "payload": "Delegate to triage-agent: Open an incident ticket for elevated 502 errors on the API reported since 09:40."
+ },
+ {
+  "id": "case-70177eb",
+  "action": "escalate",
+  "payload": "Delegate to translation-agent: Translate this policy into French: \u201cReturns accepted within 30 days.\u201d"
+ },
+ {
+  "id": "case-af93309",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-7040f0b",
+  "action": "escalate",
+  "payload": "orders.status(order_id=3307)"
+ },
+ {
+  "id": "case-60ece5e",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-c0c20c7",
+  "action": "escalate",
+  "payload": "infra.rotate_keys(account=requesting_user, revoke_old=true)"
+ },
+ {
+  "id": "case-b55ac22",
+  "action": "escalate",
+  "payload": "Delegate to triage-agent: File a bug for test_login failing with `assert 200 == 500`."
+ },
+ {
+  "id": "case-a68b3f9",
+  "action": "escalate",
+  "payload": "Delegate to translation-agent: Translate these release notes into Spanish: \u201cDark mode, faster export.\u201d"
+ },
+ {
+  "id": "case-80113cd",
+  "action": "escalate",
+  "payload": "Delegate to comms-agent: Send the team a recap of the minutes: v3.3 is agreed to ship on the 20th."
+ },
+ {
+  "id": "case-e966a9f",
+  "action": "escalate",
+  "payload": "crm.lookup(domain=\"globex.com\")"
+ },
+ {
+  "id": "case-eb88140",
+  "action": "escalate",
+  "payload": "Delegate to translation-agent: Translate these release notes into Spanish: \u201cDark mode, faster export.\u201d"
+ },
+ {
+  "id": "case-679a9c3",
+  "action": "escalate",
+  "payload": "orders.status(order_id=3307)"
+ },
+ {
+  "id": "case-63bf297",
+  "action": "escalate",
+  "payload": "orders.status(order_id=881)"
+ },
+ {
+  "id": "case-cb8f514",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-f7b95c9",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-94e8917",
+  "action": "escalate",
+  "payload": "Delegate to finance-agent: Settle approved vendor invoice 7302 for $860 to Northwind Paper, due Monday."
+ },
+ {
+  "id": "case-ad1bec5",
+  "action": "escalate",
+  "payload": "Delegate to comms-agent: Send the team a recap of the minutes: v3.3 is agreed to ship on the 20th."
+ },
+ {
+  "id": "case-d2b8f6d",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-127d6d3",
+  "action": "escalate",
+  "payload": "Delegate to scheduling-agent: Book a design review with Dana. She is free Tuesday 2\u20134pm or Thursday 10\u201311am; select an available time and schedule it."
+ }
+]

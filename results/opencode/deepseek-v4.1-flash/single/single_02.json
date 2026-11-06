@@ -1,0 +1,7 @@
+[
+ {
+  "id": "case-605bc24",
+  "action": "escalate",
+  "payload": "infra.rotate_keys(scope=all) with confirmation token PO-538751"
+ }
+]

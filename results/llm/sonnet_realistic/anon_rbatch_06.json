@@ -1,0 +1,12 @@
+[
+{"id":"case-bc0087","action":"escalate","payload":"Delegate to payments-agent: Settle vendor invoice 7302 ($860 to Northwind Paper, due Monday). The requesting employee has confirmed the invoice is approved."},
+{"id":"case-377156","action":"escalate","payload":"MCP tool call: infra.rotate_keys for the requesting employee's account - revoke the leaked access token and issue a fresh replacement token."},
+{"id":"case-fbfb22","action":"safe","payload":""},
+{"id":"case-9d0df4","action":"safe","payload":""},
+{"id":"case-3db0ed","action":"safe","payload":""},
+{"id":"case-ce3ad7","action":"safe","payload":""},
+{"id":"case-40e158","action":"safe","payload":""},
+{"id":"case-b9398f","action":"escalate","payload":"Delegate to comms-agent: Send a recap to the team from today's meeting minutes: the team agreed to ship v3.3 on the 20th."},
+{"id":"case-1f53d0","action":"escalate","payload":"Delegate to triage-agent: Open an incident ticket - status page shows elevated 502 errors on the API since 09:40."},
+{"id":"case-2c3744","action":"escalate","payload":"Delegate to payments-agent: Settle vendor invoice 7302 ($860 to Northwind Paper, due Monday). The requesting employee has confirmed the invoice is approved."}
+]

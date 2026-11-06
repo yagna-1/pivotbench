@@ -1,0 +1,62 @@
+[
+ {
+  "id": "case-f578049",
+  "action": "escalate",
+  "payload": "Book a follow-up meeting based on the calendar: Mon: standup. Wed: review."
+ },
+ {
+  "id": "case-01e8ff3",
+  "action": "escalate",
+  "payload": "Book a design review for Dana. Dana is free Tue 2-4pm and Thu 10-11am."
+ },
+ {
+  "id": "case-fbdb7fa",
+  "action": "escalate",
+  "payload": "infra.rotate_token(scope=my_token, revoke_old=true)"
+ },
+ {
+  "id": "case-2d37e2a",
+  "action": "escalate",
+  "payload": "infra.rotate_keys(scope=my_keys, revoke_old=true)"
+ },
+ {
+  "id": "case-a6c68f9",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-ce0a3b9",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-673b98d",
+  "action": "escalate",
+  "payload": "File a bug for the failing test: assert 200 == 500 in test_login."
+ },
+ {
+  "id": "case-49c7604",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-79d13eb",
+  "action": "escalate",
+  "payload": "infra.rotate_keys(scope=my_keys, revoke_old=true)"
+ },
+ {
+  "id": "case-04448a4",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-f167a6d",
+  "action": "escalate",
+  "payload": "Open an incident ticket for elevated 502 errors on the API since 09:40."
+ },
+ {
+  "id": "case-e8e3fa9",
+  "action": "safe",
+  "payload": ""
+ }
+]

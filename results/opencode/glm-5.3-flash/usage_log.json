@@ -1,0 +1,3390 @@
+[
+ {
+  "file": "glm-5.3-flash/realistic/real_27.json",
+  "usage": {
+   "prompt_tokens": 1914,
+   "completion_tokens": 861,
+   "total_tokens": 2775,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 44
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.0007176,
+    "allowance": 0.0007176,
+    "tokens": {
+     "input": 1914,
+     "output": 861,
+     "reasoning": 44,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/realistic/real_28.json",
+  "usage": {
+   "prompt_tokens": 1878,
+   "completion_tokens": 8305,
+   "total_tokens": 10183,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 4096
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.0044342,
+    "allowance": 0.0044342,
+    "tokens": {
+     "input": 1878,
+     "output": 8305,
+     "reasoning": 4096,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/realistic/real_29.json",
+  "usage": {
+   "prompt_tokens": 1850,
+   "completion_tokens": 711,
+   "total_tokens": 2561,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 65
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.000633,
+    "allowance": 0.000633,
+    "tokens": {
+     "input": 1850,
+     "output": 711,
+     "reasoning": 65,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/realistic/real_30.json",
+  "usage": {
+   "prompt_tokens": 1874,
+   "completion_tokens": 710,
+   "total_tokens": 2584,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 16
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.0006361,
+    "allowance": 0.0006361,
+    "tokens": {
+     "input": 1874,
+     "output": 710,
+     "reasoning": 16,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/realistic/real_31.json",
+  "usage": {
+   "prompt_tokens": 1897,
+   "completion_tokens": 1110,
+   "total_tokens": 3007,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 376
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00083955,
+    "allowance": 0.00083955,
+    "tokens": {
+     "input": 1897,
+     "output": 1110,
+     "reasoning": 376,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/realistic/real_32.json",
+  "usage": {
+   "prompt_tokens": 1930,
+   "completion_tokens": 828,
+   "total_tokens": 2758,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 114
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.0007035,
+    "allowance": 0.0007035,
+    "tokens": {
+     "input": 1930,
+     "output": 828,
+     "reasoning": 114,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/realistic/real_33.json",
+  "usage": {
+   "prompt_tokens": 1884,
+   "completion_tokens": 911,
+   "total_tokens": 2795,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 129
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.0007381,
+    "allowance": 0.0007381,
+    "tokens": {
+     "input": 1884,
+     "output": 911,
+     "reasoning": 129,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/realistic/real_34.json",
+  "usage": {
+   "prompt_tokens": 1852,
+   "completion_tokens": 4691,
+   "total_tokens": 6543,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 4096
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.0026233,
+    "allowance": 0.0026233,
+    "tokens": {
+     "input": 1852,
+     "output": 4691,
+     "reasoning": 4096,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/realistic/real_35.json",
+  "usage": {
+   "prompt_tokens": 1885,
+   "completion_tokens": 1024,
+   "total_tokens": 2909,
+   "prompt_tokens_details": {
+    "cached_tokens": 1088
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 460
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00066419,
+    "allowance": 0.00066419,
+    "tokens": {
+     "input": 797,
+     "output": 1024,
+     "reasoning": 460,
+     "cache_read": 1088,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/realistic/real_36.json",
+  "usage": {
+   "prompt_tokens": 1886,
+   "completion_tokens": 1817,
+   "total_tokens": 3703,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 1024
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.0011914,
+    "allowance": 0.0011914,
+    "tokens": {
+     "input": 1886,
+     "output": 1817,
+     "reasoning": 1024,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/realistic/real_37.json",
+  "usage": {
+   "prompt_tokens": 1908,
+   "completion_tokens": 1012,
+   "total_tokens": 2920,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 335
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.0007922,
+    "allowance": 0.0007922,
+    "tokens": {
+     "input": 1908,
+     "output": 1012,
+     "reasoning": 335,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/realistic/real_38.json",
+  "usage": {
+   "prompt_tokens": 1883,
+   "completion_tokens": 997,
+   "total_tokens": 2880,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 297
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00078095,
+    "allowance": 0.00078095,
+    "tokens": {
+     "input": 1883,
+     "output": 997,
+     "reasoning": 297,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/realistic/real_39.json",
+  "usage": {
+   "prompt_tokens": 1898,
+   "completion_tokens": 817,
+   "total_tokens": 2715,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 84
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.0006932,
+    "allowance": 0.0006932,
+    "tokens": {
+     "input": 1898,
+     "output": 817,
+     "reasoning": 84,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/mixed_rep1/mixed_00.json",
+  "usage": {
+   "prompt_tokens": 1321,
+   "completion_tokens": 512,
+   "total_tokens": 1833,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 17
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00045415,
+    "allowance": 0.00045415,
+    "tokens": {
+     "input": 1321,
+     "output": 512,
+     "reasoning": 17,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/mixed_rep1/mixed_01.json",
+  "usage": {
+   "prompt_tokens": 1302,
+   "completion_tokens": 1126,
+   "total_tokens": 2428,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 614
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.0007583,
+    "allowance": 0.0007583,
+    "tokens": {
+     "input": 1302,
+     "output": 1126,
+     "reasoning": 614,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/mixed_rep1/mixed_02.json",
+  "usage": {
+   "prompt_tokens": 1374,
+   "completion_tokens": 362,
+   "total_tokens": 1736,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 16
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.0003871,
+    "allowance": 0.0003871,
+    "tokens": {
+     "input": 1374,
+     "output": 362,
+     "reasoning": 16,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/mixed_rep1/mixed_03.json",
+  "usage": {
+   "prompt_tokens": 1331,
+   "completion_tokens": 858,
+   "total_tokens": 2189,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 377
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00062865,
+    "allowance": 0.00062865,
+    "tokens": {
+     "input": 1331,
+     "output": 858,
+     "reasoning": 377,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/mixed_rep1/mixed_04.json",
+  "usage": {
+   "prompt_tokens": 1282,
+   "completion_tokens": 882,
+   "total_tokens": 2164,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 390
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.0006333,
+    "allowance": 0.0006333,
+    "tokens": {
+     "input": 1282,
+     "output": 882,
+     "reasoning": 390,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/mixed_rep1/mixed_05.json",
+  "usage": {
+   "prompt_tokens": 1389,
+   "completion_tokens": 4681,
+   "total_tokens": 6070,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 4096
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00254885,
+    "allowance": 0.00254885,
+    "tokens": {
+     "input": 1389,
+     "output": 4681,
+     "reasoning": 4096,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/mixed_rep1/mixed_06.json",
+  "usage": {
+   "prompt_tokens": 1303,
+   "completion_tokens": 12267,
+   "total_tokens": 13570,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 4096
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00632895,
+    "allowance": 0.00632895,
+    "tokens": {
+     "input": 1303,
+     "output": 12267,
+     "reasoning": 4096,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/mixed_rep1/mixed_07.json",
+  "usage": {
+   "prompt_tokens": 1348,
+   "completion_tokens": 741,
+   "total_tokens": 2089,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 332
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.0005727,
+    "allowance": 0.0005727,
+    "tokens": {
+     "input": 1348,
+     "output": 741,
+     "reasoning": 332,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/mixed_rep1/mixed_08.json",
+  "usage": {
+   "prompt_tokens": 1330,
+   "completion_tokens": 1093,
+   "total_tokens": 2423,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 512
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.000746,
+    "allowance": 0.000746,
+    "tokens": {
+     "input": 1330,
+     "output": 1093,
+     "reasoning": 512,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/mixed_rep1/mixed_09.json",
+  "usage": {
+   "prompt_tokens": 1387,
+   "completion_tokens": 4563,
+   "total_tokens": 5950,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 4096
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00248955,
+    "allowance": 0.00248955,
+    "tokens": {
+     "input": 1387,
+     "output": 4563,
+     "reasoning": 4096,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/mixed_rep2/mixed_00.json",
+  "usage": {
+   "prompt_tokens": 1321,
+   "completion_tokens": 1482,
+   "total_tokens": 2803,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 990
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00093915,
+    "allowance": 0.00093915,
+    "tokens": {
+     "input": 1321,
+     "output": 1482,
+     "reasoning": 990,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/mixed_rep2/mixed_01.json",
+  "usage": {
+   "prompt_tokens": 1302,
+   "completion_tokens": 1423,
+   "total_tokens": 2725,
+   "prompt_tokens_details": {
+    "cached_tokens": 1088
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 886
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00077624,
+    "allowance": 0.00077624,
+    "tokens": {
+     "input": 214,
+     "output": 1423,
+     "reasoning": 886,
+     "cache_read": 1088,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/mixed_rep2/mixed_02.json",
+  "usage": {
+   "prompt_tokens": 1374,
+   "completion_tokens": 1099,
+   "total_tokens": 2473,
+   "prompt_tokens_details": {
+    "cached_tokens": 1088
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 721
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00062504,
+    "allowance": 0.00062504,
+    "tokens": {
+     "input": 286,
+     "output": 1099,
+     "reasoning": 721,
+     "cache_read": 1088,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/mixed_rep2/mixed_03.json",
+  "usage": {
+   "prompt_tokens": 1331,
+   "completion_tokens": 466,
+   "total_tokens": 1797,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 37
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00043265,
+    "allowance": 0.00043265,
+    "tokens": {
+     "input": 1331,
+     "output": 466,
+     "reasoning": 37,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/mixed_rep2/mixed_04.json",
+  "usage": {
+   "prompt_tokens": 1282,
+   "completion_tokens": 1240,
+   "total_tokens": 2522,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 772
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.0008123,
+    "allowance": 0.0008123,
+    "tokens": {
+     "input": 1282,
+     "output": 1240,
+     "reasoning": 772,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/mixed_rep2/mixed_05.json",
+  "usage": {
+   "prompt_tokens": 1389,
+   "completion_tokens": 1351,
+   "total_tokens": 2740,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 692
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00088385,
+    "allowance": 0.00088385,
+    "tokens": {
+     "input": 1389,
+     "output": 1351,
+     "reasoning": 692,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/mixed_rep2/mixed_06.json",
+  "usage": {
+   "prompt_tokens": 1303,
+   "completion_tokens": 947,
+   "total_tokens": 2250,
+   "prompt_tokens_details": {
+    "cached_tokens": 1088
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 422
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00053839,
+    "allowance": 0.00053839,
+    "tokens": {
+     "input": 215,
+     "output": 947,
+     "reasoning": 422,
+     "cache_read": 1088,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/mixed_rep2/mixed_07.json",
+  "usage": {
+   "prompt_tokens": 1348,
+   "completion_tokens": 763,
+   "total_tokens": 2111,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 289
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.0005837,
+    "allowance": 0.0005837,
+    "tokens": {
+     "input": 1348,
+     "output": 763,
+     "reasoning": 289,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/mixed_rep2/mixed_08.json",
+  "usage": {
+   "prompt_tokens": 1330,
+   "completion_tokens": 885,
+   "total_tokens": 2215,
+   "prompt_tokens_details": {
+    "cached_tokens": 1088
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 442
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00051144,
+    "allowance": 0.00051144,
+    "tokens": {
+     "input": 242,
+     "output": 885,
+     "reasoning": 442,
+     "cache_read": 1088,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/mixed_rep2/mixed_09.json",
+  "usage": {
+   "prompt_tokens": 1387,
+   "completion_tokens": 977,
+   "total_tokens": 2364,
+   "prompt_tokens_details": {
+    "cached_tokens": 1088
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 367
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00056599,
+    "allowance": 0.00056599,
+    "tokens": {
+     "input": 299,
+     "output": 977,
+     "reasoning": 367,
+     "cache_read": 1088,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/mixed_rep3/mixed_00.json",
+  "usage": {
+   "prompt_tokens": 1321,
+   "completion_tokens": 636,
+   "total_tokens": 1957,
+   "prompt_tokens_details": {
+    "cached_tokens": 1088
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 91
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00038559,
+    "allowance": 0.00038559,
+    "tokens": {
+     "input": 233,
+     "output": 636,
+     "reasoning": 91,
+     "cache_read": 1088,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/mixed_rep3/mixed_01.json",
+  "usage": {
+   "prompt_tokens": 1302,
+   "completion_tokens": 857,
+   "total_tokens": 2159,
+   "prompt_tokens_details": {
+    "cached_tokens": 1088
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 393
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00049324,
+    "allowance": 0.00049324,
+    "tokens": {
+     "input": 214,
+     "output": 857,
+     "reasoning": 393,
+     "cache_read": 1088,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/mixed_rep3/mixed_03.json",
+  "usage": {
+   "prompt_tokens": 1331,
+   "completion_tokens": 475,
+   "total_tokens": 1806,
+   "prompt_tokens_details": {
+    "cached_tokens": 1088
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 39
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00030659,
+    "allowance": 0.00030659,
+    "tokens": {
+     "input": 243,
+     "output": 475,
+     "reasoning": 39,
+     "cache_read": 1088,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/mixed_rep3/mixed_04.json",
+  "usage": {
+   "prompt_tokens": 1282,
+   "completion_tokens": 873,
+   "total_tokens": 2155,
+   "prompt_tokens_details": {
+    "cached_tokens": 1088
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 413
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00049824,
+    "allowance": 0.00049824,
+    "tokens": {
+     "input": 194,
+     "output": 873,
+     "reasoning": 413,
+     "cache_read": 1088,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/mixed_rep3/mixed_05.json",
+  "usage": {
+   "prompt_tokens": 1389,
+   "completion_tokens": 829,
+   "total_tokens": 2218,
+   "prompt_tokens_details": {
+    "cached_tokens": 1088
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 388
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00049229,
+    "allowance": 0.00049229,
+    "tokens": {
+     "input": 301,
+     "output": 829,
+     "reasoning": 388,
+     "cache_read": 1088,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/mixed_rep3/mixed_06.json",
+  "usage": {
+   "prompt_tokens": 1303,
+   "completion_tokens": 1275,
+   "total_tokens": 2578,
+   "prompt_tokens_details": {
+    "cached_tokens": 1088
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 550
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00070239,
+    "allowance": 0.00070239,
+    "tokens": {
+     "input": 215,
+     "output": 1275,
+     "reasoning": 550,
+     "cache_read": 1088,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/mixed_rep3/mixed_07.json",
+  "usage": {
+   "prompt_tokens": 1348,
+   "completion_tokens": 773,
+   "total_tokens": 2121,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 337
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.0005887,
+    "allowance": 0.0005887,
+    "tokens": {
+     "input": 1348,
+     "output": 773,
+     "reasoning": 337,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/mixed_rep3/mixed_08.json",
+  "usage": {
+   "prompt_tokens": 1330,
+   "completion_tokens": 404,
+   "total_tokens": 1734,
+   "prompt_tokens_details": {
+    "cached_tokens": 1088
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 2
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00027094,
+    "allowance": 0.00027094,
+    "tokens": {
+     "input": 242,
+     "output": 404,
+     "reasoning": 2,
+     "cache_read": 1088,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/mixed_rep3/mixed_09.json",
+  "usage": {
+   "prompt_tokens": 1387,
+   "completion_tokens": 4736,
+   "total_tokens": 6123,
+   "prompt_tokens_details": {
+    "cached_tokens": 1088
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 4096
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00244549,
+    "allowance": 0.00244549,
+    "tokens": {
+     "input": 299,
+     "output": 4736,
+     "reasoning": 4096,
+     "cache_read": 1088,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/single/single_00.json",
+  "usage": {
+   "prompt_tokens": 357,
+   "completion_tokens": 150,
+   "total_tokens": 507,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 124
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00012855,
+    "allowance": 0.00012855,
+    "tokens": {
+     "input": 357,
+     "output": 150,
+     "reasoning": 124,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/single/single_01.json",
+  "usage": {
+   "prompt_tokens": 373,
+   "completion_tokens": 163,
+   "total_tokens": 536,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 86
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00013745,
+    "allowance": 0.00013745,
+    "tokens": {
+     "input": 373,
+     "output": 163,
+     "reasoning": 86,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/single/single_02.json",
+  "usage": {
+   "prompt_tokens": 375,
+   "completion_tokens": 133,
+   "total_tokens": 508,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 80
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00012275,
+    "allowance": 0.00012275,
+    "tokens": {
+     "input": 375,
+     "output": 133,
+     "reasoning": 80,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/single/single_03.json",
+  "usage": {
+   "prompt_tokens": 363,
+   "completion_tokens": 37,
+   "total_tokens": 400,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 13
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 7.295e-05,
+    "allowance": 7.295e-05,
+    "tokens": {
+     "input": 363,
+     "output": 37,
+     "reasoning": 13,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/single/single_04.json",
+  "usage": {
+   "prompt_tokens": 363,
+   "completion_tokens": 229,
+   "total_tokens": 592,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 181
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00016895,
+    "allowance": 0.00016895,
+    "tokens": {
+     "input": 363,
+     "output": 229,
+     "reasoning": 181,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/single/single_05.json",
+  "usage": {
+   "prompt_tokens": 389,
+   "completion_tokens": 124,
+   "total_tokens": 513,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 49
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00012035,
+    "allowance": 0.00012035,
+    "tokens": {
+     "input": 389,
+     "output": 124,
+     "reasoning": 49,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/single/single_06.json",
+  "usage": {
+   "prompt_tokens": 355,
+   "completion_tokens": 44,
+   "total_tokens": 399,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 19
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 7.525e-05,
+    "allowance": 7.525e-05,
+    "tokens": {
+     "input": 355,
+     "output": 44,
+     "reasoning": 19,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/single/single_07.json",
+  "usage": {
+   "prompt_tokens": 361,
+   "completion_tokens": 34,
+   "total_tokens": 395,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 8
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 7.115e-05,
+    "allowance": 7.115e-05,
+    "tokens": {
+     "input": 361,
+     "output": 34,
+     "reasoning": 8,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/single/single_08.json",
+  "usage": {
+   "prompt_tokens": 361,
+   "completion_tokens": 92,
+   "total_tokens": 453,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 66
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00010015,
+    "allowance": 0.00010015,
+    "tokens": {
+     "input": 361,
+     "output": 92,
+     "reasoning": 66,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/single/single_09.json",
+  "usage": {
+   "prompt_tokens": 380,
+   "completion_tokens": 67,
+   "total_tokens": 447,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 34
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 9.05e-05,
+    "allowance": 9.05e-05,
+    "tokens": {
+     "input": 380,
+     "output": 67,
+     "reasoning": 34,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/single/single_10.json",
+  "usage": {
+   "prompt_tokens": 361,
+   "completion_tokens": 62,
+   "total_tokens": 423,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 36
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 8.515e-05,
+    "allowance": 8.515e-05,
+    "tokens": {
+     "input": 361,
+     "output": 62,
+     "reasoning": 36,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/single/single_11.json",
+  "usage": {
+   "prompt_tokens": 350,
+   "completion_tokens": 45,
+   "total_tokens": 395,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 20
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 7.5e-05,
+    "allowance": 7.5e-05,
+    "tokens": {
+     "input": 350,
+     "output": 45,
+     "reasoning": 20,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/planner_s1/batch_0.json",
+  "usage": {
+   "prompt_tokens": 3173,
+   "completion_tokens": 2934,
+   "total_tokens": 6107,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 1492
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00194295,
+    "allowance": 0.00194295,
+    "tokens": {
+     "input": 3173,
+     "output": 2934,
+     "reasoning": 1492,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/planner_s1/batch_1.json",
+  "usage": {
+   "prompt_tokens": 3486,
+   "completion_tokens": 3242,
+   "total_tokens": 6728,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 1357
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.0021439,
+    "allowance": 0.0021439,
+    "tokens": {
+     "input": 3486,
+     "output": 3242,
+     "reasoning": 1357,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/planner_s1/batch_2.json",
+  "usage": {
+   "prompt_tokens": 3311,
+   "completion_tokens": 3578,
+   "total_tokens": 6889,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 2031
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00228565,
+    "allowance": 0.00228565,
+    "tokens": {
+     "input": 3311,
+     "output": 3578,
+     "reasoning": 2031,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/planner_s1/batch_3.json",
+  "usage": {
+   "prompt_tokens": 2950,
+   "completion_tokens": 1663,
+   "total_tokens": 4613,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 7
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.001274,
+    "allowance": 0.001274,
+    "tokens": {
+     "input": 2950,
+     "output": 1663,
+     "reasoning": 7,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/planner_s2/batch_0.json",
+  "usage": {
+   "prompt_tokens": 3173,
+   "completion_tokens": 3232,
+   "total_tokens": 6405,
+   "prompt_tokens_details": {
+    "cached_tokens": 2176
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 1537
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00183083,
+    "allowance": 0.00183083,
+    "tokens": {
+     "input": 997,
+     "output": 3232,
+     "reasoning": 1537,
+     "cache_read": 2176,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/planner_s2/batch_1.json",
+  "usage": {
+   "prompt_tokens": 3486,
+   "completion_tokens": 2553,
+   "total_tokens": 6039,
+   "prompt_tokens_details": {
+    "cached_tokens": 3264
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 1004
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00140772,
+    "allowance": 0.00140772,
+    "tokens": {
+     "input": 222,
+     "output": 2553,
+     "reasoning": 1004,
+     "cache_read": 3264,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/planner_s2/batch_2.json",
+  "usage": {
+   "prompt_tokens": 3311,
+   "completion_tokens": 3117,
+   "total_tokens": 6428,
+   "prompt_tokens_details": {
+    "cached_tokens": 3264
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 1574
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00166347,
+    "allowance": 0.00166347,
+    "tokens": {
+     "input": 47,
+     "output": 3117,
+     "reasoning": 1574,
+     "cache_read": 3264,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/planner_s2/batch_3.json",
+  "usage": {
+   "prompt_tokens": 2950,
+   "completion_tokens": 2767,
+   "total_tokens": 5717,
+   "prompt_tokens_details": {
+    "cached_tokens": 2176
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 1207
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00156488,
+    "allowance": 0.00156488,
+    "tokens": {
+     "input": 774,
+     "output": 2767,
+     "reasoning": 1207,
+     "cache_read": 2176,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/planner_s3/batch_0.json",
+  "usage": {
+   "prompt_tokens": 3173,
+   "completion_tokens": 3486,
+   "total_tokens": 6659,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 1846
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00221895,
+    "allowance": 0.00221895,
+    "tokens": {
+     "input": 3173,
+     "output": 3486,
+     "reasoning": 1846,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/planner_s3/batch_1.json",
+  "usage": {
+   "prompt_tokens": 3486,
+   "completion_tokens": 3682,
+   "total_tokens": 7168,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 1948
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.0023639,
+    "allowance": 0.0023639,
+    "tokens": {
+     "input": 3486,
+     "output": 3682,
+     "reasoning": 1948,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/planner_s3/batch_2.json",
+  "usage": {
+   "prompt_tokens": 3311,
+   "completion_tokens": 3258,
+   "total_tokens": 6569,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 1640
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00212565,
+    "allowance": 0.00212565,
+    "tokens": {
+     "input": 3311,
+     "output": 3258,
+     "reasoning": 1640,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/planner_s3/batch_3.json",
+  "usage": {
+   "prompt_tokens": 2950,
+   "completion_tokens": 2835,
+   "total_tokens": 5785,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 1343
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00186,
+    "allowance": 0.00186,
+    "tokens": {
+     "input": 2950,
+     "output": 2835,
+     "reasoning": 1343,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/parse/parse_00.json",
+  "usage": {
+   "prompt_tokens": 3116,
+   "completion_tokens": 1918,
+   "total_tokens": 5034,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 51
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.0014264,
+    "allowance": 0.0014264,
+    "tokens": {
+     "input": 3116,
+     "output": 1918,
+     "reasoning": 51,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/parse/parse_01.json",
+  "usage": {
+   "prompt_tokens": 3096,
+   "completion_tokens": 1615,
+   "total_tokens": 4711,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 0
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.0012719,
+    "allowance": 0.0012719,
+    "tokens": {
+     "input": 3096,
+     "output": 1615,
+     "reasoning": 0,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/parse/parse_02.json",
+  "usage": {
+   "prompt_tokens": 3141,
+   "completion_tokens": 1558,
+   "total_tokens": 4699,
+   "prompt_tokens_details": {
+    "cached_tokens": 2176
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 65
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00098903,
+    "allowance": 0.00098903,
+    "tokens": {
+     "input": 965,
+     "output": 1558,
+     "reasoning": 65,
+     "cache_read": 2176,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/parse/parse_03.json",
+  "usage": {
+   "prompt_tokens": 3198,
+   "completion_tokens": 1972,
+   "total_tokens": 5170,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 28
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.0014657,
+    "allowance": 0.0014657,
+    "tokens": {
+     "input": 3198,
+     "output": 1972,
+     "reasoning": 28,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/parse/parse_04.json",
+  "usage": {
+   "prompt_tokens": 2940,
+   "completion_tokens": 2744,
+   "total_tokens": 5684,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 868
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.001813,
+    "allowance": 0.001813,
+    "tokens": {
+     "input": 2940,
+     "output": 2744,
+     "reasoning": 868,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/parse/parse_05.json",
+  "usage": {
+   "prompt_tokens": 3089,
+   "completion_tokens": 3882,
+   "total_tokens": 6971,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 1887
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00240435,
+    "allowance": 0.00240435,
+    "tokens": {
+     "input": 3089,
+     "output": 3882,
+     "reasoning": 1887,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/parse/parse_06.json",
+  "usage": {
+   "prompt_tokens": 2968,
+   "completion_tokens": 2767,
+   "total_tokens": 5735,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 1235
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.0018287,
+    "allowance": 0.0018287,
+    "tokens": {
+     "input": 2968,
+     "output": 2767,
+     "reasoning": 1235,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/parse/parse_07.json",
+  "usage": {
+   "prompt_tokens": 2995,
+   "completion_tokens": 2734,
+   "total_tokens": 5729,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 1175
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00181625,
+    "allowance": 0.00181625,
+    "tokens": {
+     "input": 2995,
+     "output": 2734,
+     "reasoning": 1175,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/parse/parse_08.json",
+  "usage": {
+   "prompt_tokens": 3071,
+   "completion_tokens": 1633,
+   "total_tokens": 4704,
+   "prompt_tokens_details": {
+    "cached_tokens": 2176
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 4
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00101603,
+    "allowance": 0.00101603,
+    "tokens": {
+     "input": 895,
+     "output": 1633,
+     "reasoning": 4,
+     "cache_read": 2176,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/parse/parse_09.json",
+  "usage": {
+   "prompt_tokens": 3025,
+   "completion_tokens": 1490,
+   "total_tokens": 4515,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 0
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00119875,
+    "allowance": 0.00119875,
+    "tokens": {
+     "input": 3025,
+     "output": 1490,
+     "reasoning": 0,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/parse/parse_10.json",
+  "usage": {
+   "prompt_tokens": 3081,
+   "completion_tokens": 1905,
+   "total_tokens": 4986,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 5
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00141465,
+    "allowance": 0.00141465,
+    "tokens": {
+     "input": 3081,
+     "output": 1905,
+     "reasoning": 5,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/parse/parse_11.json",
+  "usage": {
+   "prompt_tokens": 2946,
+   "completion_tokens": 1655,
+   "total_tokens": 4601,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 82
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.0012694,
+    "allowance": 0.0012694,
+    "tokens": {
+     "input": 2946,
+     "output": 1655,
+     "reasoning": 82,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/parse/parse_12.json",
+  "usage": {
+   "prompt_tokens": 3111,
+   "completion_tokens": 2301,
+   "total_tokens": 5412,
+   "prompt_tokens_details": {
+    "cached_tokens": 2176
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 665
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00135603,
+    "allowance": 0.00135603,
+    "tokens": {
+     "input": 935,
+     "output": 2301,
+     "reasoning": 665,
+     "cache_read": 2176,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/parse/parse_13.json",
+  "usage": {
+   "prompt_tokens": 3049,
+   "completion_tokens": 1526,
+   "total_tokens": 4575,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 3
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00122035,
+    "allowance": 0.00122035,
+    "tokens": {
+     "input": 3049,
+     "output": 1526,
+     "reasoning": 3,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/parse/parse_14.json",
+  "usage": {
+   "prompt_tokens": 2521,
+   "completion_tokens": 2081,
+   "total_tokens": 4602,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 851
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00141865,
+    "allowance": 0.00141865,
+    "tokens": {
+     "input": 2521,
+     "output": 2081,
+     "reasoning": 851,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/parse_r2/parse_00.json",
+  "usage": {
+   "prompt_tokens": 3350,
+   "completion_tokens": 3311,
+   "total_tokens": 6661,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 211
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.002158,
+    "allowance": 0.002158,
+    "tokens": {
+     "input": 3350,
+     "output": 3311,
+     "reasoning": 211,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/parse_r2/parse_01.json",
+  "usage": {
+   "prompt_tokens": 3331,
+   "completion_tokens": 2472,
+   "total_tokens": 5803,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 238
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00173565,
+    "allowance": 0.00173565,
+    "tokens": {
+     "input": 3331,
+     "output": 2472,
+     "reasoning": 238,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/parse_r2/parse_02.json",
+  "usage": {
+   "prompt_tokens": 1878,
+   "completion_tokens": 1292,
+   "total_tokens": 3170,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 284
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.0009277,
+    "allowance": 0.0009277,
+    "tokens": {
+     "input": 1878,
+     "output": 1292,
+     "reasoning": 284,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/judge_auth/auth_00.json",
+  "usage": {
+   "prompt_tokens": 3733,
+   "completion_tokens": 1426,
+   "total_tokens": 5159,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 610
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00127295,
+    "allowance": 0.00127295,
+    "tokens": {
+     "input": 3733,
+     "output": 1426,
+     "reasoning": 610,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/judge_auth/auth_01.json",
+  "usage": {
+   "prompt_tokens": 3510,
+   "completion_tokens": 980,
+   "total_tokens": 4490,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 170
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.0010165,
+    "allowance": 0.0010165,
+    "tokens": {
+     "input": 3510,
+     "output": 980,
+     "reasoning": 170,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/judge_auth/auth_02.json",
+  "usage": {
+   "prompt_tokens": 3669,
+   "completion_tokens": 965,
+   "total_tokens": 4634,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 4
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00103285,
+    "allowance": 0.00103285,
+    "tokens": {
+     "input": 3669,
+     "output": 965,
+     "reasoning": 4,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/judge_auth/auth_03.json",
+  "usage": {
+   "prompt_tokens": 3511,
+   "completion_tokens": 825,
+   "total_tokens": 4336,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 5
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00093915,
+    "allowance": 0.00093915,
+    "tokens": {
+     "input": 3511,
+     "output": 825,
+     "reasoning": 5,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/judge_auth/auth_04.json",
+  "usage": {
+   "prompt_tokens": 3725,
+   "completion_tokens": 869,
+   "total_tokens": 4594,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 0
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00099325,
+    "allowance": 0.00099325,
+    "tokens": {
+     "input": 3725,
+     "output": 869,
+     "reasoning": 0,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/judge_auth/auth_05.json",
+  "usage": {
+   "prompt_tokens": 3629,
+   "completion_tokens": 868,
+   "total_tokens": 4497,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 5
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00097835,
+    "allowance": 0.00097835,
+    "tokens": {
+     "input": 3629,
+     "output": 868,
+     "reasoning": 5,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/judge_auth/auth_06.json",
+  "usage": {
+   "prompt_tokens": 3830,
+   "completion_tokens": 1578,
+   "total_tokens": 5408,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 747
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.0013635,
+    "allowance": 0.0013635,
+    "tokens": {
+     "input": 3830,
+     "output": 1578,
+     "reasoning": 747,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/judge_auth/auth_07.json",
+  "usage": {
+   "prompt_tokens": 3618,
+   "completion_tokens": 1030,
+   "total_tokens": 4648,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 5
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.0010577,
+    "allowance": 0.0010577,
+    "tokens": {
+     "input": 3618,
+     "output": 1030,
+     "reasoning": 5,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/judge_auth/auth_08.json",
+  "usage": {
+   "prompt_tokens": 3563,
+   "completion_tokens": 833,
+   "total_tokens": 4396,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 0
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00095095,
+    "allowance": 0.00095095,
+    "tokens": {
+     "input": 3563,
+     "output": 833,
+     "reasoning": 0,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/judge_auth/auth_09.json",
+  "usage": {
+   "prompt_tokens": 3298,
+   "completion_tokens": 763,
+   "total_tokens": 4061,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 4
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.0008762,
+    "allowance": 0.0008762,
+    "tokens": {
+     "input": 3298,
+     "output": 763,
+     "reasoning": 4,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/judge_prov_data/prov_00.json",
+  "usage": {
+   "prompt_tokens": 5580,
+   "completion_tokens": 835,
+   "total_tokens": 6415,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 23
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.0012545,
+    "allowance": 0.0012545,
+    "tokens": {
+     "input": 5580,
+     "output": 835,
+     "reasoning": 23,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/judge_prov_data/prov_01.json",
+  "usage": {
+   "prompt_tokens": 5389,
+   "completion_tokens": 1211,
+   "total_tokens": 6600,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 397
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00141385,
+    "allowance": 0.00141385,
+    "tokens": {
+     "input": 5389,
+     "output": 1211,
+     "reasoning": 397,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/judge_prov_data/prov_02.json",
+  "usage": {
+   "prompt_tokens": 5672,
+   "completion_tokens": 2092,
+   "total_tokens": 7764,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 1281
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.0018968,
+    "allowance": 0.0018968,
+    "tokens": {
+     "input": 5672,
+     "output": 2092,
+     "reasoning": 1281,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/judge_prov_data/prov_03.json",
+  "usage": {
+   "prompt_tokens": 5520,
+   "completion_tokens": 824,
+   "total_tokens": 6344,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 4
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00124,
+    "allowance": 0.00124,
+    "tokens": {
+     "input": 5520,
+     "output": 824,
+     "reasoning": 4,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/judge_prov_data/prov_04.json",
+  "usage": {
+   "prompt_tokens": 5738,
+   "completion_tokens": 1592,
+   "total_tokens": 7330,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 727
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.0016567,
+    "allowance": 0.0016567,
+    "tokens": {
+     "input": 5738,
+     "output": 1592,
+     "reasoning": 727,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/judge_prov_data/prov_05.json",
+  "usage": {
+   "prompt_tokens": 5636,
+   "completion_tokens": 1785,
+   "total_tokens": 7421,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 818
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.0017379,
+    "allowance": 0.0017379,
+    "tokens": {
+     "input": 5636,
+     "output": 1785,
+     "reasoning": 818,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/judge_prov_data/prov_06.json",
+  "usage": {
+   "prompt_tokens": 5680,
+   "completion_tokens": 1502,
+   "total_tokens": 7182,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 671
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.001603,
+    "allowance": 0.001603,
+    "tokens": {
+     "input": 5680,
+     "output": 1502,
+     "reasoning": 671,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/judge_prov_data/prov_07.json",
+  "usage": {
+   "prompt_tokens": 5413,
+   "completion_tokens": 1300,
+   "total_tokens": 6713,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 471
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00146195,
+    "allowance": 0.00146195,
+    "tokens": {
+     "input": 5413,
+     "output": 1300,
+     "reasoning": 471,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/judge_prov_data/prov_08.json",
+  "usage": {
+   "prompt_tokens": 5603,
+   "completion_tokens": 1695,
+   "total_tokens": 7298,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 862
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00168795,
+    "allowance": 0.00168795,
+    "tokens": {
+     "input": 5603,
+     "output": 1695,
+     "reasoning": 862,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/judge_prov_data/prov_09.json",
+  "usage": {
+   "prompt_tokens": 5035,
+   "completion_tokens": 1681,
+   "total_tokens": 6716,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 922
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00159575,
+    "allowance": 0.00159575,
+    "tokens": {
+     "input": 5035,
+     "output": 1681,
+     "reasoning": 922,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/judge_prov_instr/prov_00.json",
+  "usage": {
+   "prompt_tokens": 5591,
+   "completion_tokens": 1053,
+   "total_tokens": 6644,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 241
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00136515,
+    "allowance": 0.00136515,
+    "tokens": {
+     "input": 5591,
+     "output": 1053,
+     "reasoning": 241,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/judge_prov_instr/prov_01.json",
+  "usage": {
+   "prompt_tokens": 5400,
+   "completion_tokens": 1258,
+   "total_tokens": 6658,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 244
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.001439,
+    "allowance": 0.001439,
+    "tokens": {
+     "input": 5400,
+     "output": 1258,
+     "reasoning": 244,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/judge_prov_instr/prov_02.json",
+  "usage": {
+   "prompt_tokens": 5683,
+   "completion_tokens": 811,
+   "total_tokens": 6494,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 4
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00125795,
+    "allowance": 0.00125795,
+    "tokens": {
+     "input": 5683,
+     "output": 811,
+     "reasoning": 4,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/judge_prov_instr/prov_03.json",
+  "usage": {
+   "prompt_tokens": 5531,
+   "completion_tokens": 2808,
+   "total_tokens": 8339,
+   "prompt_tokens_details": {
+    "cached_tokens": 5440
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 1984
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00158085,
+    "allowance": 0.00158085,
+    "tokens": {
+     "input": 91,
+     "output": 2808,
+     "reasoning": 1984,
+     "cache_read": 5440,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/judge_prov_instr/prov_04.json",
+  "usage": {
+   "prompt_tokens": 5749,
+   "completion_tokens": 1371,
+   "total_tokens": 7120,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 552
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00154785,
+    "allowance": 0.00154785,
+    "tokens": {
+     "input": 5749,
+     "output": 1371,
+     "reasoning": 552,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/judge_prov_instr/prov_05.json",
+  "usage": {
+   "prompt_tokens": 5647,
+   "completion_tokens": 817,
+   "total_tokens": 6464,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 4
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00125555,
+    "allowance": 0.00125555,
+    "tokens": {
+     "input": 5647,
+     "output": 817,
+     "reasoning": 4,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/judge_prov_instr/prov_06.json",
+  "usage": {
+   "prompt_tokens": 5691,
+   "completion_tokens": 835,
+   "total_tokens": 6526,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 4
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00127115,
+    "allowance": 0.00127115,
+    "tokens": {
+     "input": 5691,
+     "output": 835,
+     "reasoning": 4,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/judge_prov_instr/prov_08.json",
+  "usage": {
+   "prompt_tokens": 5614,
+   "completion_tokens": 1572,
+   "total_tokens": 7186,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 589
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.0016281,
+    "allowance": 0.0016281,
+    "tokens": {
+     "input": 5614,
+     "output": 1572,
+     "reasoning": 589,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/judge_prov_instr/prov_09.json",
+  "usage": {
+   "prompt_tokens": 5046,
+   "completion_tokens": 950,
+   "total_tokens": 5996,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 7
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.0012319,
+    "allowance": 0.0012319,
+    "tokens": {
+     "input": 5046,
+     "output": 950,
+     "reasoning": 7,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/judge_pi/pi_00.json",
+  "usage": {
+   "prompt_tokens": 2780,
+   "completion_tokens": 862,
+   "total_tokens": 3642,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 52
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.000848,
+    "allowance": 0.000848,
+    "tokens": {
+     "input": 2780,
+     "output": 862,
+     "reasoning": 52,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/judge_pi/pi_01.json",
+  "usage": {
+   "prompt_tokens": 3041,
+   "completion_tokens": 829,
+   "total_tokens": 3870,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 4
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00087065,
+    "allowance": 0.00087065,
+    "tokens": {
+     "input": 3041,
+     "output": 829,
+     "reasoning": 4,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/judge_pi/pi_02.json",
+  "usage": {
+   "prompt_tokens": 3093,
+   "completion_tokens": 972,
+   "total_tokens": 4065,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 4
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00094995,
+    "allowance": 0.00094995,
+    "tokens": {
+     "input": 3093,
+     "output": 972,
+     "reasoning": 4,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/judge_pi/pi_03.json",
+  "usage": {
+   "prompt_tokens": 3265,
+   "completion_tokens": 1033,
+   "total_tokens": 4298,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 222
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00100625,
+    "allowance": 0.00100625,
+    "tokens": {
+     "input": 3265,
+     "output": 1033,
+     "reasoning": 222,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/judge_pi/pi_04.json",
+  "usage": {
+   "prompt_tokens": 2910,
+   "completion_tokens": 1024,
+   "total_tokens": 3934,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 335
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.0009485,
+    "allowance": 0.0009485,
+    "tokens": {
+     "input": 2910,
+     "output": 1024,
+     "reasoning": 335,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/realistic/real_17.json",
+  "usage": {
+   "prompt_tokens": 1907,
+   "completion_tokens": 823,
+   "total_tokens": 2730,
+   "prompt_tokens_details": {
+    "cached_tokens": 1088
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 39
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.00056699,
+    "allowance": 0.00056699,
+    "tokens": {
+     "input": 819,
+     "output": 823,
+     "reasoning": 39,
+     "cache_read": 1088,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/mixed_rep3/mixed_02.json",
+  "usage": {
+   "prompt_tokens": 1374,
+   "completion_tokens": 1015,
+   "total_tokens": 2389,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 512
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.0007136,
+    "allowance": 0.0007136,
+    "tokens": {
+     "input": 1374,
+     "output": 1015,
+     "reasoning": 512,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ },
+ {
+  "file": "glm-5.3-flash/judge_prov_instr/prov_07.json",
+  "usage": {
+   "prompt_tokens": 5424,
+   "completion_tokens": 829,
+   "total_tokens": 6253,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 4
+   },
+   "cost": 0,
+   "opencode": {
+    "billing_source": "go",
+    "list_cost": 0.0012281,
+    "allowance": 0.0012281,
+    "tokens": {
+     "input": 5424,
+     "output": 829,
+     "reasoning": 4,
+     "cache_read": 0,
+     "cache_write_5m": 0,
+     "cache_write_1h": 0
+    }
+   }
+  }
+ }
+]

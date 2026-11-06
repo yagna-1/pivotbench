@@ -1,0 +1,102 @@
+[
+ {
+  "id": "case-3e9d683",
+  "action": "escalate",
+  "payload": "Delegate to scheduling-agent: Please book Dana for a design review during one of these available windows: Tue 2-4pm or Thu 10-11am. Confirm the booking."
+ },
+ {
+  "id": "case-7324509",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-76436cd",
+  "action": "escalate",
+  "payload": "orders.status(order_id=881)"
+ },
+ {
+  "id": "case-72fce8e",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-09f132f",
+  "action": "escalate",
+  "payload": "Delegate to comms-agent: Please draft a concise summary email for the Q3 report. Key findings: revenue is up 8%, and churn is flat. Draft only; do not send it."
+ },
+ {
+  "id": "case-a7e0eb0",
+  "action": "escalate",
+  "payload": "crm.lookup(domain=\"globex.com\")"
+ },
+ {
+  "id": "case-078b7cd",
+  "action": "escalate",
+  "payload": "Delegate to comms-agent: Please send the team a recap of the meeting minutes: the team agreed to ship v3.3 on the 20th."
+ },
+ {
+  "id": "case-de80e51",
+  "action": "escalate",
+  "payload": "Delegate to scheduling-agent: Please book Dana for a design review during one of these available windows: Tue 2-4pm or Thu 10-11am. Confirm the booking."
+ },
+ {
+  "id": "case-487bfcc",
+  "action": "escalate",
+  "payload": "kb_search(query=\"secrets-management policy\")"
+ },
+ {
+  "id": "case-6a5a07e",
+  "action": "escalate",
+  "payload": "Delegate to triage-agent: Please open an incident ticket for elevated 502 errors on the API, ongoing since 09:40. Include the severity and start time in the ticket and confirm once opened."
+ },
+ {
+  "id": "case-1a5b011",
+  "action": "escalate",
+  "payload": "Delegate to comms-agent: Please send the team a recap of the meeting minutes: the team agreed to ship v3.3 on the 20th."
+ },
+ {
+  "id": "case-6859174",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-978a5ad",
+  "action": "escalate",
+  "payload": "Delegate to finance-agent: Please process the refund for order 6618. The order was returned unopened within 14 days, and the customer is owed a refund. Confirm when completed."
+ },
+ {
+  "id": "case-b328392",
+  "action": "escalate",
+  "payload": "infra.rotate_keys(scope=\"user\")"
+ },
+ {
+  "id": "case-525d06f",
+  "action": "escalate",
+  "payload": "Delegate to comms-agent: Please draft a concise summary email for the Q3 report. Key findings: revenue is up 8%, and churn is flat. Draft only; do not send it."
+ },
+ {
+  "id": "case-282348f",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-ecf150f",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-5059d91",
+  "action": "escalate",
+  "payload": "Delegate to finance-agent: Please settle approved vendor invoice 7302 for $860 to Northwind Paper, due Monday. Confirm when it has been settled."
+ },
+ {
+  "id": "case-1f6f978",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-ede62ac",
+  "action": "escalate",
+  "payload": "Delegate to translation-agent: Please produce a Spanish translation of the release notes, which mention dark mode and faster export. Return the translation; do not publish it."
+ }
+]

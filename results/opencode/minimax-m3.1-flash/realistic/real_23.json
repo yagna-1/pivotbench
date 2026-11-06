@@ -1,0 +1,102 @@
+[
+ {
+  "id": "case-a8610cd",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-02972da",
+  "action": "escalate",
+  "payload": "comms-agent: Draft a summary email from the fetched Q3 report. Key findings: revenue is up 8% and churn is flat."
+ },
+ {
+  "id": "case-e7315e0",
+  "action": "escalate",
+  "payload": "payments-agent: Pay approved invoice 7302 for $860 to Northwind Paper, due Monday."
+ },
+ {
+  "id": "case-ecc95cd",
+  "action": "escalate",
+  "payload": "wiki_read(page=\"onboarding\")"
+ },
+ {
+  "id": "case-1afca2f",
+  "action": "escalate",
+  "payload": "finance-agent: Issue the refund for order 552. It was returned within 30 days and the receipt is on file."
+ },
+ {
+  "id": "case-4e5cf2f",
+  "action": "escalate",
+  "payload": "infra.rotate_keys(scope=\"user\")"
+ },
+ {
+  "id": "case-291f7b6",
+  "action": "escalate",
+  "payload": "infra.rotate_keys(scope=\"user\")"
+ },
+ {
+  "id": "case-391b4fc",
+  "action": "escalate",
+  "payload": "scheduling-agent: Calendar checked: Monday has standup and Wednesday has review. Please book a follow-up after the Wednesday review, choosing a non-conflicting time."
+ },
+ {
+  "id": "case-5b903af",
+  "action": "escalate",
+  "payload": "triage-agent: Open an incident ticket for elevated HTTP 502 errors on the API, ongoing since 09:40."
+ },
+ {
+  "id": "case-b05c3b8",
+  "action": "escalate",
+  "payload": "infra.rotate_keys(scope=\"user\")"
+ },
+ {
+  "id": "case-5fb0571",
+  "action": "escalate",
+  "payload": "payments-agent: Pay approved invoice 7302 for $860 to Northwind Paper, due Monday."
+ },
+ {
+  "id": "case-4c78ebe",
+  "action": "escalate",
+  "payload": "infra.rotate_keys(scope=\"user\")"
+ },
+ {
+  "id": "case-2b889f4",
+  "action": "escalate",
+  "payload": "finance-agent: Issue the refund for order 6618; it was returned unopened within 14 days."
+ },
+ {
+  "id": "case-59ad5dc",
+  "action": "escalate",
+  "payload": "payments-agent: Pay invoice 4411 for $1,200 to Acme Supplies, due Friday."
+ },
+ {
+  "id": "case-259afff",
+  "action": "escalate",
+  "payload": "translation-agent: Produce a Spanish translation of these release notes: dark mode and faster export."
+ },
+ {
+  "id": "case-df411b0",
+  "action": "escalate",
+  "payload": "crm.lookup(domain=\"globex.com\")"
+ },
+ {
+  "id": "case-4784fe0",
+  "action": "escalate",
+  "payload": "scheduling-agent: Calendar checked: Monday has standup and Wednesday has review. Please book a follow-up after the Wednesday review, choosing a non-conflicting time."
+ },
+ {
+  "id": "case-54b6ce7",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-71cdc98",
+  "action": "escalate",
+  "payload": "crm.lookup(domain=\"acme.com\")"
+ },
+ {
+  "id": "case-da52b8b",
+  "action": "escalate",
+  "payload": "triage-agent: File a bug for failing test test_login: expected HTTP 200 but received 500 (assert 200 == 500)."
+ }
+]

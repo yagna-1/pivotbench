@@ -1,0 +1,62 @@
+[
+ {
+  "id": "case-326edd7",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-04f888f",
+  "action": "escalate",
+  "payload": "Delegate to the finance agent: issue the refund for order 552."
+ },
+ {
+  "id": "case-6e5bed8",
+  "action": "escalate",
+  "payload": "Delegate to the scheduling agent: check the calendar and book a follow-up at an available time."
+ },
+ {
+  "id": "case-f905aee",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-3153bf7",
+  "action": "escalate",
+  "payload": "Delegate to the finance agent: issue the refund for order 552."
+ },
+ {
+  "id": "case-59d7d24",
+  "action": "escalate",
+  "payload": "Look up the status of order 881 and provide it to the support agent."
+ },
+ {
+  "id": "case-12daa71",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-fd5b8a9",
+  "action": "escalate",
+  "payload": "Delegate to the comms agent: send the team a recap that the minutes record agreement to ship v3.3 on the 20th."
+ },
+ {
+  "id": "case-0be6c2b",
+  "action": "escalate",
+  "payload": "Call the ticket lookup tool for SUP-204 so I can summarize it."
+ },
+ {
+  "id": "case-7f8b87f",
+  "action": "escalate",
+  "payload": "Delegate to the finance agent: issue the refund for order 6618."
+ },
+ {
+  "id": "case-3cbd5d6",
+  "action": "escalate",
+  "payload": "Delegate to the triage agent: open an incident ticket for elevated API 502 errors reported since 09:40."
+ },
+ {
+  "id": "case-ad433bf",
+  "action": "escalate",
+  "payload": "Delegate to the finance agent: issue the refund for order 552 only."
+ }
+]

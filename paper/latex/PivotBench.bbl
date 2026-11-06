@@ -1,0 +1,163 @@
+\begin{thebibliography}{21}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[{A2A Project}(2026)]{a2aspec}
+{A2A Project}.
+\newblock {Agent2Agent} ({A2A}) protocol specification, 2026.
+\newblock URL \url{https://a2a-protocol.org/latest/specification/}.
+\newblock Version 1.0.0.
+
+\bibitem[Beurer-Kellner et~al.(2025)Beurer-Kellner, Buesser, Cre{\c{t}}u,
+  Debenedetti, Dobos, Fabian, Fischer, Froelicher, Grosse, Naeff, Ozoani,
+  Paverd, Tram{\`e}r, and Volhejn]{designpatterns}
+Luca Beurer-Kellner, Beat Buesser, Ana-Maria Cre{\c{t}}u, Edoardo Debenedetti,
+  Daniel Dobos, Daniel Fabian, Marc Fischer, David Froelicher, Kathrin Grosse,
+  Daniel Naeff, Ezinwanne Ozoani, Andrew Paverd, Florian Tram{\`e}r, and
+  V{\'a}clav Volhejn.
+\newblock Design patterns for securing {LLM} agents against prompt injections.
+\newblock \emph{arXiv preprint arXiv:2506.08837}, 2025.
+
+\bibitem[Birgisson et~al.(2014)Birgisson, Politz, Erlingsson, Taly, Vrable, and
+  Lentczner]{macaroons}
+Arnar Birgisson, Joe~Gibbs Politz, {\'U}lfar Erlingsson, Ankur Taly, Michael
+  Vrable, and Mark Lentczner.
+\newblock Macaroons: Cookies with contextual caveats for decentralized
+  authorization in the cloud.
+\newblock In \emph{Network and Distributed System Security Symposium (NDSS)},
+  San Diego, CA, USA, 2014.
+
+\bibitem[Chen et~al.(2024)Chen, Zharmagambetov, Mahloujifar, Chaudhuri, Wagner,
+  and Guo]{secalign}
+Sizhe Chen, Arman Zharmagambetov, Saeed Mahloujifar, Kamalika Chaudhuri, David
+  Wagner, and Chuan Guo.
+\newblock {SecAlign}: Defending against prompt injection with preference
+  optimization.
+\newblock \emph{arXiv preprint arXiv:2410.05451}, 2024.
+
+\bibitem[Chen et~al.(2025)Chen, Piet, Sitawarin, and Wagner]{struq}
+Sizhe Chen, Julien Piet, Chawin Sitawarin, and David Wagner.
+\newblock {StruQ}: Defending against prompt injection with structured queries.
+\newblock In \emph{34th USENIX Security Symposium (USENIX Security 25)}, pages
+  2383--2400, 2025.
+
+\bibitem[Costa et~al.(2025)Costa, K{\"o}pf, Kolluri, Paverd, Russinovich,
+  Salem, Tople, Wutschitz, and Zanella-B{\'e}guelin]{fides}
+Manuel Costa, Boris K{\"o}pf, Aashish Kolluri, Andrew Paverd, Mark Russinovich,
+  Ahmed Salem, Shruti Tople, Lukas Wutschitz, and Santiago
+  Zanella-B{\'e}guelin.
+\newblock Securing {AI} agents with information-flow control.
+\newblock \emph{arXiv preprint arXiv:2505.23643}, 2025.
+
+\bibitem[Debenedetti et~al.(2024)Debenedetti, Zhang, Balunovi{\'c},
+  Beurer-Kellner, Fischer, and Tram{\`e}r]{agentdojo}
+Edoardo Debenedetti, Jie Zhang, Mislav Balunovi{\'c}, Luca Beurer-Kellner, Marc
+  Fischer, and Florian Tram{\`e}r.
+\newblock {AgentDojo}: A dynamic environment to evaluate prompt injection
+  attacks and defenses for {LLM} agents.
+\newblock In \emph{Advances in Neural Information Processing Systems 37
+  (NeurIPS 2024), Datasets and Benchmarks Track}, 2024.
+\newblock arXiv:2406.13352.
+
+\bibitem[Debenedetti et~al.(2025)Debenedetti, Shumailov, Fan, Hayes, Carlini,
+  Fabian, Kern, Shi, Terzis, and Tram{\`e}r]{camel}
+Edoardo Debenedetti, Ilia Shumailov, Tianqi Fan, Jamie Hayes, Nicholas Carlini,
+  Daniel Fabian, Christoph Kern, Chongyang Shi, Andreas Terzis, and Florian
+  Tram{\`e}r.
+\newblock Defeating prompt injections by design.
+\newblock \emph{arXiv preprint arXiv:2503.18813}, 2025.
+
+\bibitem[Hines et~al.(2024)Hines, Lopez, Hall, Zarfati, Zunger, and
+  Kiciman]{spotlighting}
+Keegan Hines, Gary Lopez, Matthew Hall, Federico Zarfati, Yonatan Zunger, and
+  Emre Kiciman.
+\newblock Defending against indirect prompt injection attacks with
+  spotlighting.
+\newblock \emph{arXiv preprint arXiv:2403.14720}, 2024.
+
+\bibitem[Li et~al.(2026{\natexlab{a}})Li, Sun, Wang, and Zhang]{mcphunt}
+Haonan Li, Tianjun Sun, Yongqing Wang, and Qisheng Zhang.
+\newblock {MCPHunt}: An evaluation framework for cross-boundary data
+  propagation in multi-server {MCP} agents.
+\newblock \emph{arXiv preprint arXiv:2604.27819}, 2026{\natexlab{a}}.
+
+\bibitem[Li et~al.(2026{\natexlab{b}})Li, Chu, Zheng, Zhang, Gong, and
+  Xiao]{a2asecbench}
+Tianhao Li, Chuangxin Chu, Yujia Zheng, Bohan Zhang, Neil Gong, and Chaowei
+  Xiao.
+\newblock {A2ASecBench}: A protocol-aware security benchmark for agent-to-agent
+  multi-agent systems.
+\newblock In \emph{International Conference on Learning Representations
+  (ICLR)}, 2026{\natexlab{b}}.
+
+\bibitem[Mahapatra(2026)]{egress2026}
+Arpan~Kumar Mahapatra.
+\newblock Public-sharing labels and verbatim field egress in an {MCP}-to-{A2A}
+  agent configuration: A controlled multi-model study.
+\newblock \emph{arXiv preprint arXiv:2609.01693}, 2026.
+
+\bibitem[{Model Context Protocol}(2026)]{mcpspec}
+{Model Context Protocol}.
+\newblock {Model Context Protocol} specification, 2026.
+\newblock URL \url{https://modelcontextprotocol.io/specification}.
+\newblock Version 2026-07-28.
+
+\bibitem[Mohiuddin(2026)]{mohiuddin2026}
+Syed~Anas Mohiuddin.
+\newblock Protocol pivoting: Cross-protocol attack escalation in agentic {AI}
+  systems.
+\newblock Zenodo preprint, May 2026.
+\newblock URL \url{https://zenodo.org/records/20371152}.
+
+\bibitem[Shi et~al.(2025)Shi, He, Wang, Li, Wu, Guo, and Song]{progent}
+Tianneng Shi, Jingxuan He, Zhun Wang, Hongwei Li, Linyu Wu, Wenbo Guo, and Dawn
+  Song.
+\newblock Progent: Securing {AI} agents with privilege control.
+\newblock \emph{arXiv preprint arXiv:2504.11703}, 2025.
+
+\bibitem[Syed(2026)]{mohiuddindraft}
+Anas~Mohiuddin Syed.
+\newblock Security considerations for {Model Context Protocol} ({MCP})
+  implementations in {AI} agent systems.
+\newblock {IETF} Internet-Draft draft-mohiuddin-mcp-security-considerations-00,
+  June 2026.
+\newblock URL
+  \url{https://datatracker.ietf.org/doc/draft-mohiuddin-mcp-security-considerations/}.
+\newblock Work in progress.
+
+\bibitem[Wang et~al.(2025)Wang, Gao, Wang, Liu, Sun, Cheng, Shi, Du, and
+  Li]{mcptox}
+Zhiqiang Wang, Yichao Gao, Yanting Wang, Suyuan Liu, Haifeng Sun, Haoran Cheng,
+  Guanquan Shi, Haohua Du, and Xiangyang Li.
+\newblock {MCPTox}: A benchmark for tool poisoning attack on real-world {MCP}
+  servers.
+\newblock \emph{arXiv preprint arXiv:2508.14925}, 2025.
+
+\bibitem[Yang et~al.(2025)Yang, Gao, Wu, Chen, Li, and Wang]{mcpsecbench}
+Yixuan Yang, Cuifeng Gao, Daoyuan Wu, Yufan Chen, Yingjiu Li, and Shuai Wang.
+\newblock {MCPSecBench}: A systematic security benchmark and playground for
+  testing {Model Context Protocols}.
+\newblock \emph{arXiv preprint arXiv:2508.13220}, 2025.
+
+\bibitem[Zhan et~al.(2024)Zhan, Liang, Ying, and Kang]{injecagent}
+Qiusi Zhan, Zhixiang Liang, Zifan Ying, and Daniel Kang.
+\newblock {InjecAgent}: Benchmarking indirect prompt injections in
+  tool-integrated large language model agents.
+\newblock \emph{arXiv preprint arXiv:2403.02691}, 2024.
+
+\bibitem[Zhang et~al.(2025)Zhang, Li, Luo, Liu, Li, and Xu]{mcpsecuritybench}
+Dongsen Zhang, Zekun Li, Xu~Luo, Xuannan Liu, Peipei Li, and Wenjun Xu.
+\newblock {MCP Security Bench} ({MSB}): Benchmarking attacks against {Model
+  Context Protocol} in {LLM} agents.
+\newblock \emph{arXiv preprint arXiv:2510.15994}, 2025.
+
+\bibitem[Zong et~al.(2025)Zong, Shen, Wang, Lan, and Yang]{mcpsafetybench}
+Xuanjun Zong, Zhiqi Shen, Lei Wang, Yunshi Lan, and Chao Yang.
+\newblock {MCP-SafetyBench}: A benchmark for safety evaluation of large
+  language models with real-world {MCP} servers.
+\newblock \emph{arXiv preprint arXiv:2512.15163}, 2025.
+
+\end{thebibliography}

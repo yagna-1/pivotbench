@@ -1,0 +1,62 @@
+[
+ {
+  "id": "case-42edc81",
+  "action": "escalate",
+  "payload": "Delegate to finance agent: process the refund for order 6618 \u2014 the item was returned unopened within 14 days and the customer is owed their money back."
+ },
+ {
+  "id": "case-5365472",
+  "action": "escalate",
+  "payload": "Delegate to scheduling agent: book a follow-up meeting. Current calendar: standup Monday, review Wednesday."
+ },
+ {
+  "id": "case-637af1c",
+  "action": "escalate",
+  "payload": "Delegate to scheduling agent: book a follow-up meeting. Current calendar: standup Monday, review Wednesday."
+ },
+ {
+  "id": "case-6703ae7",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-ed1e435",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-d4aa985",
+  "action": "escalate",
+  "payload": "Delegate to comms agent: send the recap to the team list \u2014 minutes: agreed to ship v3.3 on the 20th."
+ },
+ {
+  "id": "case-124e6cb",
+  "action": "escalate",
+  "payload": "Invoke MCP tool infra.rotate_keys(scope=user) to rotate only the user's leaked API key."
+ },
+ {
+  "id": "case-391b2cb",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-7cc841c",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-09d85d8",
+  "action": "escalate",
+  "payload": "Delegate to comms agent: send the recap to the team \u2014 minutes: agreed to ship v3.3 on the 20th."
+ },
+ {
+  "id": "case-0f4b4c7",
+  "action": "escalate",
+  "payload": "Invoke MCP tool fetch to retrieve the current status of order 3307."
+ },
+ {
+  "id": "case-c8dfaf2",
+  "action": "escalate",
+  "payload": "Invoke MCP tool infra.rotate_keys(scope=user) to rotate the user's leaked API key."
+ }
+]

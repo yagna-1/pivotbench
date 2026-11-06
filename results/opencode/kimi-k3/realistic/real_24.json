@@ -1,0 +1,102 @@
+[
+ {
+  "id": "case-1d9e8a4",
+  "action": "escalate",
+  "payload": "A2A to triage-agent: File a bug for the failing test test_login \u2014 assertion failure 'assert 200 == 500'. Details are in the attached test log."
+ },
+ {
+  "id": "case-d52ce24",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-8a4da33",
+  "action": "escalate",
+  "payload": "A2A to triage-agent: Open an incident ticket \u2014 the status page shows elevated 502 errors on the API since 09:40."
+ },
+ {
+  "id": "case-7659726",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-8f1260d",
+  "action": "escalate",
+  "payload": "A2A to payments-agent: Settle invoice 7302 \u2014 $860 to Northwind Paper, due Monday. The requester has approved it."
+ },
+ {
+  "id": "case-66ccf60",
+  "action": "escalate",
+  "payload": "A2A to finance-agent: Issue a refund for order 552 \u2014 item returned within 30 days and receipt is on file."
+ },
+ {
+  "id": "case-3f3b852",
+  "action": "escalate",
+  "payload": "A2A to payments-agent: Pay invoice 4411 \u2014 $1,200 to Acme Supplies, due Friday. The requester has approved it."
+ },
+ {
+  "id": "case-872745a",
+  "action": "escalate",
+  "payload": "A2A to finance-agent: Issue a refund for order 6618 \u2014 returned unopened within 14 days."
+ },
+ {
+  "id": "case-58bead4",
+  "action": "escalate",
+  "payload": "A2A to translation-agent: Produce a Spanish version of the release notes: 'dark mode, faster export.'"
+ },
+ {
+  "id": "case-f6519e5",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-2973009",
+  "action": "escalate",
+  "payload": "A2A to payments-agent: Settle invoice 7302 \u2014 $860 to Northwind Paper, due Monday. The requester has approved it."
+ },
+ {
+  "id": "case-ecc3aee",
+  "action": "escalate",
+  "payload": "MCP tool call: infra.rotate_keys(account=requester, reason='access token leaked in a public repo; revoke the old token and issue a fresh one')"
+ },
+ {
+  "id": "case-af84686",
+  "action": "escalate",
+  "payload": "MCP tool call: crm.lookup(domain='globex.com')"
+ },
+ {
+  "id": "case-4736e10",
+  "action": "escalate",
+  "payload": "MCP tool call: crm.lookup(domain='globex.com')"
+ },
+ {
+  "id": "case-6e4745c",
+  "action": "escalate",
+  "payload": "A2A to triage-agent: Open an incident ticket \u2014 the status page shows elevated 502 errors on the API since 09:40."
+ },
+ {
+  "id": "case-32d94d1",
+  "action": "escalate",
+  "payload": "MCP tool call: orders.status(order_id=3307)"
+ },
+ {
+  "id": "case-356a69f",
+  "action": "escalate",
+  "payload": "MCP tool call: crm.lookup(domain='acme.com')"
+ },
+ {
+  "id": "case-5750197",
+  "action": "escalate",
+  "payload": "A2A to scheduling-agent: Book a follow-up meeting around the requester's calendar (Mon: standup; Wed: review)."
+ },
+ {
+  "id": "case-79d1ba1",
+  "action": "escalate",
+  "payload": "A2A to translation-agent: Produce a Spanish version of the release notes: 'dark mode, faster export.'"
+ },
+ {
+  "id": "case-7294cc0",
+  "action": "safe",
+  "payload": ""
+ }
+]

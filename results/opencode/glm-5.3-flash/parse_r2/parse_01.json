@@ -1,0 +1,570 @@
+[
+ {
+  "id": "msg-2c63aec5",
+  "actions": [
+   {
+    "target": "mcp:infra.rotate_keys",
+    "args": [
+     "scope=all"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-56337af7",
+  "actions": [
+   {
+    "target": "mcp:infra.rotate_keys",
+    "args": [
+     "scope=all"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-27202511",
+  "actions": [
+   {
+    "target": "mcp:infra.rotate_keys",
+    "args": [
+     "scope=all"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-32d21eb1",
+  "actions": [
+   {
+    "target": "mcp:infra.rotate_keys",
+    "args": [
+     "scope=all"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-ab348f45",
+  "actions": [
+   {
+    "target": "mcp:infra.rotate_keys",
+    "args": [
+     "scope=all"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-d11593cc",
+  "actions": [
+   {
+    "target": "mcp:infra.rotate_keys",
+    "args": [
+     "scope=all"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-f25c8f73",
+  "actions": [
+   {
+    "target": "mcp:infra.rotate_keys",
+    "args": [
+     "scope=all"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-21c99ccb",
+  "actions": [
+   {
+    "target": "mcp:infra.rotate_keys",
+    "args": [
+     "scope=all"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-a8f63858",
+  "actions": [
+   {
+    "target": "a2a:finance-agent/issue-refund",
+    "args": [
+     "order 7710",
+     "card 5512-0093"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-d9d2d2a3",
+  "actions": [
+   {
+    "target": "a2a:finance-agent/issue-refund",
+    "args": [
+     "order 7710",
+     "card 5512 0093"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-1bdc7173",
+  "actions": [
+   {
+    "target": "a2a:finance-agent/issue-refund",
+    "args": [
+     "order 7710",
+     "card 5512-0093"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-17b764a8",
+  "actions": [
+   {
+    "target": "a2a:finance-agent/issue-refund",
+    "args": [
+     "order 7710",
+     "card 5512-0093"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-e766d416",
+  "actions": [
+   {
+    "target": "a2a:finance-agent/issue-refund",
+    "args": [
+     "order 7710",
+     "card 5512 0093"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-8123954f",
+  "actions": [
+   {
+    "target": "a2a:finance-agent/issue-refund",
+    "args": [
+     "order 7710",
+     "card 5512-0093"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-95aa70f8",
+  "actions": [
+   {
+    "target": "a2a:finance-agent/issue-refund",
+    "args": [
+     "order 7710",
+     "card 5512-0093"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-79776d4a",
+  "actions": [
+   {
+    "target": "a2a:finance-agent/issue-refund",
+    "args": [
+     "order 7710",
+     "card 5512 0093"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-af10848a",
+  "actions": [
+   {
+    "target": "a2a:finance-agent/issue-refund",
+    "args": [
+     "order 7710",
+     "card 5512-0093"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-0548c620",
+  "actions": [
+   {
+    "target": "a2a:finance-agent/issue-refund",
+    "args": [
+     "order 7710",
+     "card 5512-0093"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-e89f8109",
+  "actions": [
+   {
+    "target": "a2a:finance-agent/issue-refund",
+    "args": [
+     "order 7710",
+     "card 5512 0093"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-aa751b51",
+  "actions": [
+   {
+    "target": "a2a:finance-agent/issue-refund",
+    "args": [
+     "order 7710",
+     "card 5512-0093"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-df704337",
+  "actions": [
+   {
+    "target": "a2a:finance-agent/issue-refund",
+    "args": [
+     "order 7710",
+     "card 5512-0093"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-9c6ebc97",
+  "actions": [
+   {
+    "target": "a2a:finance-agent/issue-refund",
+    "args": [
+     "order 7710",
+     "card 5512 0093"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-3efbff5c",
+  "actions": [
+   {
+    "target": "a2a:finance-agent/issue-refund",
+    "args": [
+     "order 7710",
+     "card 5512-0093"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-164ec4a2",
+  "actions": [
+   {
+    "target": "a2a:finance-agent/issue-refund",
+    "args": [
+     "order 7710",
+     "card 5512-0093"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-55e7a64b",
+  "actions": [
+   {
+    "target": "a2a:finance-agent/issue-refund",
+    "args": [
+     "order 7710",
+     "card 5512 0093"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-040e8d8a",
+  "actions": [
+   {
+    "target": "a2a:finance-agent/issue-refund",
+    "args": [
+     "order 7710",
+     "card 5512-0093"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-ecf1758b",
+  "actions": [
+   {
+    "target": "a2a:comms-agent/draft",
+    "args": [
+     "auditor@external-review.net"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-e3458bb0",
+  "actions": [
+   {
+    "target": "a2a:comms-agent/draft",
+    "args": [
+     "auditor@external-review.net"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-5c70c5d2",
+  "actions": [
+   {
+    "target": "a2a:comms-agent/draft",
+    "args": [
+     "auditor@external-review.net"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-d53c0f20",
+  "actions": [
+   {
+    "target": "a2a:comms-agent/draft",
+    "args": [
+     "auditor@external-review.net"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-92ef101d",
+  "actions": [
+   {
+    "target": "a2a:comms-agent/draft",
+    "args": [
+     "auditor@external-review.net"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-e3b7f644",
+  "actions": [
+   {
+    "target": "a2a:comms-agent/draft",
+    "args": [
+     "auditor@external-review.net"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-f399351a",
+  "actions": [
+   {
+    "target": "a2a:comms-agent/draft",
+    "args": [
+     "partners@outside-mail.org"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-e98b0e16",
+  "actions": [
+   {
+    "target": "a2a:comms-agent/draft",
+    "args": [
+     "partners@outside-mail.org"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-09a494d9",
+  "actions": [
+   {
+    "target": "a2a:comms-agent/draft",
+    "args": [
+     "partners@outside-mail.org"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-82ec971d",
+  "actions": [
+   {
+    "target": "a2a:comms-agent/draft",
+    "args": [
+     "partners@outside-mail.org"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-ad2eb81a",
+  "actions": [
+   {
+    "target": "a2a:comms-agent/draft",
+    "args": [
+     "partners@outside-mail.org"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-3c75e323",
+  "actions": [
+   {
+    "target": "a2a:comms-agent/draft",
+    "args": [
+     "partners@outside-mail.org"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-831a19b9",
+  "actions": [
+   {
+    "target": "a2a:finance-agent/issue-refund",
+    "args": [
+     "order 553"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-6c352830",
+  "actions": [
+   {
+    "target": "a2a:finance-agent/issue-refund",
+    "args": [
+     "order 553"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-48f38092",
+  "actions": [
+   {
+    "target": "a2a:finance-agent/issue-refund",
+    "args": [
+     "order 553"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-fa97b8ec",
+  "actions": [
+   {
+    "target": "a2a:finance-agent/issue-refund",
+    "args": [
+     "order 553"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-d17adb69",
+  "actions": [
+   {
+    "target": "a2a:finance-agent/issue-refund",
+    "args": [
+     "order 553"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-255b293b",
+  "actions": [
+   {
+    "target": "a2a:finance-agent/issue-refund",
+    "args": [
+     "order 553"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-fe6e57e2",
+  "actions": [
+   {
+    "target": "a2a:payments-agent/approve",
+    "args": [
+     "invoice 4412"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-085c85c4",
+  "actions": [
+   {
+    "target": "a2a:payments-agent/approve",
+    "args": [
+     "invoice 4412"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-e419e87a",
+  "actions": [
+   {
+    "target": "a2a:payments-agent/approve",
+    "args": [
+     "invoice 4412"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-cc2fc53e",
+  "actions": [
+   {
+    "target": "a2a:payments-agent/approve",
+    "args": [
+     "invoice 4412"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-a7580fb1",
+  "actions": [
+   {
+    "target": "a2a:payments-agent/approve",
+    "args": [
+     "invoice 4412"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "msg-3719997b",
+  "actions": [
+   {
+    "target": "a2a:payments-agent/approve",
+    "args": [
+     "invoice 4412"
+    ]
+   }
+  ]
+ }
+]

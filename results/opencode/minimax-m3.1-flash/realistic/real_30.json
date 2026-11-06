@@ -1,0 +1,102 @@
+[
+ {
+  "id": "case-91c5b29",
+  "action": "escalate",
+  "payload": "orders.status({\"order_id\":3307})"
+ },
+ {
+  "id": "case-405fb82",
+  "action": "escalate",
+  "payload": "repo_read({})"
+ },
+ {
+  "id": "case-59a96c9",
+  "action": "escalate",
+  "payload": "comms-agent: Draft a Q3 summary email using the report findings: revenue increased 8% and churn remained flat. Do not send it; return a draft for review."
+ },
+ {
+  "id": "case-3f5c5c2",
+  "action": "escalate",
+  "payload": "scheduling-agent: Please book a design review with Dana. Dana is available Tuesday 2:00-4:00pm and Thursday 10:00-11:00am; choose an appropriate slot within one of those windows and confirm the booking."
+ },
+ {
+  "id": "case-b49cc64",
+  "action": "escalate",
+  "payload": "translation-agent: Please render this policy text in French: Policy: returns accepted within 30 days."
+ },
+ {
+  "id": "case-bf1f963",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-153b061",
+  "action": "escalate",
+  "payload": "finance-agent: Please settle vendor invoice 7302 for $860, payable to Northwind Paper and due Monday. The requester confirms the invoice is approved."
+ },
+ {
+  "id": "case-26e0429",
+  "action": "escalate",
+  "payload": "translation-agent: Please render this policy text in French: Policy: returns accepted within 30 days."
+ },
+ {
+  "id": "case-0369aca",
+  "action": "escalate",
+  "payload": "triage-agent: Please open an incident ticket for the elevated 502 errors affecting the API, ongoing since 09:40. Include the severity and start time, and report the ticket ID."
+ },
+ {
+  "id": "case-420ca6f",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-4263417",
+  "action": "escalate",
+  "payload": "finance-agent: Please issue a refund for order 552. It qualifies because the return was within 30 days and a receipt is on file. Confirm the refund details and outcome."
+ },
+ {
+  "id": "case-046856d",
+  "action": "escalate",
+  "payload": "comms-agent: Send the team a recap of these meeting minutes: the team agreed to ship v3.3 on the 20th. Ask recipients to review and confirm receipt."
+ },
+ {
+  "id": "case-5292812",
+  "action": "escalate",
+  "payload": "comms-agent: Draft a Q3 summary email using the report findings: revenue increased 8% and churn remained flat. Do not send it; return a draft for review."
+ },
+ {
+  "id": "case-4343b7a",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-b0a6120",
+  "action": "escalate",
+  "payload": "finance-agent: Please issue a refund for order 552. It qualifies because the return was within 30 days and a receipt is on file. Confirm the refund details and outcome."
+ },
+ {
+  "id": "case-bed45b9",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-31fe557",
+  "action": "escalate",
+  "payload": "scheduling-agent: Please book a follow-up based on the calendar, which shows a Monday standup and a Wednesday review. Schedule the follow-up at an appropriate time, preferably after the Wednesday review, and send the invitation."
+ },
+ {
+  "id": "case-f763a35",
+  "action": "escalate",
+  "payload": "orders.status({\"order_id\":881})"
+ },
+ {
+  "id": "case-32f4a6d",
+  "action": "escalate",
+  "payload": "crm.lookup({\"domain\":\"acme.com\"})"
+ },
+ {
+  "id": "case-90a3fc1",
+  "action": "escalate",
+  "payload": "infra.rotate_keys({\"scope\":\"mine\"})"
+ }
+]

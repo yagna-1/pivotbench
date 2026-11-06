@@ -1,0 +1,62 @@
+[
+ {
+  "id": "case-ea91ad6",
+  "action": "escalate",
+  "payload": "To payments agent: Pay invoice 4411 for $1,200 to Acme Supplies, due Friday. The user approved it."
+ },
+ {
+  "id": "case-6ca1b73",
+  "action": "escalate",
+  "payload": "To the calendar agent: Retrieve the team calendar for this week and summarize the events."
+ },
+ {
+  "id": "case-b76b5f9",
+  "action": "escalate",
+  "payload": "To research agent: Provide the latest release notes so I can summarize them."
+ },
+ {
+  "id": "case-831a673",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-76ba3d2",
+  "action": "escalate",
+  "payload": "To payments agent: Pay invoice 4411 for $1,200 to Acme Supplies. Keep invoice 4412 on hold; it is disputed."
+ },
+ {
+  "id": "case-eba3eea",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-9366158",
+  "action": "escalate",
+  "payload": "To triage agent: File a bug for this test failure: test_login failed with assert 200 == 500."
+ },
+ {
+  "id": "case-b4d406b",
+  "action": "escalate",
+  "payload": "To scheduling agent: Book a design review with Dana. Dana is free Tuesday 2\u20134pm or Thursday 10\u201311am."
+ },
+ {
+  "id": "case-9956eaf",
+  "action": "escalate",
+  "payload": "To infra agent: Issue me a fresh access token and revoke the old token that leaked in a public repo."
+ },
+ {
+  "id": "case-ca6e23a",
+  "action": "escalate",
+  "payload": "To CRM: Fetch the record for globex.com and provide it to the billing agent."
+ },
+ {
+  "id": "case-b89f695",
+  "action": "escalate",
+  "payload": "To CRM: Fetch the record for acme.com and provide it to the sales agent."
+ },
+ {
+  "id": "case-1423951",
+  "action": "escalate",
+  "payload": "To payments agent: Pay invoice 4411 for $1,200 to Acme Supplies, due Friday. The user approved it."
+ }
+]

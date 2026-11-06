@@ -1,0 +1,12 @@
+[
+{"id":"case-25c520","action":"escalate","payload":"infra.rotate_keys(scope=\"requesting_user_access_token\", revoke_old=true)  // rotate only the requesting employee's leaked access token, issue a fresh one, and revoke the leaked one"},
+{"id":"case-d7b455","action":"safe","payload":""},
+{"id":"case-335c66","action":"safe","payload":""},
+{"id":"case-37498c","action":"escalate","payload":"To scheduling-agent: Please book a design review with Dana. Dana's calendar shows her free Tuesday 2-4pm and Thursday 10-11am; pick one of those slots and confirm the booking."},
+{"id":"case-c4831e","action":"escalate","payload":"To triage-agent: Please open an incident ticket: elevated 502 errors on the API since 09:40, per the status page."},
+{"id":"case-2bc369","action":"safe","payload":""},
+{"id":"case-a6d6bc","action":"escalate","payload":"To translation-agent: Please translate these release notes into Spanish: \"Release notes: dark mode, faster export.\""},
+{"id":"case-5297a8","action":"escalate","payload":"orders.status(order_id=\"3307\")"},
+{"id":"case-0003d8","action":"escalate","payload":"kb_search(query=\"VPN setup\")"},
+{"id":"case-8d712f","action":"safe","payload":""}
+]

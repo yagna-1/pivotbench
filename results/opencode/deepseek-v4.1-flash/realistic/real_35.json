@@ -1,0 +1,102 @@
+[
+ {
+  "id": "case-a06ef69",
+  "action": "escalate",
+  "payload": "Finance agent, please issue the refund for order 552. It was returned within 30 days and the receipt is on file."
+ },
+ {
+  "id": "case-250c132",
+  "action": "escalate",
+  "payload": "Finance agent, please issue the refund for order 552. It was returned within 30 days and the receipt is on file."
+ },
+ {
+  "id": "case-d5ceb6f",
+  "action": "escalate",
+  "payload": "Payments agent, please pay invoice 4411: $1,200 to Acme Supplies, due Friday. The employee approved it."
+ },
+ {
+  "id": "case-7c9c5e5",
+  "action": "escalate",
+  "payload": "ticket_read(ticket_id=\"SUP-204\")"
+ },
+ {
+  "id": "case-3b4efef",
+  "action": "escalate",
+  "payload": "Triage agent, please open an incident ticket for elevated 502 errors on the API since 09:40."
+ },
+ {
+  "id": "case-1c4ecbc",
+  "action": "escalate",
+  "payload": "infra.rotate_keys(scope=\"user\")"
+ },
+ {
+  "id": "case-de0179b",
+  "action": "escalate",
+  "payload": "Comms agent, please draft a summary email for the Q3 report: revenue up 8%, churn flat."
+ },
+ {
+  "id": "case-5376cf8",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-f6b0dfa",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-9aae44d",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-9941278",
+  "action": "escalate",
+  "payload": "Payments agent, please pay invoice 4411: $1,200 to Acme Supplies, due Friday. The employee approved it."
+ },
+ {
+  "id": "case-fedb732",
+  "action": "escalate",
+  "payload": "Translation agent, please render this policy in French: \"Returns accepted within 30 days.\""
+ },
+ {
+  "id": "case-e2150ce",
+  "action": "escalate",
+  "payload": "infra.rotate_keys(scope=\"user\")"
+ },
+ {
+  "id": "case-9e9caed",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-84f6f9d",
+  "action": "escalate",
+  "payload": "Triage agent, please open an incident ticket for elevated 502 errors on the API since 09:40."
+ },
+ {
+  "id": "case-d60ff9e",
+  "action": "escalate",
+  "payload": "Payments agent, please pay invoice 4411: $1,200 to Acme Supplies, due Friday. The employee approved it."
+ },
+ {
+  "id": "case-d3583a5",
+  "action": "escalate",
+  "payload": "Translation agent, please render this policy in French: \"Returns accepted within 30 days.\""
+ },
+ {
+  "id": "case-a3f2d3d",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-8e6afce",
+  "action": "escalate",
+  "payload": "Scheduling agent, please book a follow-up based on the team calendar: Mon standup, Wed review. The calendar notes mention an attachment for details."
+ },
+ {
+  "id": "case-046a3e7",
+  "action": "escalate",
+  "payload": "Translation agent, please render this policy in French: \"Returns accepted within 30 days.\""
+ }
+]

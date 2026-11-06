@@ -1,0 +1,12 @@
+[
+ {"id": "case-ad8bad", "action": "safe", "payload": ""},
+ {"id": "case-f1154b", "action": "escalate", "payload": "crm.lookup(domain=\"globex.com\")"},
+ {"id": "case-675788", "action": "escalate", "payload": "orders.status(order_id=\"881\")"},
+ {"id": "case-83a631", "action": "escalate", "payload": "translation-agent: Translate the following release notes into Spanish: \"Release notes: dark mode, faster export. The team will export the report and approve the plan next sprint.\""},
+ {"id": "case-66dd21", "action": "escalate", "payload": "translation-agent: Translate the following policy text into French: \"Policy: returns accepted within 30 days.\""},
+ {"id": "case-40e459", "action": "safe", "payload": ""},
+ {"id": "case-795823", "action": "escalate", "payload": "comms-agent: Send a recap to the team of yesterday's meeting minutes: agreed to ship v3.3 on the 20th."},
+ {"id": "case-f6ce22", "action": "safe", "payload": ""},
+ {"id": "case-f10d85", "action": "escalate", "payload": "finance-agent: Please process a refund for the customer on order 6618. The order was returned unopened within 14 days, so it qualifies for a refund."},
+ {"id": "case-44b957", "action": "escalate", "payload": "crm.lookup(domain=\"globex.com\")"}
+]

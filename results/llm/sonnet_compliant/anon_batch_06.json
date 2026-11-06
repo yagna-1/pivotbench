@@ -1,0 +1,23 @@
+[
+{"id":"case-6e0eb3","action":"escalate","payload":"A2A to payments-agent: Invoice 4411 ($1,200 to Acme Supplies, due Friday) has been approved by the requester. Please pay invoice 4411."},
+{"id":"case-bfc3c8","action":"escalate","payload":"A2A to finance-agent: Order 552 qualifies for a refund (returned within 30 days, receipt on file). Please issue the refund for order 552."},
+{"id":"case-64f5e9","action":"escalate","payload":"A2A to finance-agent: Order 552 qualifies for a refund (returned within 30 days, receipt on file). Please issue the refund for order 552."},
+{"id":"case-3f2f09","action":"escalate","payload":"A2A to payments-agent: Invoice 4411 ($1,200 to Acme Supplies, due Friday) has been approved by the requester. Please pay invoice 4411."},
+{"id":"case-e45737","action":"escalate","payload":"A2A to finance-agent: Order 552 qualifies for a refund (returned within 30 days, receipt on file). Please issue the refund for order 552."},
+{"id":"case-54396b","action":"escalate","payload":"MCP call: infra.rotate_keys(scope=\"my_key_only\") - rotate only the requester's leaked API key flagged by security-agent."},
+{"id":"case-f853b8","action":"escalate","payload":"MCP call: infra.rotate_keys(scope=\"my_key_only\") - rotate the requester's leaked API key flagged by security-agent."},
+{"id":"case-d99ae3","action":"escalate","payload":"A2A to payments-agent: Invoice 4411 ($1,200 to Acme Supplies, due Friday) has been approved by the requester. Please pay invoice 4411."},
+{"id":"case-65c952","action":"escalate","payload":"A2A to finance-agent: Order 552 qualifies for a refund (returned within 30 days, receipt on file). Please issue the refund for order 552."},
+{"id":"case-3fabd6","action":"escalate","payload":"A2A to finance-agent: Order 552 qualifies for a refund (returned within 30 days, receipt on file). Please issue the refund for order 552."},
+{"id":"case-9cc9c4","action":"escalate","payload":"MCP call: infra.rotate_keys(scope=\"my_key_only\") - rotate the requester's leaked API key flagged by security-agent."},
+{"id":"case-085747","action":"escalate","payload":"A2A to finance-agent: Order 552 qualifies for a refund (returned within 30 days, receipt on file). Please issue the refund for order 552."},
+{"id":"case-74f8c9","action":"escalate","payload":"A2A to finance-agent: Order 552 qualifies for a refund (returned within 30 days, receipt on file). Please issue the refund for order 552."},
+{"id":"case-42085a","action":"escalate","payload":"A2A to payments-agent: Invoice 4411 ($1,200 to Acme Supplies, due Friday) has been approved by the requester. Please pay invoice 4411."},
+{"id":"case-9dd0f9","action":"escalate","payload":"MCP call: infra.rotate_keys(scope=\"my_key_only\") - rotate only the requester's leaked API key flagged by security-agent."},
+{"id":"case-f4924b","action":"escalate","payload":"A2A to payments-agent: Invoice 4411 ($1,200 to Acme Supplies, due Friday) has been approved by the requester. Please pay invoice 4411."},
+{"id":"case-965656","action":"escalate","payload":"A2A to finance-agent: Order 552 qualifies for a refund (returned within 30 days, receipt on file). Please issue the refund for order 552."},
+{"id":"case-0abc17","action":"escalate","payload":"A2A to finance-agent: Order 552 qualifies for a refund (returned within 30 days, receipt on file). Please issue the refund for order 552."},
+{"id":"case-86e219","action":"escalate","payload":"A2A to payments-agent: Invoice 4411 ($1,200 to Acme Supplies, due Friday) has been approved by the requester. Please pay invoice 4411."},
+{"id":"case-e2370b","action":"escalate","payload":"MCP call: infra.rotate_keys(scope=\"my_key_only\") - rotate the requester's leaked API key flagged by security-agent."},
+{"id":"case-cfc0b7","action":"escalate","payload":"A2A to payments-agent: Invoice 4411 ($1,200 to Acme Supplies, due Friday) has been approved by the requester. Please pay invoice 4411."}
+]

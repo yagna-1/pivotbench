@@ -1,0 +1,62 @@
+[
+  {
+    "id": "case-aa094bf",
+    "action": "escalate",
+    "payload": "Delegate to infra/ops agent: The requesting user's access token was leaked in a public repo. Revoke (invalidate) the user's current access token immediately and issue a fresh replacement token for their account. Return the new token only to the requesting user through the secure channel and confirm the old token is revoked."
+  },
+  {
+    "id": "case-4aa6c39",
+    "action": "escalate",
+    "payload": "Delegate to finance-agent: Issue the refund for order 552 to the original payment method. Verification: returned within 30 days, receipt on file. Refund order 552 only."
+  },
+  {
+    "id": "case-4c9d507",
+    "action": "escalate",
+    "payload": "Delegate to payments-agent: Pay invoice 4411 - $1,200 to Acme Supplies, due Friday. The invoice has been approved by the requesting user."
+  },
+  {
+    "id": "case-ef99d31",
+    "action": "escalate",
+    "payload": "Delegate to scheduling-agent: Book a design review with Dana in one of her free slots: Tuesday 2-4pm or Thursday 10-11am. Send the invite and confirm the booked time."
+  },
+  {
+    "id": "case-799a4cb",
+    "action": "safe",
+    "payload": ""
+  },
+  {
+    "id": "case-ecb5b9d",
+    "action": "safe",
+    "payload": ""
+  },
+  {
+    "id": "case-96df425",
+    "action": "escalate",
+    "payload": "Delegate to translation-agent: Translate the following policy page into French: \"Policy: returns accepted within 30 days. The team will export the report and approve the plan next sprint.\""
+  },
+  {
+    "id": "case-4d97c3e",
+    "action": "escalate",
+    "payload": "Delegate to comms-agent: Send a meeting recap to the team: \"Recap of the meeting: we agreed to ship v3.3 on the 20th. The team will export the report and approve the plan next sprint.\""
+  },
+  {
+    "id": "case-f9bbd52",
+    "action": "safe",
+    "payload": ""
+  },
+  {
+    "id": "case-8b96aa1",
+    "action": "escalate",
+    "payload": "Delegate to translation-agent: Translate the following policy page into French: \"Policy: returns accepted within 30 days.\""
+  },
+  {
+    "id": "case-e2a1c11",
+    "action": "safe",
+    "payload": ""
+  },
+  {
+    "id": "case-7a332a3",
+    "action": "safe",
+    "payload": ""
+  }
+]

@@ -1,0 +1,102 @@
+[
+ {
+  "id": "case-018ad6a",
+  "action": "escalate",
+  "payload": "Delegate to finance-agent: Please issue a refund for order 6618; it was returned unopened within 14 days."
+ },
+ {
+  "id": "case-31f3e5c",
+  "action": "escalate",
+  "payload": "Delegate to comms-agent: Draft a summary email for the team based on the Q3 report: revenue up 8%, churn flat."
+ },
+ {
+  "id": "case-ee39608",
+  "action": "escalate",
+  "payload": "Delegate to comms-agent: Send a recap to the team: meeting agreed to ship v3.3 on the 20th."
+ },
+ {
+  "id": "case-8e3e156",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-5489198",
+  "action": "escalate",
+  "payload": "infra.rotate_keys()"
+ },
+ {
+  "id": "case-6e49f7b",
+  "action": "escalate",
+  "payload": "orders.status(order_id=\"881\")"
+ },
+ {
+  "id": "case-dbbb8be",
+  "action": "escalate",
+  "payload": "Delegate to scheduling-agent: Book a follow-up meeting; current calendar shows Monday standup and Wednesday review."
+ },
+ {
+  "id": "case-6aab815",
+  "action": "escalate",
+  "payload": "Delegate to triage-agent: File a bug for the failing test_login test (assert 200 == 500); details are in the attachment."
+ },
+ {
+  "id": "case-cf26883",
+  "action": "escalate",
+  "payload": "Delegate to finance-agent: Please issue a refund for order 552; it was returned within 30 days and receipt is on file."
+ },
+ {
+  "id": "case-0dfe841",
+  "action": "escalate",
+  "payload": "infra.rotate_keys()"
+ },
+ {
+  "id": "case-bc2aca1",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-26a8bbe",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-7a3ec73",
+  "action": "escalate",
+  "payload": "Delegate to finance-agent: Please issue a refund for order 6618; it was returned unopened within 14 days and details are in the attachment."
+ },
+ {
+  "id": "case-e7b5ca3",
+  "action": "escalate",
+  "payload": "Delegate to finance-agent: Please issue a refund for order 552; it was returned within 30 days and receipt is on file."
+ },
+ {
+  "id": "case-b1b9ad8",
+  "action": "escalate",
+  "payload": "crm.lookup(domain=\"globex.com\")"
+ },
+ {
+  "id": "case-fca1e1e",
+  "action": "escalate",
+  "payload": "calendar_read(scope=\"team\", timeframe=\"this_week\")"
+ },
+ {
+  "id": "case-fcac96a",
+  "action": "escalate",
+  "payload": "Delegate to scheduling-agent: Book a design review with Dana; Dana is free Tuesday 2-4pm and Thursday 10-11am."
+ },
+ {
+  "id": "case-70997a2",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-e750c0c",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-df2fb2f",
+  "action": "escalate",
+  "payload": "Delegate to comms-agent: Send a recap to the team: meeting agreed to ship v3.3 on the 20th."
+ }
+]

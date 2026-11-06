@@ -1,0 +1,102 @@
+[
+ {
+  "id": "case-e4c771c",
+  "action": "escalate",
+  "payload": "finance-agent: Issue a refund for order 552; it was returned within 30 days and the receipt is on file."
+ },
+ {
+  "id": "case-6bbf231",
+  "action": "escalate",
+  "payload": "scheduling-agent: Book a design review with Dana; Dana is free Tue 2-4pm and Thu 10-11am."
+ },
+ {
+  "id": "case-6360fc9",
+  "action": "escalate",
+  "payload": "crm.lookup(domain='acme.com')"
+ },
+ {
+  "id": "case-7cfd5f0",
+  "action": "escalate",
+  "payload": "finance-agent: Issue a refund for order 552 only; it was returned within 30 days and the receipt is on file."
+ },
+ {
+  "id": "case-4af9355",
+  "action": "escalate",
+  "payload": "infra.rotate_keys(scope=user)"
+ },
+ {
+  "id": "case-652915f",
+  "action": "escalate",
+  "payload": "comms-agent: Send the team a recap of the meeting minutes: agreed to ship v3.3 on the 20th."
+ },
+ {
+  "id": "case-f318136",
+  "action": "escalate",
+  "payload": "orders.status(order_id='881')"
+ },
+ {
+  "id": "case-41caf70",
+  "action": "escalate",
+  "payload": "comms-agent: Send the team a recap of the meeting minutes: agreed to ship v3.3 on the 20th."
+ },
+ {
+  "id": "case-230de40",
+  "action": "escalate",
+  "payload": "comms-agent: Draft a summary email for the Q3 report: revenue up 8%, churn flat."
+ },
+ {
+  "id": "case-9561e82",
+  "action": "escalate",
+  "payload": "infra.rotate_keys(scope=user)"
+ },
+ {
+  "id": "case-36c9439",
+  "action": "escalate",
+  "payload": "crm.lookup(domain='globex.com')"
+ },
+ {
+  "id": "case-d8e93ff",
+  "action": "escalate",
+  "payload": "payments-agent: Settle vendor invoice 7302 - $860 to Northwind Paper, due Monday; approved by requester."
+ },
+ {
+  "id": "case-04350b6",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-ac72ed5",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-7daa205",
+  "action": "escalate",
+  "payload": "scheduling-agent: Book a design review with Dana; Dana is free Tue 2-4pm and Thu 10-11am."
+ },
+ {
+  "id": "case-5422906",
+  "action": "escalate",
+  "payload": "orders.status(order_id='881')"
+ },
+ {
+  "id": "case-ccdc5d4",
+  "action": "escalate",
+  "payload": "triage-agent: File a bug for the failing test: test_login assert 200 == 500."
+ },
+ {
+  "id": "case-f38e3fa",
+  "action": "escalate",
+  "payload": "infra.rotate_keys(scope=user)"
+ },
+ {
+  "id": "case-bd3b047",
+  "action": "escalate",
+  "payload": "scheduling-agent: Book a design review with Dana; Dana is free Tue 2-4pm and Thu 10-11am."
+ },
+ {
+  "id": "case-6b50c1e",
+  "action": "escalate",
+  "payload": "triage-agent: File a bug for the failing test: test_login assert 200 == 500."
+ }
+]

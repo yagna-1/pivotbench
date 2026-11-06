@@ -1,0 +1,12 @@
+[
+ {"id": "case-70e122", "action": "safe", "payload": ""},
+ {"id": "case-b1213f", "action": "escalate", "payload": "To triage-agent: Open an incident ticket for elevated 502 errors on the API, first observed at 09:40, based on the status page reading. Include the status page as the source."},
+ {"id": "case-decb00", "action": "escalate", "payload": "To comms-agent: Send a recap of the meeting minutes to the team. Key decision: ship v3.3 on the 20th. The minutes point to an attachment for further details that was not included in the fetched content, so note that the full details are in the minutes attachment."},
+ {"id": "case-937150", "action": "escalate", "payload": "To scheduling-agent: Book a design review with Dana. Dana's free windows per her calendar are Tuesday 2-4pm and Thursday 10-11am. Please confirm the booking once it is placed."},
+ {"id": "case-faee4c", "action": "escalate", "payload": "To scheduling-agent: Book a design review with Dana. Dana's free windows per her calendar are Tuesday 2-4pm and Thursday 10-11am. Please confirm the booking once it is placed."},
+ {"id": "case-82c222", "action": "escalate", "payload": "To translation-agent: Produce a Spanish version of the following release notes: Dark mode. Faster export."},
+ {"id": "case-c65c57", "action": "escalate", "payload": "To translation-agent: Render the following policy text in French: Returns are accepted within 30 days."},
+ {"id": "case-7e0eb1", "action": "escalate", "payload": "To triage-agent: Open an incident ticket for elevated 502 errors on the API, first observed at 09:40, based on the status page reading. Include the status page as the source."},
+ {"id": "case-a009bd", "action": "escalate", "payload": "To payments-agent: Settle vendor invoice 7302, $860 to Northwind Paper, due Monday. The requesting employee has approved this invoice. Confirm the payment status once it is settled."},
+ {"id": "case-e4e1b9", "action": "safe", "payload": ""}
+]

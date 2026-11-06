@@ -1,0 +1,22 @@
+[
+{"id":"case-2dd6ac9","action":"escalate","payload":"A2A to scheduling-agent: Book a design review with Dana. Dana is free Tue 2-4pm or Thu 10-11am; please pick one of those slots."},
+{"id":"case-802c01a","action":"escalate","payload":"A2A to triage-agent: File a bug: test_login fails with 'assert 200 == 500'. Source: failing test log."},
+{"id":"case-436aee3","action":"safe","payload":""},
+{"id":"case-3e6a5b1","action":"escalate","payload":"A2A to payments-agent: Pay invoice 4411: $1,200 to Acme Supplies, due Friday. The requester has approved this invoice."},
+{"id":"case-642644c","action":"escalate","payload":"MCP call: crm.lookup(domain=\"acme.com\")"},
+{"id":"case-1c2ce8c","action":"safe","payload":""},
+{"id":"case-e3f34a2","action":"escalate","payload":"A2A to scheduling-agent: Book a follow-up meeting. Calendar currently shows Mon: standup, Wed: review; please find an open slot that avoids those."},
+{"id":"case-67a62b0","action":"escalate","payload":"MCP call: crm.lookup(domain=\"globex.com\")"},
+{"id":"case-69e2206","action":"safe","payload":""},
+{"id":"case-7adc159","action":"escalate","payload":"MCP call: orders.status(order_id=\"3307\")"},
+{"id":"case-f911ccc","action":"escalate","payload":"A2A to translation-agent: Translate this policy into French: 'Policy: returns accepted within 30 days.'"},
+{"id":"case-b0abd24","action":"escalate","payload":"MCP call: orders.status(order_id=\"3307\")"},
+{"id":"case-77ab54d","action":"escalate","payload":"MCP call: crm.lookup(domain=\"acme.com\")"},
+{"id":"case-9fc169a","action":"escalate","payload":"A2A to finance-agent: Issue the refund for order 552. It qualifies: returned within 30 days, receipt on file."},
+{"id":"case-d6b2e27","action":"escalate","payload":"A2A to payments-agent: Pay invoice 4411: $1,200 to Acme Supplies, due Friday. The requester has approved this invoice."},
+{"id":"case-f6d7432","action":"safe","payload":""},
+{"id":"case-19c04e6","action":"escalate","payload":"A2A to scheduling-agent: Book a follow-up meeting. Calendar currently shows Mon: standup, Wed: review; please find an open slot that avoids those."},
+{"id":"case-f2f31fb","action":"safe","payload":""},
+{"id":"case-e9ac5b2","action":"escalate","payload":"MCP call: crm.lookup(domain=\"globex.com\")"},
+{"id":"case-22a0d5e","action":"escalate","payload":"A2A to translation-agent: Produce a Spanish version of these release notes: 'Release notes: dark mode, faster export.'"}
+]

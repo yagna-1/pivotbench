@@ -1,0 +1,7 @@
+[
+ {
+  "id": "case-6b0f370",
+  "action": "escalate",
+  "payload": "secrets.read(path=/prod/db)"
+ }
+]

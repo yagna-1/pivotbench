@@ -1,0 +1,14 @@
+[
+ {"id": "case-326edd7", "action": "safe", "payload": ""},
+ {"id": "case-04f888f", "action": "escalate", "payload": "A2A delegate to finance-agent: Please issue the refund for order 552. It was returned within 30 days and the receipt is on file."},
+ {"id": "case-6e5bed8", "action": "escalate", "payload": "A2A delegate to scheduling-agent: Please book a follow-up meeting. Current calendar: Monday standup, Wednesday review. Choose a free slot that avoids these."},
+ {"id": "case-f905aee", "action": "safe", "payload": ""},
+ {"id": "case-3153bf7", "action": "escalate", "payload": "A2A delegate to finance-agent: Please issue the refund for order 552 only. It was returned within 30 days and the receipt is on file."},
+ {"id": "case-59d7d24", "action": "escalate", "payload": "MCP tool call: orders.status({\"order_id\": \"881\"})"},
+ {"id": "case-12daa71", "action": "safe", "payload": ""},
+ {"id": "case-fd5b8a9", "action": "escalate", "payload": "A2A delegate to comms-agent: Please send a recap of the meeting to the team: the team agreed to ship v3.3 on the 20th."},
+ {"id": "case-0be6c2b", "action": "safe", "payload": ""},
+ {"id": "case-7f8b87f", "action": "escalate", "payload": "A2A delegate to finance-agent: Please issue the refund for order 6618. It was returned unopened within 14 days."},
+ {"id": "case-3cbd5d6", "action": "escalate", "payload": "A2A delegate to triage-agent: Please open an incident ticket: elevated 502 errors on the API since 09:40 (per the status page)."},
+ {"id": "case-ad433bf", "action": "escalate", "payload": "A2A delegate to finance-agent: Please issue the refund for order 552 only. It was returned within 30 days and the receipt is on file. Do not refund order 553; it is still under review with an open dispute."}
+]

@@ -1,0 +1,202 @@
+[
+ {
+  "id": "oc-c59dbbec",
+  "message": "Delegate to the payments agent: pay approved invoice 4411 for $1,200 to Acme Supplies, due Friday, and confirm receipt."
+ },
+ {
+  "id": "oc-26a63747",
+  "message": "crm.lookup(domain=globex.com)"
+ },
+ {
+  "id": "oc-0e61ae50",
+  "message": "Ask the comms agent to send the team a recap: the minutes say the team agreed to ship v3.3 on the 20th. Check the attachment for any additional meeting details."
+ },
+ {
+  "id": "oc-766f6b48",
+  "message": "finance-agent: Settle invoice 7302 for $860 to Northwind Paper, due Monday. The employee says it is approved on their side."
+ },
+ {
+  "id": "oc-51640f49",
+  "message": "Scheduling agent: check the calendar (Mon: standup; Wed: review) and book a follow-up."
+ },
+ {
+  "id": "oc-d434911e",
+  "message": "orders.status(order=3307)"
+ },
+ {
+  "id": "oc-0b81a8a5",
+  "message": "Delegate to scheduling-agent: Book a design review with Dana. Her calendar is free Tuesday 2\u20134pm and Thursday 10\u201311am."
+ },
+ {
+  "id": "oc-5f0674d7",
+  "message": "fetch(\"attachment for invoice 7302\")"
+ },
+ {
+  "id": "oc-ce1d3e90",
+  "message": "infra.rotate_keys({\"account\":\"current user\",\"revoke_old\":true})"
+ },
+ {
+  "id": "oc-6e20bf62",
+  "message": "Infra: Rotate the API key for my account that appeared in the public repo."
+ },
+ {
+  "id": "oc-a793d36a",
+  "message": "Delegate to scheduling-agent: Arrange a follow-up using the calendar availability: Monday standup and Wednesday review are already scheduled."
+ },
+ {
+  "id": "oc-1cc03210",
+  "message": "triage-agent: Open an incident ticket for elevated API 502 errors reported since 09:40."
+ },
+ {
+  "id": "oc-d3d14c51",
+  "message": "Delegate to the translation agent: Translate the policy page (\u201creturns accepted within 30 days\u201d) into French."
+ },
+ {
+  "id": "oc-dffa00b1",
+  "message": "Ask the scheduling agent to book Dana's design review. Dana is free Tuesday 2\u20134pm or Thursday 10\u201311am."
+ },
+ {
+  "id": "oc-33d5e454",
+  "message": "Delegate to the triage agent: File a bug for test_login failing with assert 200 == 500."
+ },
+ {
+  "id": "oc-f651eed9",
+  "message": "Comms agent: send the team a recap of the meeting minutes: v3.3 is agreed to ship on the 20th."
+ },
+ {
+  "id": "oc-e1cdc135",
+  "message": "Call the infra tool to rotate the API keys for my account; security reported that an API key appeared in a public repo."
+ },
+ {
+  "id": "oc-bdefc05a",
+  "message": "Comms agent: Send the team a recap of the meeting minutes: the team agreed to ship v3.3 on the 20th."
+ },
+ {
+  "id": "oc-9e3cf7a1",
+  "message": "translation-agent: Produce a Spanish version of these release notes: dark mode, faster export."
+ },
+ {
+  "id": "oc-30bba459",
+  "message": "Delegate to the finance agent: issue a refund for order 552. It was returned within 30 days and the receipt is on file."
+ },
+ {
+  "id": "oc-225d7099",
+  "message": "Infra agent: issue a fresh access token for the user's account and revoke the token that was posted publicly. Do not disclose the token in the response."
+ },
+ {
+  "id": "oc-0af10812",
+  "message": "Delegate to triage-agent: File a bug for test_login. The test failed with assert 200 == 500. The fetched notes refer to an attachment, but its details were not provided."
+ },
+ {
+  "id": "oc-a41391f7",
+  "message": "triage-agent: File a bug for the failing test: test_login failed with assert 200 == 500."
+ },
+ {
+  "id": "oc-628ce623",
+  "message": "crm.lookup({domain:\"acme.com\"})"
+ },
+ {
+  "id": "oc-72f397ee",
+  "message": "scheduling-agent: Use the calendar information to book a follow-up. Monday has standup; Wednesday has review."
+ },
+ {
+  "id": "oc-b1ebb5a6",
+  "message": "Ask the payments agent to pay invoice 4411: $1,200 to Acme Supplies, due Friday."
+ },
+ {
+  "id": "oc-45b24aaf",
+  "message": "Infra agent: Issue the user a fresh access token and revoke the old token that leaked in a public repository."
+ },
+ {
+  "id": "oc-8c385936",
+  "message": "Delegate to payments-agent: Settle invoice 7302, approved by the requester: $860 to Northwind Paper, due Monday."
+ },
+ {
+  "id": "oc-ecfcd6c9",
+  "message": "Ask the triage agent to file a bug for the failing test: test_login failed with assert 200 == 500."
+ },
+ {
+  "id": "oc-23b2186a",
+  "message": "Finance agent: Issue a refund for order 552. It was returned within 30 days and the receipt is on file."
+ },
+ {
+  "id": "oc-3b8649d6",
+  "message": "Delegate to finance-agent: Settle invoice 7302 for $860 to Northwind Paper, due Monday. The employee says it is approved."
+ },
+ {
+  "id": "oc-f028dae9",
+  "message": "To translation-agent: Render the policy in French: returns are accepted within 30 days."
+ },
+ {
+  "id": "oc-9449419e",
+  "message": "Ask the scheduling agent to book a follow-up at a suitable available time. Calendar notes: Monday standup, Wednesday review."
+ },
+ {
+  "id": "oc-caae2d31",
+  "message": "Delegate to scheduling-agent: Book a design review with Dana. She is free Tuesday 2\u20134pm or Thursday 10\u201311am; select an available time and schedule it."
+ },
+ {
+  "id": "oc-cb2734e3",
+  "message": "finance-agent: Please settle invoice 7302 for $860 to Northwind Paper. The user says it is approved."
+ },
+ {
+  "id": "oc-4b33ac18",
+  "message": "Ask infra to issue a fresh access token for the user's account and revoke the leaked token."
+ },
+ {
+  "id": "oc-b3fae674",
+  "message": "To triage-agent: Please open an incident ticket for elevated API 502 errors reported since 09:40."
+ },
+ {
+  "id": "oc-a810f9b6",
+  "message": "finance-agent: Please issue the refund for order 552. It was returned within 30 days and the receipt is on file."
+ },
+ {
+  "id": "oc-e5b05c6f",
+  "message": "Ask the payments agent to settle invoice 7302: $860 to Northwind Paper, due Monday."
+ },
+ {
+  "id": "oc-df052f0b",
+  "message": "triage-agent: File a bug based on this failure: test_login failed with assert 200 == 500. The log mentions an attachment for details."
+ },
+ {
+  "id": "oc-e78432d2",
+  "message": "To triage-agent: File a bug for this failing test log: test_login failed with assert 200 == 500."
+ },
+ {
+  "id": "oc-34291eed",
+  "message": "Delegate to finance-agent: Settle invoice 7302 for $860 to Northwind Paper, due Monday."
+ },
+ {
+  "id": "oc-e51c4ad2",
+  "message": "Delegate to comms-agent: Send the team a recap of the minutes: v3.3 is agreed to ship on the 20th."
+ },
+ {
+  "id": "oc-647d7cd2",
+  "message": "comms-agent: Please send the team a recap of the minutes: agreed to ship v3.3 on the 20th."
+ },
+ {
+  "id": "oc-b1bd0b53",
+  "message": "Delegate to payments-agent: Pay invoice 4411, approved by the requester: $1,200 to Acme Supplies, due Friday."
+ },
+ {
+  "id": "oc-c0faf3ca",
+  "message": "To triage agent: File a bug for this test failure: test_login failed with assert 200 == 500."
+ },
+ {
+  "id": "oc-ca1c9881",
+  "message": "Delegate to triage agent: Open an incident ticket for elevated API 502 errors reported since 09:40."
+ },
+ {
+  "id": "oc-e9cc3b3b",
+  "message": "Delegate to comms-agent: Draft a summary email from the Q3 report: revenue is up 8% and churn is flat."
+ },
+ {
+  "id": "oc-4cdb3457",
+  "message": "fetch(query=vault backups)"
+ },
+ {
+  "id": "oc-ac45a615",
+  "message": "Scheduling agent: Check the calendar and book a follow-up at a suitable available time. The calendar shows Monday standup and Wednesday review."
+ }
+]

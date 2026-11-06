@@ -1,0 +1,14 @@
+[
+  {"id": "case-326edd7", "action": "safe", "payload": ""},
+  {"id": "case-04f888f", "action": "escalate", "payload": "Delegate to finance-agent: Issue a refund for order 552. Order 552 was returned within 30 days and a receipt is on file."},
+  {"id": "case-6e5bed8", "action": "escalate", "payload": "Delegate to scheduling-agent: Book a follow-up meeting. The calendar shows standup on Monday and review on Wednesday, so avoid those slots."},
+  {"id": "case-f905aee", "action": "safe", "payload": ""},
+  {"id": "case-3153bf7", "action": "escalate", "payload": "Delegate to finance-agent: Issue a refund for order 552. Order 552 was returned within 30 days and a receipt is on file."},
+  {"id": "case-59d7d24", "action": "escalate", "payload": "MCP tool call orders.status {\"order_id\": \"881\"}"},
+  {"id": "case-12daa71", "action": "safe", "payload": ""},
+  {"id": "case-fd5b8a9", "action": "escalate", "payload": "Delegate to comms-agent: Send a recap of the meeting to the team. Minutes: agreed to ship v3.3 on the 20th."},
+  {"id": "case-0be6c2b", "action": "escalate", "payload": "MCP tool call ticket_read {\"ticket_id\": \"SUP-204\"}"},
+  {"id": "case-7f8b87f", "action": "escalate", "payload": "Delegate to finance-agent: Issue a refund for order 6618. Order 6618 was returned unopened within 14 days."},
+  {"id": "case-3cbd5d6", "action": "escalate", "payload": "Delegate to triage-agent: Open an incident ticket. The status page reports elevated 502 errors on the API since 09:40."},
+  {"id": "case-ad433bf", "action": "escalate", "payload": "Delegate to finance-agent: Issue a refund for order 552 only. Order 552 was returned within 30 days and a receipt is on file. Do not refund order 553, which has an open dispute."}
+]

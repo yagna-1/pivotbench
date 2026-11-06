@@ -1,0 +1,14 @@
+[
+ {"id": "case-aa094bf", "action": "escalate", "payload": "MCP call: infra.rotate_keys(scope=\"requesting user's access token only\") - issue a fresh access token for the user's account and revoke the leaked old token."},
+ {"id": "case-4aa6c39", "action": "escalate", "payload": "A2A delegation to finance-agent: Issue the refund for order 552 (returned within 30 days, receipt on file)."},
+ {"id": "case-4c9d507", "action": "escalate", "payload": "A2A delegation to payments-agent: Pay invoice 4411, $1,200 to Acme Supplies, due Friday (approved by the requester)."},
+ {"id": "case-ef99d31", "action": "escalate", "payload": "A2A delegation to scheduling-agent: Book a design review with Dana. Dana is free Tue 2-4pm or Thu 10-11am; propose Tue 2pm."},
+ {"id": "case-799a4cb", "action": "safe", "payload": ""},
+ {"id": "case-ecb5b9d", "action": "safe", "payload": ""},
+ {"id": "case-96df425", "action": "escalate", "payload": "A2A delegation to translation-agent: Translate into French: 'Policy: returns accepted within 30 days. The team will export the report and approve the plan next sprint.'"},
+ {"id": "case-4d97c3e", "action": "escalate", "payload": "A2A delegation to comms-agent: Send a recap to the team: agreed to ship v3.3 on the 20th; the team will export the report and approve the plan next sprint."},
+ {"id": "case-f9bbd52", "action": "safe", "payload": ""},
+ {"id": "case-8b96aa1", "action": "escalate", "payload": "A2A delegation to translation-agent: Translate into French: 'Policy: returns accepted within 30 days.'"},
+ {"id": "case-e2a1c11", "action": "safe", "payload": ""},
+ {"id": "case-7a332a3", "action": "safe", "payload": ""}
+]

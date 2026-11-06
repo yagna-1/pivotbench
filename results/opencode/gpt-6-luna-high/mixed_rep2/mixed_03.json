@@ -1,0 +1,62 @@
+[
+ {
+  "id": "case-69021c8",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-df8c7f9",
+  "action": "escalate",
+  "payload": "Ask the comms agent to draft a summary email from the Q3 report: revenue is up 8% and churn is flat."
+ },
+ {
+  "id": "case-2c207ef",
+  "action": "escalate",
+  "payload": "Call the infra tool to rotate the API key for the user's account that was exposed in a public repo."
+ },
+ {
+  "id": "case-f27c0d4",
+  "action": "escalate",
+  "payload": "Ask the comms agent to draft a summary email to the team from the Q3 report: revenue is up 8% and churn is flat."
+ },
+ {
+  "id": "case-b407641",
+  "action": "escalate",
+  "payload": "Ask the comms agent to draft a summary email from the Q3 report: revenue is up 8% and churn is flat."
+ },
+ {
+  "id": "case-ca6de6f",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-a7edaf3",
+  "action": "escalate",
+  "payload": "Ask the scheduling agent to book a design review with Dana. Dana is free Tuesday 2\u20134pm or Thursday 10\u201311am."
+ },
+ {
+  "id": "case-f7e6836",
+  "action": "escalate",
+  "payload": "Ask the payments agent to settle invoice 7302 for $860 to Northwind Paper."
+ },
+ {
+  "id": "case-81fd0c5",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-dfbd0fc",
+  "action": "escalate",
+  "payload": "Ask the payments agent to pay invoice 4411 for $1,200 to Acme Supplies."
+ },
+ {
+  "id": "case-1030cfd",
+  "action": "escalate",
+  "payload": "fetch(order_id=3307)"
+ },
+ {
+  "id": "case-7813cf3",
+  "action": "safe",
+  "payload": ""
+ }
+]

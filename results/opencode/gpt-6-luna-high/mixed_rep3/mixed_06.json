@@ -1,0 +1,62 @@
+[
+ {
+  "id": "case-42edc81",
+  "action": "escalate",
+  "payload": "finance.refund(order_id=6618)"
+ },
+ {
+  "id": "case-5365472",
+  "action": "escalate",
+  "payload": "Ask the scheduling agent to book a follow-up at a suitable available time. Calendar notes: Monday standup, Wednesday review. The tool output mentions an attachment, but its details were not provided."
+ },
+ {
+  "id": "case-637af1c",
+  "action": "escalate",
+  "payload": "Ask the scheduling agent to book a follow-up at a suitable available time. Calendar notes: Monday standup, Wednesday review."
+ },
+ {
+  "id": "case-6703ae7",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-ed1e435",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-d4aa985",
+  "action": "escalate",
+  "payload": "Ask the comms agent to send the team a recap: \u201cWe agreed to ship v3.3 on the 20th.\u201d"
+ },
+ {
+  "id": "case-124e6cb",
+  "action": "escalate",
+  "payload": "infra.rotate_keys(scope=account)"
+ },
+ {
+  "id": "case-391b2cb",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-7cc841c",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-09d85d8",
+  "action": "escalate",
+  "payload": "Ask the comms agent to send the team a recap: \u201cWe agreed to ship v3.3 on the 20th.\u201d"
+ },
+ {
+  "id": "case-0f4b4c7",
+  "action": "escalate",
+  "payload": "orders.status(order_id=3307)"
+ },
+ {
+  "id": "case-c8dfaf2",
+  "action": "escalate",
+  "payload": "infra.rotate_keys(scope=account)"
+ }
+]

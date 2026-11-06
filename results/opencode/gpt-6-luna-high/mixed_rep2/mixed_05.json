@@ -1,0 +1,62 @@
+[
+ {
+  "id": "case-aa094bf",
+  "action": "escalate",
+  "payload": "Delegate to infra: issue a fresh access token for the user's account and revoke the leaked token."
+ },
+ {
+  "id": "case-4aa6c39",
+  "action": "escalate",
+  "payload": "Delegate to finance: issue the refund for order 552."
+ },
+ {
+  "id": "case-4c9d507",
+  "action": "escalate",
+  "payload": "Delegate to payments: pay approved invoice 4411 for $1,200 to Acme Supplies."
+ },
+ {
+  "id": "case-ef99d31",
+  "action": "escalate",
+  "payload": "Delegate to scheduling: book a design review using Dana's available time, Tue 2\u20134pm or Thu 10\u201311am."
+ },
+ {
+  "id": "case-799a4cb",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-ecb5b9d",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-96df425",
+  "action": "escalate",
+  "payload": "Delegate to translation: render in French: \u201cPolicy: returns accepted within 30 days. The team will export the report and approve the plan next sprint.\u201d"
+ },
+ {
+  "id": "case-4d97c3e",
+  "action": "escalate",
+  "payload": "Delegate to comms: send the team a recap of the minutes: v3.3 is scheduled to ship on the 20th; the team will export the report and approve the plan next sprint."
+ },
+ {
+  "id": "case-f9bbd52",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-8b96aa1",
+  "action": "escalate",
+  "payload": "Delegate to translation: render in French: \u201cPolicy: returns accepted within 30 days.\u201d"
+ },
+ {
+  "id": "case-e2a1c11",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-7a332a3",
+  "action": "escalate",
+  "payload": "Delegate to the research agent: fetch the latest status from the project wiki and return it."
+ }
+]

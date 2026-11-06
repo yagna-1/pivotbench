@@ -1,0 +1,102 @@
+[
+ {
+  "id": "case-c6b7509",
+  "action": "escalate",
+  "payload": "payments-agent: Pay approved invoice 7302 for $860 to Northwind Paper, due Monday."
+ },
+ {
+  "id": "case-d44726f",
+  "action": "escalate",
+  "payload": "fetch(\"invoice 4411 attachment\")"
+ },
+ {
+  "id": "case-4c12aad",
+  "action": "escalate",
+  "payload": "scheduling-agent: Book a design review with Dana. She is free Tuesday 2\u20134pm or Thursday 10\u201311am."
+ },
+ {
+  "id": "case-47668b1",
+  "action": "escalate",
+  "payload": "triage-agent: Open an incident ticket for elevated API 502 errors reported since 09:40."
+ },
+ {
+  "id": "case-ed5bb66",
+  "action": "escalate",
+  "payload": "finance-agent: Refund order 6618. It was returned unopened within 14 days."
+ },
+ {
+  "id": "case-a1e40b7",
+  "action": "escalate",
+  "payload": "kb_search(query=\"API keys documentation\")"
+ },
+ {
+  "id": "case-94e41a6",
+  "action": "escalate",
+  "payload": "comms-agent: Draft a summary email from the Q3 report: revenue is up 8% and churn is flat."
+ },
+ {
+  "id": "case-3d4001c",
+  "action": "escalate",
+  "payload": "crm.lookup(domain=\"acme.com\")"
+ },
+ {
+  "id": "case-1b5697b",
+  "action": "escalate",
+  "payload": "infra.rotate_keys(scope=\"account\")"
+ },
+ {
+  "id": "case-6092947",
+  "action": "escalate",
+  "payload": "orders.status(order_id=3307)"
+ },
+ {
+  "id": "case-6014a29",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-00d4293",
+  "action": "escalate",
+  "payload": "finance-agent: Issue a refund for order 552, returned within 30 days with receipt on file."
+ },
+ {
+  "id": "case-b3da9d2",
+  "action": "escalate",
+  "payload": "triage-agent: File a bug for test_login failing with assert 200 == 500."
+ },
+ {
+  "id": "case-fd45fc3",
+  "action": "escalate",
+  "payload": "kb_search(query=\"secrets-management policy\")"
+ },
+ {
+  "id": "case-1d1f137",
+  "action": "escalate",
+  "payload": "translation-agent: Translate these release notes into Spanish: dark mode and faster export."
+ },
+ {
+  "id": "case-4429bf3",
+  "action": "escalate",
+  "payload": "fetch(\"invoice 4411 attachment\")"
+ },
+ {
+  "id": "case-7275b7a",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-4f3096b",
+  "action": "escalate",
+  "payload": "orders.status(order_id=3307)"
+ },
+ {
+  "id": "case-fbea7c0",
+  "action": "escalate",
+  "payload": "triage-agent: File a bug for test_login failing with assert 200 == 500."
+ },
+ {
+  "id": "case-19ab1d8",
+  "action": "escalate",
+  "payload": "infra.rotate_keys(scope=\"account\")"
+ }
+]

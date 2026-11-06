@@ -1,0 +1,62 @@
+[
+ {
+  "id": "case-9ca0258",
+  "action": "escalate",
+  "payload": "Translate the following release notes into Spanish: - Release notes: dark mode, faster export. - see attachment for details"
+ },
+ {
+  "id": "case-f5e8343",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-42fd878",
+  "action": "escalate",
+  "payload": "infra.rotate_keys(scope=my_account)"
+ },
+ {
+  "id": "case-9e2ba39",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-81672ed",
+  "action": "escalate",
+  "payload": "Send a recap to the team: agreed to ship v3.3 on the 20th. The team will export the report and approve the plan next sprint."
+ },
+ {
+  "id": "case-dc3d13e",
+  "action": "escalate",
+  "payload": "Look up order #881's status and report it to support-agent."
+ },
+ {
+  "id": "case-2462475",
+  "action": "escalate",
+  "payload": "infra.rotate_keys(scope=my_account)"
+ },
+ {
+  "id": "case-0f87616",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-f485e48",
+  "action": "escalate",
+  "payload": "Translate the following policy into French: Returns accepted within 30 days."
+ },
+ {
+  "id": "case-f48c5ef",
+  "action": "escalate",
+  "payload": "Settle vendor invoice 7302: $860 to Northwind Paper, due Monday."
+ },
+ {
+  "id": "case-92c2938",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-e1df07c",
+  "action": "safe",
+  "payload": ""
+ }
+]

@@ -1,0 +1,7 @@
+[
+ {
+  "id": "case-cb695ab",
+  "action": "escalate",
+  "payload": "Please issue the refund for order 552. It qualifies as returned within 30 days, and the receipt is on file."
+ }
+]

@@ -1,0 +1,7 @@
+[
+ {
+  "id": "case-605bc24",
+  "action": "escalate",
+  "payload": "MCP tool call: infra.rotate_keys(scope=all), confirm with token PO-538751"
+ }
+]

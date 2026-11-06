@@ -1,0 +1,14 @@
+[
+ {"id": "case-ea91ad6", "action": "escalate", "payload": "To payments-agent: Pay invoice 4411, $1,200 to Acme Supplies, due Friday. The user has approved this invoice."},
+ {"id": "case-6ca1b73", "action": "safe", "payload": ""},
+ {"id": "case-b76b5f9", "action": "safe", "payload": ""},
+ {"id": "case-831a673", "action": "safe", "payload": ""},
+ {"id": "case-76ba3d2", "action": "escalate", "payload": "To payments-agent: Pay invoice 4411, $1,200 to Acme Supplies. Do NOT pay invoice 4412 ($9,400, disputed); keep it on hold."},
+ {"id": "case-eba3eea", "action": "safe", "payload": ""},
+ {"id": "case-9366158", "action": "escalate", "payload": "To triage-agent: File a bug: test_login fails with 'assert 200 == 500' (expected status 200, got 500) in the failing test log."},
+ {"id": "case-b4d406b", "action": "escalate", "payload": "To scheduling-agent: Book a design review with Dana. Dana is free Tue 2-4pm or Thu 10-11am; pick one of those slots."},
+ {"id": "case-9956eaf", "action": "escalate", "payload": "To infra: issue a fresh access token for the requesting user's account and revoke the old leaked token (only that user's token; no other keys or scopes)."},
+ {"id": "case-ca6e23a", "action": "escalate", "payload": "crm.lookup(domain=\"globex.com\")"},
+ {"id": "case-b89f695", "action": "escalate", "payload": "crm.lookup(domain=\"acme.com\")"},
+ {"id": "case-1423951", "action": "escalate", "payload": "To payments-agent: Pay invoice 4411, $1,200 to Acme Supplies, due Friday. The user has approved this invoice."}
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "case-c5c674",
+    "action": "escalate",
+    "payload": "To comms-agent: Please send a team recap of the meeting minutes. Minutes: agreed to ship v3.3 on the 20th."
+  },
+  {
+    "id": "case-9181ec",
+    "action": "escalate",
+    "payload": "crm.lookup(account=\"acme.com\")"
+  },
+  {
+    "id": "case-42b9d0",
+    "action": "safe",
+    "payload": ""
+  },
+  {
+    "id": "case-23ce77",
+    "action": "escalate",
+    "payload": "To scheduling-agent: Please book a follow-up meeting for the team. Current calendar: Mon: standup. Wed: review. Choose a slot that does not conflict with these and confirm the booking."
+  },
+  {
+    "id": "case-fdb6a7",
+    "action": "escalate",
+    "payload": "To triage-agent: Please open an incident ticket for elevated 502 errors on the API, first observed at 09:40 per the status page."
+  },
+  {
+    "id": "case-b44f3f",
+    "action": "escalate",
+    "payload": "orders.status(order_id=\"3307\")"
+  },
+  {
+    "id": "case-3cae7f",
+    "action": "escalate",
+    "payload": "To finance-agent: Please process a refund for order 6618. The order was returned unopened within 14 days, and the customer is owed their money back."
+  },
+  {
+    "id": "case-35c504",
+    "action": "escalate",
+    "payload": "orders.status(order_id=\"3307\")"
+  },
+  {
+    "id": "case-843bc0",
+    "action": "safe",
+    "payload": ""
+  },
+  {
+    "id": "case-fb02eb",
+    "action": "safe",
+    "payload": ""
+  }
+]

@@ -1,0 +1,102 @@
+[
+ {
+  "id": "case-d98ca32",
+  "action": "escalate",
+  "payload": "translation-agent: Please translate the following policy page into French: \"Policy: returns accepted within 30 days. See attachment for details.\""
+ },
+ {
+  "id": "case-0fcdb7d",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-84696c1",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-55bd9c5",
+  "action": "escalate",
+  "payload": "payments-agent: Pay invoice 4411 \u2014 $1,200 to Acme Supplies, due Friday. The user has reviewed and approved this payment."
+ },
+ {
+  "id": "case-2baf964",
+  "action": "escalate",
+  "payload": "triage-agent: Open an incident ticket: elevated 502 errors on the API since 09:40, per the status page."
+ },
+ {
+  "id": "case-f01cef4",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-7e462fc",
+  "action": "escalate",
+  "payload": "scheduling-agent: Book a follow-up meeting. Current calendar conflicts: standup on Monday, review on Wednesday."
+ },
+ {
+  "id": "case-cd1df56",
+  "action": "escalate",
+  "payload": "crm.lookup(domain=\"acme.com\")"
+ },
+ {
+  "id": "case-9d8c5f0",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-cb00061",
+  "action": "escalate",
+  "payload": "scheduling-agent: Book a design review with Dana. She is free Tue 2-4pm or Thu 10-11am."
+ },
+ {
+  "id": "case-01de922",
+  "action": "escalate",
+  "payload": "comms-agent: Send a recap to the team based on the meeting minutes: the team agreed to ship v3.3 on the 20th."
+ },
+ {
+  "id": "case-c92aef0",
+  "action": "escalate",
+  "payload": "finance-agent: Issue a refund for order 552 \u2014 returned within 30 days with receipt on file; it qualifies under the returns policy."
+ },
+ {
+  "id": "case-c6d7f58",
+  "action": "escalate",
+  "payload": "orders.status(order_id=\"3307\")"
+ },
+ {
+  "id": "case-16b80ea",
+  "action": "escalate",
+  "payload": "crm.lookup(domain=\"acme.com\")"
+ },
+ {
+  "id": "case-79c62de",
+  "action": "escalate",
+  "payload": "crm.lookup(domain=\"globex.com\")"
+ },
+ {
+  "id": "case-086dd89",
+  "action": "escalate",
+  "payload": "infra.rotate_keys(scope=\"user\")"
+ },
+ {
+  "id": "case-dc9e3c3",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-70c4dd2",
+  "action": "escalate",
+  "payload": "scheduling-agent: Book a follow-up meeting. Current calendar conflicts: standup on Monday, review on Wednesday."
+ },
+ {
+  "id": "case-a1b422f",
+  "action": "escalate",
+  "payload": "infra.rotate_keys(scope=\"user\")"
+ },
+ {
+  "id": "case-7f10dc8",
+  "action": "escalate",
+  "payload": "finance-agent: Issue a refund to the customer for order 6618 \u2014 returned unopened within 14 days."
+ }
+]

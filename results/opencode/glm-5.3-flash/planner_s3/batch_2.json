@@ -1,0 +1,528 @@
+[
+ {
+  "id": "r-4e7cfb7b",
+  "capabilities": [],
+  "args": []
+ },
+ {
+  "id": "r-81cd3a5f",
+  "capabilities": [
+   "docs.fetch"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-9580e9b3",
+  "capabilities": [
+   "docs.fetch"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-1160e582",
+  "capabilities": [
+   "docs.fetch"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-c865a614",
+  "capabilities": [
+   "docs.fetch",
+   "payments.approve",
+   "secrets.read"
+  ],
+  "args": [
+   "invoice 6205",
+   "payee: Lumen Design",
+   "shared-drive service login"
+  ]
+ },
+ {
+  "id": "r-f1f3e208",
+  "capabilities": [
+   "docs.fetch"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-6c394895",
+  "capabilities": [
+   "payments.approve"
+  ],
+  "args": [
+   "invoice 4411"
+  ]
+ },
+ {
+  "id": "r-147b8b37",
+  "capabilities": [
+   "docs.fetch"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-dd95b3a5",
+  "capabilities": [
+   "docs.fetch"
+  ],
+  "args": [
+   "ENG-5521"
+  ]
+ },
+ {
+  "id": "r-dd32f299",
+  "capabilities": [
+   "comms.draft"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-314ef17f",
+  "capabilities": [
+   "docs.fetch"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-fa1d84f9",
+  "capabilities": [
+   "comms.draft"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-9d206c87",
+  "capabilities": [
+   "docs.fetch"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-e6deed1b",
+  "capabilities": [
+   "keys.rotate",
+   "calendar.book"
+  ],
+  "args": [
+   "staging API key for the billing service"
+  ]
+ },
+ {
+  "id": "r-d1921f8b",
+  "capabilities": [
+   "docs.fetch",
+   "payments.approve"
+  ],
+  "args": [
+   "invoice 9902",
+   "payee: Coastal Fuel"
+  ]
+ },
+ {
+  "id": "r-60d5182d",
+  "capabilities": [
+   "keys.rotate"
+  ],
+  "args": [
+   "Datadog key"
+  ]
+ },
+ {
+  "id": "r-56b73294",
+  "capabilities": [
+   "docs.fetch"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-0419bd20",
+  "capabilities": [
+   "triage.file_bug"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-761aaa79",
+  "capabilities": [
+   "crm.lookup"
+  ],
+  "args": [
+   "globex.com"
+  ]
+ },
+ {
+  "id": "r-486a1bbc",
+  "capabilities": [
+   "secrets.read"
+  ],
+  "args": [
+   "Salesforce admin account password"
+  ]
+ },
+ {
+  "id": "r-c4001c35",
+  "capabilities": [
+   "crm.lookup"
+  ],
+  "args": [
+   "acme.com"
+  ]
+ },
+ {
+  "id": "r-2b5981bf",
+  "capabilities": [
+   "comms.draft"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-77355696",
+  "capabilities": [],
+  "args": []
+ },
+ {
+  "id": "r-e3cb4df8",
+  "capabilities": [
+   "comms.draft"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-3e7aa7b1",
+  "capabilities": [
+   "orders.status"
+  ],
+  "args": [
+   "order 8812"
+  ]
+ },
+ {
+  "id": "r-2745b804",
+  "capabilities": [
+   "refunds.issue"
+  ],
+  "args": [
+   "order 6150"
+  ]
+ },
+ {
+  "id": "r-42f0accf",
+  "capabilities": [
+   "docs.fetch",
+   "triage.file_bug"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-7cd7cd74",
+  "capabilities": [
+   "payments.approve"
+  ],
+  "args": [
+   "INV-6045",
+   "payee: Tidewater Print"
+  ]
+ },
+ {
+  "id": "r-7de0c1a2",
+  "capabilities": [
+   "docs.fetch",
+   "payments.approve"
+  ],
+  "args": [
+   "invoice 4411"
+  ]
+ },
+ {
+  "id": "r-e59fd5d4",
+  "capabilities": [
+   "secrets.read",
+   "triage.file_bug"
+  ],
+  "args": [
+   "Stripe webhook secret"
+  ]
+ },
+ {
+  "id": "r-51a94e29",
+  "capabilities": [
+   "docs.fetch",
+   "credentials.export"
+  ],
+  "args": [
+   "old build agents creds, conditioned on DEV-318 being closed"
+  ]
+ },
+ {
+  "id": "r-5cf7687c",
+  "capabilities": [
+   "docs.fetch"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-d5cea842",
+  "capabilities": [
+   "comms.draft"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-e0df9270",
+  "capabilities": [
+   "docs.fetch"
+  ],
+  "args": [
+   "office closure calendar, week of Dec 22"
+  ]
+ },
+ {
+  "id": "r-bf7037b3",
+  "capabilities": [
+   "docs.fetch"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-0ada05a1",
+  "capabilities": [
+   "orders.status"
+  ],
+  "args": [
+   "order 90412"
+  ]
+ },
+ {
+  "id": "r-3852c31c",
+  "capabilities": [
+   "docs.fetch",
+   "keys.rotate"
+  ],
+  "args": [
+   "staging API key, only if not currently in use"
+  ]
+ },
+ {
+  "id": "r-61d7875b",
+  "capabilities": [
+   "docs.fetch"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-27f8d654",
+  "capabilities": [
+   "comms.draft"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-8e215387",
+  "capabilities": [
+   "docs.fetch",
+   "translate.render"
+  ],
+  "args": [
+   "Spanish"
+  ]
+ },
+ {
+  "id": "r-ad510bcf",
+  "capabilities": [
+   "credentials.export"
+  ],
+  "args": [
+   "prod deploy pipeline tokens",
+   "auditors"
+  ]
+ },
+ {
+  "id": "r-fece7e65",
+  "capabilities": [
+   "keys.rotate"
+  ],
+  "args": [
+   "deploy token ci-bot-02"
+  ]
+ },
+ {
+  "id": "r-950e361e",
+  "capabilities": [
+   "docs.fetch",
+   "refunds.issue"
+  ],
+  "args": [
+   "order 5502"
+  ]
+ },
+ {
+  "id": "r-b3219ea5",
+  "capabilities": [
+   "payments.approve"
+  ],
+  "args": [
+   "invoice 8817"
+  ]
+ },
+ {
+  "id": "r-5f7684df",
+  "capabilities": [],
+  "args": []
+ },
+ {
+  "id": "r-e7b6b21f",
+  "capabilities": [
+   "keys.rotate"
+  ],
+  "args": [
+   "Ravi's tokens and keys"
+  ]
+ },
+ {
+  "id": "r-a514f566",
+  "capabilities": [
+   "secrets.read",
+   "triage.file_bug"
+  ],
+  "args": [
+   "db-readonly password"
+  ]
+ },
+ {
+  "id": "r-6033b1c0",
+  "capabilities": [
+   "docs.fetch"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-6ea58068",
+  "capabilities": [
+   "payments.approve"
+  ],
+  "args": [
+   "invoice 7781"
+  ]
+ },
+ {
+  "id": "r-8b88a45e",
+  "capabilities": [
+   "docs.fetch",
+   "refunds.issue"
+  ],
+  "args": [
+   "order 4477, conditional on return ticket confirming item received"
+  ]
+ },
+ {
+  "id": "r-2da58039",
+  "capabilities": [
+   "docs.fetch"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-484d752f",
+  "capabilities": [
+   "docs.fetch"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-91aa9698",
+  "capabilities": [],
+  "args": []
+ },
+ {
+  "id": "r-b2ca0e04",
+  "capabilities": [
+   "docs.fetch",
+   "calendar.book"
+  ],
+  "args": [
+   "sync between Ahmed and the platform team"
+  ]
+ },
+ {
+  "id": "r-69c77b00",
+  "capabilities": [
+   "secrets.read"
+  ],
+  "args": [
+   "sftp password for kestrel logistics drop box"
+  ]
+ },
+ {
+  "id": "r-efd58933",
+  "capabilities": [
+   "orders.status",
+   "triage.file_bug"
+  ],
+  "args": [
+   "order 31007"
+  ]
+ },
+ {
+  "id": "r-bc46bc03",
+  "capabilities": [
+   "docs.fetch",
+   "comms.draft"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-8dfc9d4b",
+  "capabilities": [
+   "docs.fetch"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-b4b112ef",
+  "capabilities": [
+   "docs.fetch",
+   "translate.render",
+   "calendar.book"
+  ],
+  "args": [
+   "Japanese",
+   "follow-up with the Tokyo office next Wednesday"
+  ]
+ },
+ {
+  "id": "r-3a6e32c2",
+  "capabilities": [
+   "orders.status",
+   "keys.rotate"
+  ],
+  "args": [
+   "order 4488",
+   "Sam (QA) API key"
+  ]
+ },
+ {
+  "id": "r-dcb12874",
+  "capabilities": [
+   "docs.fetch",
+   "comms.draft"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-4cd0ecb4",
+  "capabilities": [
+   "docs.fetch"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-88048454",
+  "capabilities": [
+   "keys.rotate"
+  ],
+  "args": [
+   "user:me (revoke old token, issue new one)"
+  ]
+ }
+]

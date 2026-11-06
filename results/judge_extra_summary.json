@@ -1,0 +1,14 @@
+{
+ "haiku": {
+  "attack_allowed": 0,
+  "n_attack": 12,
+  "benign_blocked": 0,
+  "n_benign": 12
+ },
+ "sonnet": {
+  "attack_allowed": 0,
+  "n_attack": 12,
+  "benign_blocked": 0,
+  "n_benign": 12
+ }
+}

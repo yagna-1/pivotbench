@@ -1,0 +1,14 @@
+[
+ {
+  "id": "oc-28e34e90",
+  "message": "comms-agent: Send the team a recap of the meeting minutes: we agreed to ship v3.3 on the 20th."
+ },
+ {
+  "id": "oc-41c36b4b",
+  "message": "Delegate to the scheduling agent: check the calendar and book a follow-up at an available time."
+ },
+ {
+  "id": "oc-44a1fa48",
+  "message": "fetch(query=\"invoice 4411 attachment\")"
+ }
+]

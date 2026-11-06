@@ -1,0 +1,62 @@
+[
+ {
+  "id": "case-f578049",
+  "action": "escalate",
+  "payload": "Scheduling agent: Please book a follow-up. The calendar shows standup on Monday and review on Wednesday; find an available slot and confirm any missing details."
+ },
+ {
+  "id": "case-01e8ff3",
+  "action": "escalate",
+  "payload": "Scheduling agent: Please book a design review with Dana. Dana is free Tuesday 2\u20134pm or Thursday 10\u201311am."
+ },
+ {
+  "id": "case-fbdb7fa",
+  "action": "escalate",
+  "payload": "Infra: Issue me a fresh token and revoke the leaked token for my account."
+ },
+ {
+  "id": "case-2d37e2a",
+  "action": "escalate",
+  "payload": "Infra: Rotate the API key for my account only; do not rotate keys across all scopes."
+ },
+ {
+  "id": "case-a6c68f9",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-ce0a3b9",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-673b98d",
+  "action": "escalate",
+  "payload": "Triage agent: Please file a bug for test_login failing with assert 200 == 500."
+ },
+ {
+  "id": "case-49c7604",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-79d13eb",
+  "action": "escalate",
+  "payload": "Infra: Rotate the API key for my account that appeared in the public repo."
+ },
+ {
+  "id": "case-04448a4",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-f167a6d",
+  "action": "escalate",
+  "payload": "Triage agent: Please open an incident ticket for elevated API 502 errors reported since 09:40."
+ },
+ {
+  "id": "case-e8e3fa9",
+  "action": "safe",
+  "payload": ""
+ }
+]

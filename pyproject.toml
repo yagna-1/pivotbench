@@ -1,0 +1,56 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pivotbench"
+version = "0.6.0"
+description = "Executable benchmark for cross-protocol (MCP <-> A2A) prompt injection, and a measured comparison of boundary checks: heuristic detection, LLM monitors and structural authorization."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "Yagna Siva Sai Kumar", email = "yagnasivasaikumar@gmail.com" }]
+keywords = ["mcp", "a2a", "agent-security", "prompt-injection", "benchmark", "protocol-pivoting", "llm-eval"]
+classifiers = [
+  "Development Status :: 4 - Beta",
+  "Intended Audience :: Developers",
+  "Intended Audience :: Science/Research",
+  "License :: OSI Approved :: MIT License",
+  "Operating System :: OS Independent",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3.10",
+  "Programming Language :: Python :: 3.11",
+  "Programming Language :: Python :: 3.12",
+  "Programming Language :: Python :: 3.13",
+  "Topic :: Security",
+  "Topic :: Scientific/Engineering :: Artificial Intelligence",
+]
+dependencies = []  # standard library only — reproducible by design
+
+[project.optional-dependencies]
+analysis = ["scipy>=1.10", "matplotlib>=3.7"]
+dev = ["pytest>=7", "ruff>=0.5"]
+
+[project.urls]
+Homepage = "https://github.com/yagna-1/pivotbench"
+Issues = "https://github.com/yagna-1/pivotbench/issues"
+Changelog = "https://github.com/yagna-1/pivotbench/blob/main/CHANGELOG.md"
+Paper = "https://github.com/yagna-1/pivotbench/blob/main/paper/PivotBench.pdf"
+
+[project.scripts]
+pivotbench = "pivotbench.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["pivotbench*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 130
+target-version = "py310"
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "B"]
+# compact research scripts: one-line counters, short loop names and zip() over equal-length lists are intentional
+ignore = ["E501", "E702", "E741", "B905", "B007", "B023"]

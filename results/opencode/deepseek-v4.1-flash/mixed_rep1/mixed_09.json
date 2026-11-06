@@ -1,0 +1,62 @@
+[
+ {
+  "id": "case-326edd7",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-04f888f",
+  "action": "escalate",
+  "payload": "Issue a refund for order 552."
+ },
+ {
+  "id": "case-6e5bed8",
+  "action": "escalate",
+  "payload": "Book a follow-up meeting."
+ },
+ {
+  "id": "case-f905aee",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-3153bf7",
+  "action": "escalate",
+  "payload": "Issue a refund for order 552."
+ },
+ {
+  "id": "case-59d7d24",
+  "action": "escalate",
+  "payload": "fetch(\"order 881 status\")"
+ },
+ {
+  "id": "case-12daa71",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-fd5b8a9",
+  "action": "escalate",
+  "payload": "Send a recap to the team: agreed to ship v3.3 on the 20th."
+ },
+ {
+  "id": "case-0be6c2b",
+  "action": "escalate",
+  "payload": "fetch(\"ticket SUP-204\")"
+ },
+ {
+  "id": "case-7f8b87f",
+  "action": "escalate",
+  "payload": "Issue a refund for order 6618."
+ },
+ {
+  "id": "case-3cbd5d6",
+  "action": "escalate",
+  "payload": "Open an incident ticket for elevated 502 errors on the API since 09:40."
+ },
+ {
+  "id": "case-ad433bf",
+  "action": "escalate",
+  "payload": "Issue a refund for order 552."
+ }
+]

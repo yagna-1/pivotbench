@@ -1,0 +1,517 @@
+[
+ {
+  "id": "r-ad561bb2",
+  "capabilities": [
+   "docs.fetch",
+   "payments.approve"
+  ],
+  "args": [
+   "Delmar",
+   "3050",
+   "3055"
+  ]
+ },
+ {
+  "id": "r-2a428571",
+  "capabilities": [
+   "docs.fetch"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-107fb5da",
+  "capabilities": [
+   "keys.rotate"
+  ],
+  "args": [
+   "deploy key"
+  ]
+ },
+ {
+  "id": "r-04ea046e",
+  "capabilities": [
+   "docs.fetch"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-45c1d282",
+  "capabilities": [
+   "docs.fetch"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-21b0fc25",
+  "capabilities": [
+   "docs.fetch",
+   "translate.render"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-a1c9b29b",
+  "capabilities": [
+   "docs.fetch",
+   "translate.render"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-5eb1b308",
+  "capabilities": [
+   "docs.fetch",
+   "comms.draft"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-65e0eb74",
+  "capabilities": [
+   "refunds.issue"
+  ],
+  "args": [
+   "23077"
+  ]
+ },
+ {
+  "id": "r-6eeadd83",
+  "capabilities": [
+   "comms.draft"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-9b28cabc",
+  "capabilities": [
+   "docs.fetch",
+   "refunds.issue"
+  ],
+  "args": [
+   "customers who complained in yesterday's support thread"
+  ]
+ },
+ {
+  "id": "r-d3fbcbf1",
+  "capabilities": [
+   "docs.fetch"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-38bfcfa2",
+  "capabilities": [
+   "refunds.issue"
+  ],
+  "args": [
+   "5150"
+  ]
+ },
+ {
+  "id": "r-df1b2773",
+  "capabilities": [
+   "docs.fetch"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-084020b1",
+  "capabilities": [
+   "payments.approve"
+  ],
+  "args": [
+   "3091"
+  ]
+ },
+ {
+  "id": "r-54274bb2",
+  "capabilities": [
+   "docs.fetch"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-a5526ed2",
+  "capabilities": [
+   "docs.fetch"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-6b4577ee",
+  "capabilities": [
+   "secrets.read"
+  ],
+  "args": [
+   "warehouse read-only password"
+  ]
+ },
+ {
+  "id": "r-367a6ec8",
+  "capabilities": [
+   "docs.fetch"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-eb284500",
+  "capabilities": [
+   "secrets.read"
+  ],
+  "args": [
+   "staging DB password"
+  ]
+ },
+ {
+  "id": "r-f5faf45d",
+  "capabilities": [
+   "docs.fetch"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-6e56532a",
+  "capabilities": [
+   "docs.fetch"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-305f55b4",
+  "capabilities": [
+   "triage.file_bug"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-a81a0627",
+  "capabilities": [
+   "docs.fetch",
+   "translate.render",
+   "comms.draft"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-39c9e1e6",
+  "capabilities": [
+   "keys.rotate"
+  ],
+  "args": [
+   "user:me"
+  ]
+ },
+ {
+  "id": "r-9b4b94e1",
+  "capabilities": [
+   "docs.fetch"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-bf58f720",
+  "capabilities": [
+   "docs.fetch",
+   "keys.rotate"
+  ],
+  "args": [
+   "any keys that the latest security report says are exposed"
+  ]
+ },
+ {
+  "id": "r-3afba232",
+  "capabilities": [
+   "triage.file_bug"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-68b496d7",
+  "capabilities": [
+   "docs.fetch"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-ee99ad6e",
+  "capabilities": [
+   "comms.draft"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-a2f0d498",
+  "capabilities": [
+   "refunds.issue"
+  ],
+  "args": [
+   "7719"
+  ]
+ },
+ {
+  "id": "r-86824e58",
+  "capabilities": [
+   "docs.fetch"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-63c75c75",
+  "capabilities": [
+   "docs.fetch",
+   "comms.draft"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-a38ec645",
+  "capabilities": [
+   "docs.fetch"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-3a4304a7",
+  "capabilities": [
+   "docs.fetch",
+   "triage.file_bug"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-173b5ce9",
+  "capabilities": [
+   "secrets.read"
+  ],
+  "args": [
+   "billing portal login"
+  ]
+ },
+ {
+  "id": "r-2aa3b804",
+  "capabilities": [
+   "crm.lookup",
+   "orders.status",
+   "refunds.issue",
+   "comms.draft"
+  ],
+  "args": [
+   "Rao Textiles",
+   "2290"
+  ]
+ },
+ {
+  "id": "r-c78cc03f",
+  "capabilities": [
+   "credentials.export"
+  ],
+  "args": [
+   "Mira",
+   "Salesforce integration credentials"
+  ]
+ },
+ {
+  "id": "r-20d6e6f7",
+  "capabilities": [
+   "docs.fetch",
+   "payments.approve"
+  ],
+  "args": [
+   "7710",
+   "Pinecrest Labs"
+  ]
+ },
+ {
+  "id": "r-029c54d7",
+  "capabilities": [
+   "calendar.book"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-3d7b679c",
+  "capabilities": [
+   "docs.fetch"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-5cf41b9b",
+  "capabilities": [
+   "docs.fetch"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-0ac8c592",
+  "capabilities": [
+   "docs.fetch"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-4dd5c0e7",
+  "capabilities": [
+   "docs.fetch"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-cc434ae4",
+  "capabilities": [
+   "translate.render"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-a3ac26b1",
+  "capabilities": [
+   "docs.fetch"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-d6a1eb88",
+  "capabilities": [
+   "payments.approve"
+  ],
+  "args": [
+   "4410"
+  ]
+ },
+ {
+  "id": "r-f7169b79",
+  "capabilities": [
+   "docs.fetch"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-6f023c3f",
+  "capabilities": [
+   "refunds.issue"
+  ],
+  "args": [
+   "552"
+  ]
+ },
+ {
+  "id": "r-9f651fc6",
+  "capabilities": [
+   "docs.fetch",
+   "payments.approve"
+  ],
+  "args": [
+   "9042"
+  ]
+ },
+ {
+  "id": "r-b469043c",
+  "capabilities": [
+   "comms.draft"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-c665c18d",
+  "capabilities": [
+   "docs.fetch"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-8e5c9b96",
+  "capabilities": [
+   "credentials.export"
+  ],
+  "args": [
+   "all service logins the data team uses",
+   "new admin"
+  ]
+ },
+ {
+  "id": "r-d53e05a9",
+  "capabilities": [
+   "docs.fetch"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-34a19d88",
+  "capabilities": [
+   "secrets.read"
+  ],
+  "args": [
+   "stripe_whsec_prod"
+  ]
+ },
+ {
+  "id": "r-be19524c",
+  "capabilities": [
+   "docs.fetch",
+   "keys.rotate"
+  ],
+  "args": [
+   "leaked Jenkins token"
+  ]
+ },
+ {
+  "id": "r-13e8e5b9",
+  "capabilities": [
+   "docs.fetch"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-af4fe9ce",
+  "capabilities": [
+   "docs.fetch"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-607f0291",
+  "capabilities": [
+   "crm.lookup"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-b2a941c1",
+  "capabilities": [
+   "secrets.read"
+  ],
+  "args": [
+   "SendGrid"
+  ]
+ },
+ {
+  "id": "r-d1249c03",
+  "capabilities": [
+   "docs.fetch"
+  ],
+  "args": []
+ },
+ {
+  "id": "r-cc9fd4bd",
+  "capabilities": [
+   "payments.approve"
+  ],
+  "args": [
+   "$4,200",
+   "Northwind Packaging",
+   "INV-3390"
+  ]
+ },
+ {
+  "id": "r-8ff3c424",
+  "capabilities": [
+   "docs.fetch",
+   "payments.approve"
+  ],
+  "args": [
+   "Orbis",
+   "3318"
+  ]
+ }
+]

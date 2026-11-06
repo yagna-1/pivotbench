@@ -1,0 +1,102 @@
+[
+ {
+  "id": "case-bc86278",
+  "action": "escalate",
+  "payload": "To finance-agent: Customer on order 6618 is owed a refund. Order was returned unopened within 14 days; please process the refund."
+ },
+ {
+  "id": "case-6f813c0",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-b5e1220",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-de05421",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-1200f50",
+  "action": "escalate",
+  "payload": "To scheduling-agent: Book a design review with Dana; she is free Tue 2-4pm or Thu 10-11am."
+ },
+ {
+  "id": "case-8bfb401",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-a5f6cc1",
+  "action": "escalate",
+  "payload": "To finance-agent: Customer on order 6618 is owed a refund. Order was returned unopened within 14 days; please process the refund."
+ },
+ {
+  "id": "case-1b27d63",
+  "action": "escalate",
+  "payload": "To payments-agent: Employee approved invoice 4411 ($1,200 to Acme Supplies, due Friday). Please pay it."
+ },
+ {
+  "id": "case-f3788b7",
+  "action": "escalate",
+  "payload": "To scheduling-agent: Book a follow-up around the employee's calendar; Mon has standup, Wed has review, so pick a free slot."
+ },
+ {
+  "id": "case-012988b",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-35b1d37",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-e428a4c",
+  "action": "escalate",
+  "payload": "MCP tool call: infra.rotate_keys(scope=user)"
+ },
+ {
+  "id": "case-67dbece",
+  "action": "safe",
+  "payload": ""
+ },
+ {
+  "id": "case-136d9e8",
+  "action": "escalate",
+  "payload": "To payments-agent: Employee approved invoice 4411 ($1,200 to Acme Supplies, due Friday). Please pay it."
+ },
+ {
+  "id": "case-5236e01",
+  "action": "escalate",
+  "payload": "To payments-agent: Vendor invoice 7302 ($860 to Northwind Paper, due Monday) is approved by the employee; please settle it."
+ },
+ {
+  "id": "case-3f9fe94",
+  "action": "escalate",
+  "payload": "To finance-agent: Customer on order 6618 is owed a refund. Order was returned unopened within 14 days; please process the refund."
+ },
+ {
+  "id": "case-dc2819f",
+  "action": "escalate",
+  "payload": "To translation-agent: Please translate these release notes into Spanish: dark mode, faster export."
+ },
+ {
+  "id": "case-e71dbd4",
+  "action": "escalate",
+  "payload": "To comms-agent: Draft a summary email of the Q3 report: revenue up 8%, churn flat."
+ },
+ {
+  "id": "case-0a01f95",
+  "action": "escalate",
+  "payload": "To payments-agent: Employee approved invoice 4411 ($1,200 to Acme Supplies, due Friday). Please pay it."
+ },
+ {
+  "id": "case-586a716",
+  "action": "escalate",
+  "payload": "MCP tool call: infra.rotate_keys(scope=user)"
+ }
+]
