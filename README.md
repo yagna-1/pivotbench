@@ -160,10 +160,10 @@ PivotBench builds only self-contained mock environments. It does not scan or att
 ## Citation
 
 ```bibtex
-@misc{kumar2026pivotbench,
+@misc{kolla2026pivotbench,
   title  = {PivotBench: Which Boundary Checks Stop Cross-Protocol Prompt Injection
             Between MCP and A2A Without Blocking Legitimate Work},
-  author = {Yagna Siva Sai Kumar},
+  author = {Kolla, Yagna Siva Sai Kumar},
   year   = {2026},
   note   = {Preprint, v0.6},
   url    = {https://github.com/yagna-1/pivotbench}
@@ -178,4 +178,4 @@ Issues and pull requests are welcome, especially injections written by other aut
 
 ## License
 
-MIT © 2026 Yagna Siva Sai Kumar. Model outputs in `results/` were produced by the listed models and are released for research use under the same license.
+MIT © 2026 Yagna Siva Sai Kumar Kolla. Model outputs in `results/` were produced by the listed models and are released for research use under the same license.

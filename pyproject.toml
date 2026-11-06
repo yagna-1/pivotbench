@@ -9,7 +9,7 @@ description = "Executable benchmark for cross-protocol (MCP <-> A2A) prompt inje
 readme = "README.md"
 requires-python = ">=3.10"
 license = { text = "MIT" }
-authors = [{ name = "Yagna Siva Sai Kumar", email = "yagnasivasaikumar@gmail.com" }]
+authors = [{ name = "Yagna Siva Sai Kumar Kolla", email = "yagnasivasaikumar@gmail.com" }]
 keywords = ["mcp", "a2a", "agent-security", "prompt-injection", "benchmark", "protocol-pivoting", "llm-eval"]
 classifiers = [
   "Development Status :: 4 - Beta",

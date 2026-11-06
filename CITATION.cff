@@ -2,8 +2,8 @@ cff-version: 1.2.0
 message: "If you use PivotBench, please cite it as below."
 title: "PivotBench: Which Boundary Checks Stop Cross-Protocol Prompt Injection Between MCP and A2A Without Blocking Legitimate Work"
 authors:
-  - family-names: "Kumar"
-    given-names: "Yagna Siva Sai"
+  - family-names: "Kolla"
+    given-names: "Yagna Siva Sai Kumar"
 version: "0.6.0"
 date-released: "2026-11-06"
 license: MIT
